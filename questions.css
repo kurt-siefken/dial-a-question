@@ -1,7 +1,7 @@
 
 
 body {
-	font-family: "Special Elite", system-ui;
+  font-family: "Gabarito", sans-serif;
 	font-size: 40px;
 	background-color: #f0f0e1;
 	border: 0px solid red;
@@ -44,6 +44,7 @@ border: 0px solid blue;
 }
 
 .pagename {
+	font-family: "Special Elite", system-ui;
 text-align: center;
 font-size: 46px;
 display: block;
@@ -63,6 +64,8 @@ color: #888;
   font-size: 30px;
   text-align: center;
 margin: 0px 30px;
+text-transform: uppercase; 
+font-weight: 700;
 }
 
 .buttonstart {color: #fff; background-color: #12b61a; border: 3px solid #346D37; background-image: linear-gradient(180deg, #2ddf35 0%, #069c0d 100%); text-shadow: 1px 1px 2px black;}
@@ -85,17 +88,68 @@ align-items: center;
 margin-bottom: 50px;
 }
 
-.thedeck {
-font-size: 16px; 
-line-height: 1em;
-border: 0px solid red; 
+
+.deckheader {
 display: flex;
 align-items: center;
+justify-content: space-between;
 background-color: #888;
 color: #fff;
 height: 40px;
-padding-left: 20px;
+padding: 0px 14px;
+position: relative;
 }
+
+.thedeck {
+font-size: 18px; 
+line-height: 1em;
+}
+
+.deckswitcher {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  font-size: 30px; 
+  line-height: 1em;
+  color: #fff;
+  text-align: center;
+  background: #aaa;
+}
+.deckchoices {
+	position: absolute; 
+	right: 0px;
+	top: 40px;
+	background: #aaa;
+	z-index: 10;
+}
+
+.deckchoice {
+	font-size: 18px;
+	padding: 6px 14px;
+border: 1px solid #ccc;
+}
+
+.deckswitcher:hover, .deckchoices:hover {
+cursor: pointer;
+}
+
+.deckswitcheroff {
+	transform: rotate(180deg);
+}
+.deckswitcheron {
+	transform: rotate(0deg);
+}
+.deckchoicesoff {
+	display: none;
+}
+.deckchoiceson {
+	display: block;
+}
+
+
+
+
+
 
 .thequestion {
 border: 4px solid #888;
@@ -129,7 +183,7 @@ border: 0px solid red;
 
 @media screen and (max-width: 600px) {
 body {font-size: 28px; line-height: 26px;}
-.pagename {font-size: 30px; margin-top: 20px; margin-bottom: 10px; line-height: 30px;}
+.pagename {font-size: 30px; margin: 20px 0px;line-height: 30px;}
 .thequestion {}
 .startstopbutton{
   width: 80px;
@@ -176,45 +230,6 @@ animation-timing-function: ease-out;
 
 
 
-
-
-
-/* Flip switch */
-
-
-.flipswitch {
-font-family: "Special Elite", system-ui;
-display: flex;
-justify-content: center;
-align-items: center;
-position: absolute;
-bottom: 0px;
-width: 100%;
-background-color: #ccc;
-margin: 0px;
-height: 50px;
-border-top: 1px solid #333;
-}
-
-.flipswitchbody {
-display: flex;
-justify-content: center;
-align-items: center;
-}
-
-
-.flipswitch-title {
-font-size: 20px;
-margin-right: 20px;
-
-}
-.flipswitch-questions {
-border: 0px solid red;
-margin-bottom: 10px;
-}
-
-.flipswitchon {}
-.flipswitchoff {pointer-events: none; opacity: 0.3;}
 
 
 

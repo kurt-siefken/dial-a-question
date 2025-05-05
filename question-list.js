@@ -74,8 +74,7 @@ RidicQuestion[4] = "What animal would you like to see on rollerskates?";
 RidicQuestion[5] = "If you could run away and join the circus, what circus job would you want?";
 RidicQuestion[6] = "If you had to eat a crayon, what color would you choose?";
 RidicQuestion[7] = "What is a common word that sounds like it could be a swear word?";
-
-
+RidicQuestion[8] = "What is the lowest number you would consider a really big number?";
 
 
 
@@ -203,7 +202,7 @@ PosQuestion[21] = "Why are you a catch?"
 PosQuestion[22] = "What is something you have done that you're proud of?"
 PosQuestion[23] = "What brings you joy?"
 PosQuestion[24] = "What is something tough that you survived?"
-
+PosQuestion[25] = "What is something your 12 year old self would think is cool about you today?"
 
 
 

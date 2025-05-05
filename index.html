@@ -5,7 +5,7 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Special+Elite&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&family=Patrick+Hand&family=Special+Elite&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="questions.css">
 <link rel="icon" type="image/x-icon" href="favicon.png">
 
@@ -27,7 +27,22 @@
 	<div class="pagename">dial a question</div>
 
 
-<div class="thedeck" id="thedeck">Quick Question</div>
+
+<div class="deckheader" id="deckheader" style="position: relative;">
+<div class="thedeck" id="thedeck"><span id="deckid">Quick</span> Questions</div>
+<div class="deckswitcher deckswitcheroff" id="deckswitcher" onclick="openswitcher();">^</div>
+	<div id="deckchoices" class="deckchoices deckchoicesoff">
+		<div class="deckchoice" onclick="switchdeck('Quick')">Quick Questions</div>
+		<div class="deckchoice" onclick="switchdeck('Discussion')">Discussion Questions</div>
+		<div class="deckchoice" onclick="switchdeck('Ridiculous')">Ridiculous Questions</div>
+		<div class="deckchoice" onclick="switchdeck('Positive')">Positive Questions</div>
+		<div class="deckchoice" onclick="switchdeck('Work')">Work Questions</div>
+	</div>
+</div>
+
+
+
+
 
 <div id="thequestion" class="thequestion">
 
@@ -59,25 +74,6 @@
 
 
 
-<div id="flipswitch" class="flipswitch">
-<div id="flipswitchbody" class="flipswitchbody flipswitchon">
-	<div class="flipswitch-title">
-	<label for="questiondeck">Question Deck:</label>
-	</div>
-	<div class="flipswitch-questions">
-	<select name="questiondeck" id="questiondeck">
-	  <option value="Quick">Quick Questions</option>
-	  <option value="Discussion">Discussion Questions</option>
-	  <option value="Ridiculous">Ridiculous Questions</option>
-<!--	  <option value="Kids" disabled>Kids' Questions</option>   --!>
-	  <option value="Alt Rock">'90s Alt Rock Questions</option>
-<!--	  <option value="Movie" disabled>Movie Questions</option>   --!>
-	  <option value="Positive">Positive Questions</option>
-	  <option value="Work">Work Questions</option>
-	</select>
-	</div>
-</div>
-</div>
 
 
 

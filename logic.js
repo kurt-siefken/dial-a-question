@@ -13,42 +13,42 @@ function startwheel() {
 
 	document.getElementById("questionlist").innerHTML = "";
 
-	if (decklist = document.getElementById("questiondeck").value == 'Quick') {
+	if (decklist = document.getElementById("deckid").innerHTML == 'Quick') {
 		shuffle(QuickQuestion);
 		for (let i = 0; i < 3; i++) {
 		QuickQuestion.forEach(creatediv);
 		}	
 	}
 
-	if (decklist = document.getElementById("questiondeck").value == 'Discussion') {
+	if (decklist = document.getElementById("deckid").innerHTML == 'Discussion') {
 		shuffle(DiscQuestion);
 		for (let i = 0; i < 3; i++) {
 		DiscQuestion.forEach(creatediv);
 		}
 	}
 
-	if (decklist = document.getElementById("questiondeck").value == 'Alt Rock') {
+	if (decklist = document.getElementById("deckid").innerHTML == 'Alt Rock') {
 		shuffle(AltRockQuestion);
 		for (let i = 0; i < 3; i++) {
 		AltRockQuestion.forEach(creatediv);
 		}
 	}
 
-	if (decklist = document.getElementById("questiondeck").value == 'Ridiculous') {
+	if (decklist = document.getElementById("deckid").innerHTML == 'Ridiculous') {
 		shuffle(RidicQuestion);
 		for (let i = 0; i < 3; i++) {
 		RidicQuestion.forEach(creatediv);
 		}
 	}
 
-	if (decklist = document.getElementById("questiondeck").value == 'Work') {
+	if (decklist = document.getElementById("deckid").innerHTML == 'Work') {
 		shuffle(WorkQuestion);
 		for (let i = 0; i < 3; i++) {
 		WorkQuestion.forEach(creatediv);
 		}
 	}
 
-	if (decklist = document.getElementById("questiondeck").value == 'Positive') {
+	if (decklist = document.getElementById("deckid").innerHTML == 'Positive') {
 		shuffle(PosQuestion);
 		for (let i = 0; i < 3; i++) {
 		PosQuestion.forEach(creatediv);
@@ -99,28 +99,29 @@ document.getElementById("flipswitchbody").classList.add("flipswitchon");
 
 
 
+function openswitcher() {
+document.getElementById("deckswitcher").classList.toggle("deckswitcheroff");
+document.getElementById("deckswitcher").classList.toggle("deckswitcheron");
+document.getElementById("deckchoices").classList.toggle("deckchoicesoff");
+document.getElementById("deckchoices").classList.toggle("deckchoiceson");
+}
 
 
-window.onload = function() {
 
 
-  const deckElement = document.getElementById("questiondeck");
+function switchdeck(deckvalue) {
 
-  deckElement.addEventListener("change", function() {
-    const deckValue = deckElement.value;
-
-
-document.getElementById("pagebody").className = '';
-document.getElementById("pagebody").classList.add(deckValue.replace(/\s/g, "") + "Questions");
-
-
-		document.getElementById("thedeck").innerHTML = deckValue + " Question";
+	document.getElementById("deckid").innerHTML = deckvalue;
 	document.getElementById("questionlist").innerHTML = "";
 
+	document.getElementById("deckswitcher").classList.toggle("deckswitcheroff");
+	document.getElementById("deckswitcher").classList.toggle("deckswitcheron");
+	document.getElementById("deckchoices").classList.toggle("deckchoicesoff");
+	document.getElementById("deckchoices").classList.toggle("deckchoiceson");
+}
 
-  });
 
-};
+
 
 
 
