@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html style="height: 100%;">
+<head>
+<title>Dial-A-Question</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Special+Elite&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="questions.css">
+
+<script type="text/javascript" src="question-list.js"></script>
+<script type="text/javascript" src="logic.js"></script>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body id="pagebody">
+
+<div class="pagestructure">
+
+<div>
+
+
+
+	<div class="pagename">dial a question</div>
+
+
+<div class="thedeck" id="thedeck">Quick Question</div>
+
+<div id="thequestion" class="thequestion">
+
+	<div id="questionlist"></div>
+</div>
+
+
+
+
+<div class="startstop">
+<div onclick="startwheel();" class="startstopbutton buttonstart" id="startbutton">Start</div>
+<div onclick="stopwheel();"  class="startstopbutton buttonstop stopbuttonon" id="stopbutton">Stop</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+<div id="flipswitch" class="flipswitch">
+<div id="flipswitchbody" class="flipswitchbody flipswitchon">
+	<div class="flipswitch-title">
+	<label for="questiondeck">Question Deck:</label>
+	</div>
+	<div class="flipswitch-questions">
+	<select name="questiondeck" id="questiondeck">
+	  <option value="Quick">Quick Questions</option>
+	  <option value="Discussion">Discussion Questions</option>
+	  <option value="Ridiculous">Ridiculous Questions</option>
+	  <option value="Kids" disabled>Kids' Questions</option>
+	  <option value="Alt Rock">'90s Alt Rock Questions</option>
+	  <option value="Movie" disabled>Movie Questions</option>
+	  <option value="Positive">Positive Questions</option>
+	  <option value="Work">Work Questions</option>
+	</select>
+	</div>
+</div>
+</div>
+
+
+
+
+</body>
+</html>
