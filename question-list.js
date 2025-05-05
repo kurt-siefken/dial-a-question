@@ -29,7 +29,7 @@ QuickQuestion[21] = "Fill in the blank: When I dance, I look ___.";
 QuickQuestion[22] = "What food is the most healthy and delicioius?";
 QuickQuestion[23] = "What streaming service do you use most?";
 QuickQuestion[24] = "How far do you live from where you grew up?";
-
+QuickQuestion[24] = "What do you think of possums?";
 
 
 
@@ -51,7 +51,7 @@ DiscQuestion[10] = "What is a word that you say wrong on purpose because it's fu
 DiscQuestion[11] = "What is something from your childhood that kids today won't understand?";
 DiscQuestion[12] = "What is a word or saying local to the area where you live?";
 DiscQuestion[13] = "When you hear <i>a guy walks into a bar</i> jokes, what kind of bar do you picture?";
-DiscQuestion[14] = "What do you think of possums?";
+DiscQuestion[23] = "When you go on vacation, are you an overplanner, or do you go with the flow?";
 DiscQuestion[15] = "When you think about school lunch, what do you think of?";
 DiscQuestion[16] = "What is a word you mispronounced for a long time?";
 DiscQuestion[17] = "What is something in popular culture that you just don't get?";
@@ -60,7 +60,7 @@ DiscQuestion[19] = "What is a recurring dream that you have?";
 DiscQuestion[20] = "What would a perfect vacation look like to you?";
 DiscQuestion[21] = "You have to go on a tv game show. What show do you choose?";
 DiscQuestion[22] = "What's something seemingly simple that blows your mind?";
-DiscQuestion[23] = "When you go on vacation, are you an overplanner, or do you just go with whatever?";
+
 
 
 
@@ -199,3 +199,13 @@ PosQuestion[17] = "What makes you feel safe?"
 PosQuestion[18] = "What is something you are genuinely good at?"
 PosQuestion[19] = "What is a memorable micro-interaction you've had with a stranger?"
 PosQuestion[20] = "What do you contribute to the world?"
+PosQuestion[21] = "Why are you a catch?"
+PosQuestion[22] = "What is something you have done that you're proud of?"
+PosQuestion[23] = "What brings you joy?"
+PosQuestion[24] = "What is something tough that you survived?"
+
+
+
+
+
+
