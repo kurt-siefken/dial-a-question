@@ -27,12 +27,6 @@ function startwheel() {
 		}
 	}
 
-	if (decklist = document.getElementById("deckid").innerHTML == 'Alt Rock') {
-		shuffle(AltRockQuestion);
-		for (let i = 0; i < 3; i++) {
-		AltRockQuestion.forEach(creatediv);
-		}
-	}
 
 	if (decklist = document.getElementById("deckid").innerHTML == 'Ridiculous') {
 		shuffle(RidicQuestion);
@@ -63,10 +57,10 @@ function startwheel() {
 
 document.getElementById("questionlist").classList.remove("stopanimation"); 
 document.getElementById("questionlist").classList.add("startanimation");
-document.getElementById("startbutton").classList.add("startbuttonon");
-document.getElementById("stopbutton").classList.remove("stopbuttonon");
-document.getElementById("flipswitchbody").classList.add("flipswitchoff");
-document.getElementById("flipswitchbody").classList.remove("flipswitchon");
+
+buttonstopactive();
+buttonstartdeactive();
+document.getElementById("deckswitcher").style.display = 'none';
 }
 
 
@@ -74,12 +68,8 @@ document.getElementById("flipswitchbody").classList.remove("flipswitchon");
 
 
 function creatediv(questionnumber) {
-
-document.getElementById("questionlist").innerHTML += "<div><p>" + questionnumber + "</p></div>";
-
+	document.getElementById("questionlist").innerHTML += "<div><p>" + questionnumber + "</p></div>";
 }
-
-
 
 
 
@@ -87,14 +77,16 @@ document.getElementById("questionlist").innerHTML += "<div><p>" + questionnumber
 
 
 function stopwheel() {
-document.getElementById("questionlist").classList.remove("startanimation");
-document.getElementById("questionlist").classList.add("stopanimation");
-document.getElementById("startbutton").classList.remove("startbuttonon");
-document.getElementById("stopbutton").classList.add("stopbuttonon");
-document.getElementById("flipswitchbody").classList.remove("flipswitchoff");
-document.getElementById("flipswitchbody").classList.add("flipswitchon");
+	document.getElementById("questionlist").classList.remove("startanimation");
+	document.getElementById("questionlist").classList.add("stopanimation");
 
+	buttonstartactive();
+	buttonstopdeactive();
+document.getElementById("deckswitcher").style.display = 'block';
 }
+
+
+
 
 
 
@@ -104,6 +96,16 @@ document.getElementById("deckswitcher").classList.toggle("deckswitcheroff");
 document.getElementById("deckswitcher").classList.toggle("deckswitcheron");
 document.getElementById("deckchoices").classList.toggle("deckchoicesoff");
 document.getElementById("deckchoices").classList.toggle("deckchoiceson");
+
+
+if (document.getElementById("deckswitcher").classList.contains('deckswitcheroff')) {
+  buttonstartactive();
+} else {
+buttonstartdeactive();
+}
+
+
+
 }
 
 
@@ -118,6 +120,9 @@ function switchdeck(deckvalue) {
 	document.getElementById("deckswitcher").classList.toggle("deckswitcheron");
 	document.getElementById("deckchoices").classList.toggle("deckchoicesoff");
 	document.getElementById("deckchoices").classList.toggle("deckchoiceson");
+
+buttonstartactive();
+buttonstopdeactive();
 }
 
 
@@ -126,8 +131,17 @@ function switchdeck(deckvalue) {
 
 
 
-
-
-
+function buttonstartactive() {
+	document.getElementById("startbutton").classList.remove("startbuttonon");
+}
+function buttonstartdeactive() {
+	document.getElementById("startbutton").classList.add("startbuttonon");
+}
+function buttonstopactive() {
+	document.getElementById("stopbutton").classList.remove("stopbuttonon");
+}
+function buttonstopdeactive() {
+	document.getElementById("stopbutton").classList.add("stopbuttonon");
+}
 
 

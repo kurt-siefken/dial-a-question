@@ -51,7 +51,7 @@ DiscQuestion[10] = "What is a word that you say wrong on purpose because it's fu
 DiscQuestion[11] = "What is something from your childhood that kids today won't understand?";
 DiscQuestion[12] = "What is a word or saying local to the area where you live?";
 DiscQuestion[13] = "When you hear <i>a guy walks into a bar</i> jokes, what kind of bar do you picture?";
-DiscQuestion[23] = "When you go on vacation, are you an overplanner, or do you go with the flow?";
+DiscQuestion[14] = "When you go on vacation, are you an overplanner, or do you go with the flow?";
 DiscQuestion[15] = "When you think about school lunch, what do you think of?";
 DiscQuestion[16] = "What is a word you mispronounced for a long time?";
 DiscQuestion[17] = "What is something in popular culture that you just don't get?";
@@ -75,51 +75,11 @@ RidicQuestion[5] = "If you could run away and join the circus, what circus job w
 RidicQuestion[6] = "If you had to eat a crayon, what color would you choose?";
 RidicQuestion[7] = "What is a common word that sounds like it could be a swear word?";
 RidicQuestion[8] = "What is the lowest number you would consider a really big number?";
+RidicQuestion[9] = "If a giraffe joined your band, what instrument would they play?";
+RidicQuestion[10] = "You won a free session to fly an airplane banner. What message will it say?";
+RidicQuestion[11] = "If you could give your echo a different accent, what accent would you give it?";
+RidicQuestion[12] = "Your obituary says you died in the stupidest way ever. How did you die?";
 
-
-
-
-const AltRockQuestion = [];
-
-AltRockQuestion[0] = "What one song best explains the '90s alt rock era?";
-AltRockQuestion[1] = "What bands' shirt(s) did you own? What was your favorite?";
-AltRockQuestion[2] = "What '90s band do you think deserved more respect?";
-AltRockQuestion[3] = "What '90s band had the stupidest band name?";
-AltRockQuestion[4] = "What was your first cd?"
-AltRockQuestion[5] = "What band could you mention that makes people say <i>I totally forgot about them!</i>?"
-AltRockQuestion[6] = "What '90s movie had the best soundtrack?"
-AltRockQuestion[7] = "What '80s band had a huge influence on '90s rock?"
-AltRockQuestion[8] = "You're in a kick-ass dad-rock band! What '90s song are you going to cover?"
-AltRockQuestion[9] = "What '90s alt rock song got you through the hard times?"
-AltRockQuestion[10] = "What '90s alt rock band went on to have the most surprising career?"
-AltRockQuestion[11] = "What is the best sub-genre of '90s alt rock?";
-AltRockQuestion[12] = "Had Kurt Cobain survived, what would the future of Nirvana sound like?";
-AltRockQuestion[13] = "Had Shannon Hoon survived, what would the future of Blind Melon sound like?";
-AltRockQuestion[14] = "What is the best Christmas or holiday song by a '90s band?"
-AltRockQuestion[15] = "What band or artist always had interesting lyrics?"
-AltRockQuestion[16] = "What cover art from the '90s stands out to you?"
-AltRockQuestion[17] = "How would the '90s be different if we had Spotify?"
-AltRockQuestion[18] = "What album from the '90s is the best from start to finish, with no skips?"
-AltRockQuestion[19] = "You can play one song that will unite humanity. What song do you choose?"
-AltRockQuestion[20] = "The '90s swing era: cool or cringe?"
-AltRockQuestion[21] = "What '90s band would you like to see reunite?"
-AltRockQuestion[22] = "What's a <i>terrible</i> song that you can't understand why it became popular?"
-AltRockQuestion[23] = "What's a <i>great</i> song but you can't understand why it became popular?"
-AltRockQuestion[24] = "What was your favorite music video?"
-AltRockQuestion[25] = "What song from the '90s are you embarrassed to admit that you actually like?"
-AltRockQuestion[26] = "What was your first concert?"
-AltRockQuestion[27] = "Who was your '90s alt rock crush?"
-AltRockQuestion[28] = "What recent song would fit right into the '90s alt rock scene?"
-AltRockQuestion[29] = "What '90s alt rock song will always be a banger?"
-AltRockQuestion[30] = "What band would you really like see a behind the scenes documentary about?"
-AltRockQuestion[31] = "What is the saddest song of the '90s?"
-AltRockQuestion[32] = "Spoken word: Cool or not cool?"
-AltRockQuestion[33] = "REM or U2?"
-AltRockQuestion[34] = "What song can you, your parents, and your kids all agree on?"
-AltRockQuestion[35] = "Weezer's blue album cover: cool or awful?"
-AltRockQuestion[36] = "Offspring or Green Day?"
-AltRockQuestion[37] = "What was the best grunge band?"
-AltRockQuestion[38] = "Lollapalooza or Warped Tour?"
 
 
 
@@ -146,7 +106,7 @@ WorkQuestion[1] = "If you had to email the CEO an emoji right now, what would it
 WorkQuestion[2] = "Be honest... Have you ever attended a conference call in your pajamas?"
 WorkQuestion[3] = "How has AI impacted your job?"
 WorkQuestion[4] = "What's the most mundane part of your job?"
-WorkQuestion[5] = "What would you do if a co-worker inexplicably showed up to a zoom call in a Spiderman mask?"
+WorkQuestion[5] = "Would you say anything if a co-worker inexplicably joined a large zoom call in a Spiderman mask?"
 WorkQuestion[6] = "If you work from home, what do you do with your saved commute time?"
 WorkQuestion[7] = "Do you know your company's motto?"
 WorkQuestion[8] = "How do you decompress after a particularly hard day at work?"

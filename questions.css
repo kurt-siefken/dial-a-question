@@ -34,7 +34,6 @@ justify-content: center;
 align-items: center;
 border: 0px solid green;
 height: 100%;
-color: #1b407d;
 }
 
 .pagestructure > div {
@@ -70,12 +69,12 @@ font-weight: 700;
 
 .buttonstart {color: #fff; background-color: #12b61a; border: 3px solid #346D37; background-image: linear-gradient(180deg, #2ddf35 0%, #069c0d 100%); text-shadow: 1px 1px 2px black;}
 .buttonstop {color: #fff; background-color: red; border: 3px solid #8C3737;  background-image: linear-gradient(180deg, #ea0d0d 0%, #8c3737 100%);  text-shadow: 1px 1px 2px black;}
-.buttonstart:hover {background-color: #346D37;}
-.buttonstop:hover {background-color: #8C3737;}
+.buttonstart:hover {background-image: linear-gradient(180deg, #2ddf35 0%, darkgreen 100%);}
+.buttonstop:hover {background-image: linear-gradient(180deg, #e70e0e 0%, #641818 100%);}
 
 .startbuttonon {background-color: #346D37; pointer-events: none; background-image: none; text-shadow: none;}
 .stopbuttonon {background-color: #8C3737; pointer-events: none;  background-image: none; text-shadow: none;}
-
+.stopbuttonon > span, .startbuttonon > span {opacity: .6}
 
 
 
@@ -126,7 +125,11 @@ line-height: 1em;
 .deckchoice {
 	font-size: 18px;
 	padding: 6px 14px;
-border: 1px solid #ccc;
+	border: 1px solid #ccc;
+}
+
+.deckchoice:hover {
+background-color: #1b407d;
 }
 
 .deckswitcher:hover, .deckchoices:hover {
@@ -159,6 +162,7 @@ height: 100px;
 margin: 0px;
 border-top: 0px;
 margin-bottom: 30px;
+
 }
 
 #questionlist {
@@ -169,6 +173,7 @@ position: relative;
 text-align: center;
 width: 95%;
 margin: auto;
+color: #1b407d;
 }
 
 #questionlist div {
@@ -183,7 +188,7 @@ border: 0px solid red;
 
 @media screen and (max-width: 600px) {
 body {font-size: 28px; line-height: 26px;}
-.pagename {font-size: 30px; margin: 20px 0px;line-height: 30px;}
+.pagename {font-size: 30px; margin: 20px 0px 30px 0px; line-height: 30px;}
 .thequestion {}
 .startstopbutton{
   width: 80px;
