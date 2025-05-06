@@ -1,3 +1,8 @@
+setTimeout(function(){
+    document.body.className="";
+},500);
+
+
 function shuffle(array) {
     for (var i = array.length - 1; i > 0; i--) {
         var j = Math.floor(Math.random() * (i + 1));
@@ -60,7 +65,7 @@ document.getElementById("questionlist").classList.add("startanimation");
 
 buttonstopactive();
 buttonstartdeactive();
-document.getElementById("deckswitcher").style.display = 'none';
+document.getElementById("deckswitcher").style.visibility = 'hidden';
 }
 
 
@@ -82,7 +87,7 @@ function stopwheel() {
 
 	buttonstartactive();
 	buttonstopdeactive();
-document.getElementById("deckswitcher").style.display = 'block';
+	document.getElementById("deckswitcher").style.visibility = 'visible';
 }
 
 

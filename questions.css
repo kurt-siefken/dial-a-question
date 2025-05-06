@@ -1,4 +1,7 @@
-
+body.preload *{
+animation-duration: 0s !important;
+-webkit-animation-duration: 0s !important;
+transition:background-color 0s, opacity 0s, color 0s, width 0s, height 0s, padding 0s, margin 0s !important;}
 
 body {
   font-family: "Gabarito", sans-serif;
@@ -51,6 +54,7 @@ line-height: 60px;
 margin-bottom: 30px;
 text-transform: lowercase; 
 color: #888;
+margin-bottom: 40px;
 }
 
 
@@ -84,7 +88,7 @@ display: flex;
 width: 100%;
 justify-content: center;
 align-items: center;
-margin-bottom: 50px;
+margin-top: 40px;
 }
 
 
@@ -138,9 +142,14 @@ cursor: pointer;
 
 .deckswitcheroff {
 	transform: rotate(180deg);
+  	animation-name: rotatemeup;
+  	animation-duration: .3s;
 }
 .deckswitcheron {
 	transform: rotate(0deg);
+  	animation-name: rotatemedown;
+  	animation-duration: .3s;
+	background: #1b407d;
 }
 .deckchoicesoff {
 	display: none;
@@ -240,10 +249,16 @@ animation-timing-function: ease-out;
 
 
 
-
-#questiondeck {
-padding: 6px;
+@keyframes rotatemedown {
+  from {transform: rotate(180deg); background: #aaa;}
+  to {transform: rotate(0deg); background: #1b407d;}
 }
+
+@keyframes rotatemeup {
+  from {transform: rotate(0deg);  background: #1b407d;}
+  to {transform: rotate(180deg); background: #aaa;}
+}
+
 
 
 

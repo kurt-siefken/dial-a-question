@@ -30,7 +30,7 @@ QuickQuestion[22] = "What food is the most healthy and delicioius?";
 QuickQuestion[23] = "What streaming service do you use most?";
 QuickQuestion[24] = "How far do you live from where you grew up?";
 QuickQuestion[24] = "What do you think of possums?";
-
+QuickQuestion[25] = "What do you think when people give their pets human names?";
 
 
 
@@ -43,10 +43,10 @@ DiscQuestion[2] = "What is something kind that a stranger has done for you?";
 DiscQuestion[3] = "What is a small part of your life that you really enjoy?";
 DiscQuestion[4] = "If you had to give a half hour talk right now, what could you talk about?";
 DiscQuestion[5] = "What is something you hated as a kid, but love now?";
-DiscQuestion[6] = "What would look really cool if it was made out of legos?";
+DiscQuestion[6] = "What is a country whose name you know, but have no idea where it is?";
 DiscQuestion[7] = "What's an annoying pet peeve that you have?";
 DiscQuestion[8] = "What's a quality in someone that makes you respect them instantly?";
-DiscQuestion[9] = "What's a show or movie that, whenever it's on tv, you always stop and watch it?";
+DiscQuestion[9] = "What's a show or movie that you always stop to watch when its on tv?";
 DiscQuestion[10] = "What is a word that you say wrong on purpose because it's funny?";
 DiscQuestion[11] = "What is something from your childhood that kids today won't understand?";
 DiscQuestion[12] = "What is a word or saying local to the area where you live?";
@@ -60,6 +60,11 @@ DiscQuestion[19] = "What is a recurring dream that you have?";
 DiscQuestion[20] = "What would a perfect vacation look like to you?";
 DiscQuestion[21] = "You have to go on a tv game show. What show do you choose?";
 DiscQuestion[22] = "What's something seemingly simple that blows your mind?";
+DiscQuestion[23] = "If you could magically make one food healthy, what food would you choose?";
+
+
+
+
 
 
 
@@ -76,16 +81,16 @@ RidicQuestion[6] = "If you had to eat a crayon, what color would you choose?";
 RidicQuestion[7] = "What is a common word that sounds like it could be a swear word?";
 RidicQuestion[8] = "What is the lowest number you would consider a really big number?";
 RidicQuestion[9] = "If a giraffe joined your band, what instrument would they play?";
-RidicQuestion[10] = "You won a free session to fly an airplane banner. What message will it say?";
-RidicQuestion[11] = "If you could give your echo a different accent, what accent would you give it?";
+RidicQuestion[10] = "You won a free session to fly an airplane banner. What will the message say?";
+RidicQuestion[11] = "If your echo spoke a different language, what language would you choose?";
 RidicQuestion[12] = "Your obituary says you died in the stupidest way ever. How did you die?";
-
-
-
-
-
-
-
+RidicQuestion[12] = "From now on, you can only speak in rhyme. How are you ordering dinner?";
+RidicQuestion[13] = "If you could text former president Millard Fillmore, what would you say to him?";
+RidicQuestion[14] = "What animal would be least intimidating as a sports team mascot?";
+RidicQuestion[15] = "If potato chips were currency, what flavor would be the highest denomination?";
+RidicQuestion[16] = "What do you wish you had a coupon for?";
+RidicQuestion[17] = "If you could make one object out of legos then turn it real, what would you make?";
+RidicQuestion[18] = "Every time you greet someone, you make a sound effect. What sound do you choose?";
 
 
 
