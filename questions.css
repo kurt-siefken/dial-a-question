@@ -95,7 +95,7 @@ margin-top: 40px;
 .deckheader {
 display: flex;
 align-items: center;
-justify-content: space-between;
+justify-content: flex-start;
 background-color: #888;
 color: #fff;
 height: 40px;
@@ -117,10 +117,11 @@ line-height: 1em;
   color: #fff;
   text-align: center;
   background: #aaa;
+margin-right: 15px;
 }
 .deckchoices {
 	position: absolute; 
-	right: 0px;
+	left: 0px;
 	top: 40px;
 	background: #aaa;
 	z-index: 10;

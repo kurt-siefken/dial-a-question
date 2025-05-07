@@ -52,7 +52,7 @@ DiscQuestion[11] = "What is something from your childhood that kids today won't 
 DiscQuestion[12] = "What is a word or saying local to the area where you live?";
 DiscQuestion[13] = "When you hear <i>a guy walks into a bar</i> jokes, what kind of bar do you picture?";
 DiscQuestion[14] = "When you go on vacation, are you an overplanner, or do you go with the flow?";
-DiscQuestion[15] = "When you think about school lunch, what do you think of?";
+DiscQuestion[15] = "When you hear the words <i>school lunch</i>, what do you think of?";
 DiscQuestion[16] = "What is a word you mispronounced for a long time?";
 DiscQuestion[17] = "What is something in popular culture that you just don't get?";
 DiscQuestion[18] = "What is something everyone should experience at least once?";
@@ -61,9 +61,9 @@ DiscQuestion[20] = "What would a perfect vacation look like to you?";
 DiscQuestion[21] = "You have to go on a tv game show. What show do you choose?";
 DiscQuestion[22] = "What's something seemingly simple that blows your mind?";
 DiscQuestion[23] = "If you could magically make one food healthy, what food would you choose?";
-
-
-
+DiscQuestion[24] = "What's a good old-timey name you don't hear any more?";
+DiscQuestion[25] = "What is something that makes you think <i>How did nature make that</i>?";
+DiscQuestion[26] = "What do you find inherently funny?";
 
 
 
@@ -79,22 +79,22 @@ RidicQuestion[4] = "What animal would you like to see on rollerskates?";
 RidicQuestion[5] = "If you could run away and join the circus, what circus job would you want?";
 RidicQuestion[6] = "If you had to eat a crayon, what color would you choose?";
 RidicQuestion[7] = "What is a common word that sounds like it could be a swear word?";
-RidicQuestion[8] = "What is the lowest number you would consider a really big number?";
+RidicQuestion[8] = "Every time you greet someone, you make a sound effect. What sound do you choose?";
 RidicQuestion[9] = "If a giraffe joined your band, what instrument would they play?";
 RidicQuestion[10] = "You won a free session to fly an airplane banner. What will the message say?";
-RidicQuestion[11] = "If your echo spoke a different language, what language would you choose?";
+RidicQuestion[11] = "If you spoke with a different accent while on the phone, what accent would you choose?";
 RidicQuestion[12] = "Your obituary says you died in the stupidest way ever. How did you die?";
 RidicQuestion[12] = "From now on, you can only speak in rhyme. How are you ordering dinner?";
 RidicQuestion[13] = "If you could text former president Millard Fillmore, what would you say to him?";
-RidicQuestion[14] = "What animal would be least intimidating as a sports team mascot?";
+RidicQuestion[14] = "What animal would be worst sports team mascot?";
 RidicQuestion[15] = "If potato chips were currency, what flavor would be the highest denomination?";
 RidicQuestion[16] = "What do you wish you had a coupon for?";
 RidicQuestion[17] = "If you could make one object out of legos then turn it real, what would you make?";
-RidicQuestion[18] = "Every time you greet someone, you make a sound effect. What sound do you choose?";
-
-
-
-
+RidicQuestion[18] = "What would be the biggest challenge of living inside a giant mailbox?";
+RidicQuestion[19] = "A cactus wants to know what it feels like to be hugged. What do you do?";
+RidicQuestion[20] = "You can replace the ball in any sport with a fruit. What ball and fruit do you choose?";
+RidicQuestion[21] = "On a scale of 1 - 10, how cool is your postal carrier?";
+RidicQuestion[22] = "If there was one more verse in <i>The 12 Days of Christmas</i>, what would there be 13 of?";
 
 
 
@@ -126,7 +126,7 @@ WorkQuestion[16] = "What is a work skill that you admire in other people?"
 WorkQuestion[17] = "How do you take a break while working from home?"
 WorkQuestion[18] = "What is some office lingo that you find funny?"
 WorkQuestion[19] = "What did you want to be when you grew up, and what do you do now?"
-WorkQuestion[20] = "What would you do if you had a 3-month paid sabbatical?"
+WorkQuestion[20] = "What would you do if you had a 3 month paid sabbatical?"
 WorkQuestion[21] = "You fall asleep in a work meeting. What are you dreaming about?"
 WorkQuestion[22] = "Your entire department is coming to your house for dinner. What are you cooking? (No takeout!)"
 WorkQuestion[23] = "How much do you use LinkedIn?"
