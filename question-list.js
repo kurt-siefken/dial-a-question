@@ -22,16 +22,16 @@ QuickQuestion[14] = "What is your guilty pleasure food?";
 QuickQuestion[15] = "What was the last movie or show you really got into?";
 QuickQuestion[16] = "What store can you spend a lot of time just looking around?";
 QuickQuestion[17] = "What is your favorite non-alcoholic drink?";
-QuickQuestion[18] = "If you had a million dollars to donate to charity, which charity would you choose?";
+QuickQuestion[18] = "If you had a million dollars to donate to charity, which cause would you choose?";
 QuickQuestion[19] = "What is hanging on your refrigerator door?";
 QuickQuestion[20] = "How many Taylor Swift songs can you name?";
 QuickQuestion[21] = "Fill in the blank: When I dance, I look ___.";
-QuickQuestion[22] = "What food is the most healthy and delicioius?";
+QuickQuestion[22] = "What food has the most delicious food that is also healthy?";
 QuickQuestion[23] = "What streaming service do you use most?";
 QuickQuestion[24] = "How far do you live from where you grew up?";
 QuickQuestion[24] = "What do you think of possums?";
 QuickQuestion[25] = "What do you think when people give their pets human names?";
-
+QuickQuestion[26] = "What's the best kind of pie?";
 
 
 
@@ -57,14 +57,14 @@ DiscQuestion[16] = "What is a word you mispronounced for a long time?";
 DiscQuestion[17] = "What is something in popular culture that you just don't get?";
 DiscQuestion[18] = "What is something everyone should experience at least once?";
 DiscQuestion[19] = "What is a recurring dream that you have?";
-DiscQuestion[20] = "What would a perfect vacation look like to you?";
+DiscQuestion[20] = "What would a perfect vacation day look like to you?";
 DiscQuestion[21] = "You have to go on a tv game show. What show do you choose?";
 DiscQuestion[22] = "What's something seemingly simple that blows your mind?";
 DiscQuestion[23] = "If you could magically make one food healthy, what food would you choose?";
 DiscQuestion[24] = "What's a good old-timey name you don't hear any more?";
 DiscQuestion[25] = "What is something that makes you think <i>How did nature make that</i>?";
 DiscQuestion[26] = "What do you find inherently funny?";
-
+DiscQuestion[27] = "How good are you at social media?"
 
 
 
@@ -95,7 +95,7 @@ RidicQuestion[19] = "A cactus wants to know what it feels like to be hugged. Wha
 RidicQuestion[20] = "You can replace the ball in any sport with a fruit. What ball and fruit do you choose?";
 RidicQuestion[21] = "On a scale of 1 - 10, how cool is your postal carrier?";
 RidicQuestion[22] = "If there was one more verse in <i>The 12 Days of Christmas</i>, what would there be 13 of?";
-
+RidicQuestion[23] = "What movie should be remade using muppets?";
 
 
 
@@ -106,9 +106,9 @@ RidicQuestion[22] = "If there was one more verse in <i>The 12 Days of Christmas<
 
 const WorkQuestion = [];
 
-WorkQuestion[0] = "What month should have a holiday?"
+WorkQuestion[0] = "You get to add an extra holiday to the company calendar. Where do you put it?"
 WorkQuestion[1] = "If you had to email the CEO an emoji right now, what would it be?"
-WorkQuestion[2] = "Be honest... Have you ever attended a conference call in your pajamas?"
+WorkQuestion[2] = "Have you ever attended a conference call in your pajamas?"
 WorkQuestion[3] = "How has AI impacted your job?"
 WorkQuestion[4] = "What's the most mundane part of your job?"
 WorkQuestion[5] = "Would you say anything if a co-worker inexplicably joined a large zoom call in a Spiderman mask?"
@@ -119,9 +119,9 @@ WorkQuestion[9] = "What coworker would you like to swap jobs with for a day?"
 WorkQuestion[10] = "How many cups of coffee do you drink on an average day?"
 WorkQuestion[11] = "How messy is your workspace?"
 WorkQuestion[12] = "How many sticky notes do you have posted around your office?"
-WorkQuestion[13] = "How good are you at social media?"
+WorkQuestion[13] = "What energizes you at work?"
 WorkQuestion[14] = "What's your best story while traveling for work?"
-WorkQuestion[15] = "What's a skill that's not necessarly work related that has helped you at your job?"
+WorkQuestion[15] = "What's a skill that's not necessarly work related but has helped you at your job?"
 WorkQuestion[16] = "What is a work skill that you admire in other people?"
 WorkQuestion[17] = "How do you take a break while working from home?"
 WorkQuestion[18] = "What is some office lingo that you find funny?"
@@ -129,11 +129,11 @@ WorkQuestion[19] = "What did you want to be when you grew up, and what do you do
 WorkQuestion[20] = "What would you do if you had a 3 month paid sabbatical?"
 WorkQuestion[21] = "You fall asleep in a work meeting. What are you dreaming about?"
 WorkQuestion[22] = "Your entire department is coming to your house for dinner. What are you cooking? (No takeout!)"
-WorkQuestion[23] = "How much do you use LinkedIn?"
+WorkQuestion[23] = "How often do you use LinkedIn?"
 WorkQuestion[24] = "What coworker, past or present, have you learned the most from?"
 WorkQuestion[25] = "What is something at work that immediately puts you in a bad mood?"
-WorkQuestion[26] = "What is a non-monetary reward at work that makes you feel good?"
-WorkQuestion[27] = "What energizes you at work?"
+WorkQuestion[26] = "What is a non-monetary reward at work that makes you feel appreciated?"
+WorkQuestion[27] = "You are in charge of your company's float in a large parade. What does it look like?"
 
 
 
