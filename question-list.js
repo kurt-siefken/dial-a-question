@@ -25,13 +25,13 @@ QuickQuestion[17] = "What is your favorite non-alcoholic drink?";
 QuickQuestion[18] = "If you had a million dollars to donate to charity, which cause would you choose?";
 QuickQuestion[19] = "What is hanging on your refrigerator door?";
 QuickQuestion[20] = "How many Taylor Swift songs can you name?";
-QuickQuestion[21] = "Fill in the blank: When I dance, I look ___.";
-QuickQuestion[22] = "What food has the most delicious food that is also healthy?";
+QuickQuestion[21] = "Fill in the blank: When I dance, I look a ___.";
+QuickQuestion[22] = "What food is the most delicious food, and is also healthy?";
 QuickQuestion[23] = "What streaming service do you use most?";
 QuickQuestion[24] = "How far do you live from where you grew up?";
-QuickQuestion[24] = "What do you think of possums?";
-QuickQuestion[25] = "What do you think when people give their pets human names?";
-QuickQuestion[26] = "What's the best kind of pie?";
+QuickQuestion[25] = "What do you think of possums?";
+QuickQuestion[26] = "What do you think when people give their pets human names?";
+QuickQuestion[27] = "What's the best kind of pie?";
 
 
 
@@ -65,6 +65,7 @@ DiscQuestion[24] = "What's a good old-timey name you don't hear any more?";
 DiscQuestion[25] = "What is something that makes you think <i>How did nature make that</i>?";
 DiscQuestion[26] = "What do you find inherently funny?";
 DiscQuestion[27] = "How good are you at social media?"
+DiscQuestion[28] = "What is a life skill they should teach you in school?"
 
 
 
@@ -96,7 +97,7 @@ RidicQuestion[20] = "You can replace the ball in any sport with a fruit. What ba
 RidicQuestion[21] = "On a scale of 1 - 10, how cool is your postal carrier?";
 RidicQuestion[22] = "If there was one more verse in <i>The 12 Days of Christmas</i>, what would there be 13 of?";
 RidicQuestion[23] = "What movie should be remade using muppets?";
-
+RidicQuestion[24] = "Do you have good weather luck when it comes to doing things outside?";
 
 
 
@@ -134,7 +135,8 @@ WorkQuestion[24] = "What coworker, past or present, have you learned the most fr
 WorkQuestion[25] = "What is something at work that immediately puts you in a bad mood?"
 WorkQuestion[26] = "What is a non-monetary reward at work that makes you feel appreciated?"
 WorkQuestion[27] = "You are in charge of your company's float in a large parade. What does it look like?"
-
+WorkQuestion[28] = "What is your <i>I need to power through</i> snack?"
+WorkQuestion[29] = "If you were an octopus, what would you do with your 6 other arms while at your computer?"
 
 
 
