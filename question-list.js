@@ -32,7 +32,7 @@ QuickQuestion[24] = "How far do you live from where you grew up?";
 QuickQuestion[25] = "What do you think of possums?";
 QuickQuestion[26] = "What do you think when people give their pets human names?";
 QuickQuestion[27] = "What's the best kind of pie?";
-
+QuickQuestion[28] = "Which is better: bar soap or liquid soap?"
 
 
 const DiscQuestion = [];
@@ -44,7 +44,7 @@ DiscQuestion[3] = "What is a small part of your life that you really enjoy?";
 DiscQuestion[4] = "If you had to give a half hour talk right now, what could you talk about?";
 DiscQuestion[5] = "What is something you hated as a kid, but love now?";
 DiscQuestion[6] = "What is a country whose name you know, but have no idea where it is?";
-DiscQuestion[7] = "What's an annoying pet peeve that you have?";
+DiscQuestion[7] = "What's a pet peeve you find particularly annoying?";
 DiscQuestion[8] = "What's a quality in someone that makes you respect them instantly?";
 DiscQuestion[9] = "What's a show or movie that you always stop to watch when its on tv?";
 DiscQuestion[10] = "What is a word that you say wrong on purpose because it's funny?";
@@ -170,7 +170,7 @@ PosQuestion[22] = "What is something you have done that you're proud of?"
 PosQuestion[23] = "What brings you joy?"
 PosQuestion[24] = "What is something tough that you survived?"
 PosQuestion[25] = "What is something your 12 year old self would think is cool about you today?"
-
+PosQuestion[26] = "Who is someone that thinks highly of you?"
 
 
 
