@@ -9,7 +9,6 @@ QuickQuestion[2] = "Where have you been that you really want to return to?";
 QuickQuestion[3] = "What wild animal would you like to keep as a pet?";
 QuickQuestion[4] = "Where is the coolest place you've been on vacation?";
 QuickQuestion[5] = "What is your favorite article of clothing you own?";
-QuickQuestion[6] = "What is your breakfast food of choice?";
 QuickQuestion[6] = "What wild animal would you be terrified to face?";
 QuickQuestion[7] = "What subject could you ace on Jeopardy?";
 QuickQuestion[8] = "What is a place you've always wanted to visit?";
@@ -33,6 +32,9 @@ QuickQuestion[25] = "What do you think of possums?";
 QuickQuestion[26] = "What do you think when people give their pets human names?";
 QuickQuestion[27] = "What's the best kind of pie?";
 QuickQuestion[28] = "Which is better: bar soap or liquid soap?"
+QuickQuestion[29] = "What is your breakfast food of choice?";
+
+
 
 
 const DiscQuestion = [];
@@ -51,7 +53,7 @@ DiscQuestion[10] = "What is a word that you say wrong on purpose because it's fu
 DiscQuestion[11] = "What is something from your childhood that kids today won't understand?";
 DiscQuestion[12] = "What is a word or saying local to the area where you live?";
 DiscQuestion[13] = "When you hear <i>a guy walks into a bar</i> jokes, what kind of bar do you picture?";
-DiscQuestion[14] = "When you go on vacation, are you an overplanner, or do you go with the flow?";
+DiscQuestion[14] = "When you go on vacation, are you an overplanner? Or do you go with the flow?";
 DiscQuestion[15] = "When you hear the words <i>school lunch</i>, what do you think of?";
 DiscQuestion[16] = "What is a word you mispronounced for a long time?";
 DiscQuestion[17] = "What is something in popular culture that you just don't get?";
@@ -85,7 +87,6 @@ RidicQuestion[9] = "If a giraffe joined your band, what instrument would they pl
 RidicQuestion[10] = "You won a free session to fly an airplane banner. What will the message say?";
 RidicQuestion[11] = "If you spoke with a different accent while on the phone, what accent would you choose?";
 RidicQuestion[12] = "Your obituary says you died in the stupidest way ever. How did you die?";
-RidicQuestion[12] = "From now on, you can only speak in rhyme. How are you ordering dinner?";
 RidicQuestion[13] = "If you could text former president Millard Fillmore, what would you say to him?";
 RidicQuestion[14] = "What animal would be worst sports team mascot?";
 RidicQuestion[15] = "If potato chips were currency, what flavor would be the highest denomination?";
@@ -96,11 +97,10 @@ RidicQuestion[19] = "A cactus wants to know what it feels like to be hugged. Wha
 RidicQuestion[20] = "You can replace the ball in any sport with a fruit. What ball and fruit do you choose?";
 RidicQuestion[21] = "On a scale of 1 - 10, how cool is your postal carrier?";
 RidicQuestion[22] = "If there was one more verse in <i>The 12 Days of Christmas</i>, what would there be 13 of?";
-RidicQuestion[23] = "What movie should be remade using muppets?";
-RidicQuestion[24] = "Do you have good weather luck when it comes to doing things outside?";
-
-
-
+RidicQuestion[23] = "What movie should be remade as a musical?";
+RidicQuestion[24] = "You can put googly eyes on any one thing in the world without being caught. Where do they go?";
+RidicQuestion[25] = "From now on, you can only speak in rhyme. How are you ordering dinner?";
+RidicQuestion[26] = "You are dropped into a corn maze with 100 random people. How many can you beat out?";
 
 
 
@@ -171,7 +171,7 @@ PosQuestion[23] = "What brings you joy?"
 PosQuestion[24] = "What is something tough that you survived?"
 PosQuestion[25] = "What is something your 12 year old self would think is cool about you today?"
 PosQuestion[26] = "Who is someone that thinks highly of you?"
-
+PosQuestion[27] = "What is something you are looking forward to?"
 
 
 
