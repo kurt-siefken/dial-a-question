@@ -74,7 +74,7 @@ DiscQuestion[25] = "What is something that makes you think <i>How did nature mak
 DiscQuestion[26] = "What do you find inherently funny?";
 DiscQuestion[27] = "How good are you at social media?"
 DiscQuestion[28] = "What is a life skill they should teach you in school?"
-
+DiscQuestion[29] = "What was your best Halloween costume?"
 
 
 
@@ -115,7 +115,7 @@ RidicQuestion[25] = "From now on, you can only speak in rhyme. How are you order
 RidicQuestion[26] = "You are dropped into a corn maze with 100 random people. How many can you beat out?";
 RidicQuestion[27] = "You get $500 to beat any celebrity in a game of rock, paper, scissors. Who do you choose?";
 RidicQuestion[28] = "What is the best office supply to steal?";
-
+RidicQuestion[29] = "You have to have dinner at a gas station. What do you get?";
 
 
 
