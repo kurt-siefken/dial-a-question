@@ -1,0 +1,227 @@
+
+
+body {
+  font-family: "Gabarito", sans-serif;
+	font-size: 40px;
+	background-color: #fdedf9;
+	border: 0px solid red;
+	margin: 0px;
+	padding: 0px;
+	line-height: 32px;
+	height: 100%;
+}
+
+
+
+
+
+
+a {text-decoration: none; color: #1b407d;}
+
+.pagestructure {
+display: flex;
+justify-content: center;
+align-items: center;
+border: 0px solid green;
+height: 100%;
+}
+
+.pagestructure > div {
+width: 90%;
+max-width: 800px;
+border: 0px solid blue;
+}
+
+.pagename {
+	font-family: "Special Elite", system-ui;
+text-align: center;
+font-size: 46px;
+display: block;
+line-height: 60px;
+margin-bottom: 30px;
+text-transform: lowercase; 
+color: #888;
+margin-bottom: 40px;
+}
+
+
+
+
+
+.thequestion {
+border: 3px solid #888;
+position: relative;
+overflow: hidden;
+height: 70px;
+margin: 0px;
+
+background-color: #fff;
+width: 100%;
+}
+
+.questionlist {
+  font-family: "Patrick Hand", cursive;
+font-size: 30px;
+line-height: .8em;
+position: relative;
+text-align: center;
+width: 95%;
+margin: auto;
+color: #1b407d;
+}
+
+.questionlist div {
+height: 70px;
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100%;
+border: 0px solid red;
+}
+
+.ratherstructure {
+display: flex;
+width: 100%;
+}
+
+.ratherstructurestop {width: 80px; margin-right: 20px;}
+.ratherstructurequestion {width: 100%;}
+.orbox {text-align: center; margin: 20px; font-size: 26px;}
+
+
+
+.startbutton:hover, .stopbutton:hover {cursor: pointer}
+.startbutton{
+  padding: 15px 40px;
+  border-radius: 10px;
+  font-size: 30px;
+  text-align: center;
+  text-transform: uppercase; 
+  font-weight: 700;
+  color: #fff; 
+  background-color: #12b61a; 
+  border: 3px solid #346D37; 
+  background-image: linear-gradient(180deg, #2ddf35 0%, #069c0d 100%); 
+  text-shadow: 1px 1px 2px black;
+  margin: auto;
+  display: inline-block;
+}
+
+.stopbuttonoff {opacity: .4; pointer-events: none; }
+.stopbuttonon {opacity: 1}
+
+.startbuttonshell {width: 100%; text-align: center; margin-top: 20px;}
+
+.ratherstructurestop {
+
+}
+
+.stopbutton {
+  width: 70px;
+  height: 70px;
+  line-height: 70px;
+  border-radius: 50%;
+  font-size: 24px;
+  text-align: center;
+color: #fff; 
+background-color: red; 
+border: 3px solid #8C3737;  
+background-image: linear-gradient(180deg, #ea0d0d 0%, #8c3737 100%);  
+text-shadow: 1px 1px 2px black;
+text-transform: uppercase; 
+font-weight: 500;
+}
+
+
+
+
+
+@media screen and (max-width: 600px) {
+body {font-size: 28px; line-height: 26px;}
+.pagename {font-size: 30px; margin: 20px 0px 30px 0px; line-height: 30px;}
+.thequestion {}
+.startstopbutton{
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  font-size: 22px;
+margin: 0px 20px;
+	}
+.questionlist {
+font-size: 22px;
+line-height: 22px;
+}
+}
+
+
+
+
+
+
+/* The animation code */
+@keyframes startroll {
+  from {top: -1050px;}
+  to {top: -50px;}
+}
+
+.startanimation {
+  animation-name: startroll;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+animation-timing-function: linear;
+}
+
+/* The animation code */
+@keyframes stoproll {
+  from {top: -400px;}
+  to {top: 0px;}
+}
+
+.stopanimation {
+  animation-name: stoproll;
+  animation-duration: 1s;
+  animation-iteration-count: 1;
+animation-timing-function: ease-out;
+}
+
+
+
+
+
+
+
+
+@keyframes rotatemedown {
+  from {transform: rotate(180deg); background: #aaa;}
+  to {transform: rotate(0deg); background: #1b407d;}
+}
+
+@keyframes rotatemeup {
+  from {transform: rotate(0deg);  background: #1b407d;}
+  to {transform: rotate(180deg); background: #aaa;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

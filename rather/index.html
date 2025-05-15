@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html style="height: 100%;">
+<head>
+<title>Dial-A-Question</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&family=Patrick+Hand&family=Special+Elite&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="rather.css">
+<link rel="icon" type="image/x-icon" href="favicon.png">
+
+<script type="text/javascript" src="rather-list.js"></script>
+<script type="text/javascript" src="logic.js"></script>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body id="pagebody"  class="preload">
+
+<div class="pagestructure">
+
+<div>
+
+<div class="pagename">would you rather...</div>
+
+<div class="ratherstructure">
+<div class="ratherstructurestop"><div id="stopbutton1" class="stopbutton stopbuttonoff" onclick="stopwheel(1);" >STOP</div></div>
+<div class="ratherstructurequestion">
+<div class="thequestion"><div id="questionlist1" class="questionlist"></div></div>
+</div>
+</div>
+
+
+<div class="ratherstructure">
+<div class="ratherstructurestop"></div>
+<div class="ratherstructurequestion orbox">or</div>
+</div>
+
+
+
+<div class="ratherstructure">
+<div class="ratherstructurestop"><div id="stopbutton2" class="stopbutton stopbuttonoff" onclick="stopwheel(2);" >STOP</div></div>
+<div class="ratherstructurequestion">
+<div class="thequestion"><div id="questionlist2" class="questionlist"></div></div>
+</div>
+</div>
+
+
+
+
+<div class="startbuttonshell">
+ <div onclick="startwheel();" class="startbutton">spin!</div>
+</div>
+
+
+</div>
+</div>
+
+
+<div style="display: none;" id="dedupeme"></div>
+
+
+
+</body>
+</html>

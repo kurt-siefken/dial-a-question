@@ -15,17 +15,6 @@ body {
 }
 
 
-/*--
-.QuickQuestions {background-color: #f0f0e1;}
-.DiscQuestions {background-color: #e8f9fd;}
-.KidsQuestions {background-color: #fbe3e8;}
-.RidicQuestions {background-color: #e5eaf5;}
-.AltRockQuestions {background-color: #e4f5ed;}
-.MoviesQuestions {background-color: #f0dff0;}
-.PosQuestions {background-color: #f2f2e9;}
-.WorkQuestions {background-color: #f0dfdf;}
-
---*/
 
 
 
@@ -172,7 +161,7 @@ height: 100px;
 margin: 0px;
 border-top: 0px;
 margin-bottom: 30px;
-
+background-color: #fff;
 }
 
 #questionlist {
