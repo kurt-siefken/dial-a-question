@@ -76,7 +76,7 @@ DiscQuestion[27] = "How good are you at social media?"
 DiscQuestion[28] = "What is a life skill they should teach you in school?"
 DiscQuestion[29] = "What was your best Halloween costume?"
 DiscQuestion[30] = "What word do you always spell wrong?"
-
+DiscQuestion[31] = "What's a word that is fun to say?"
 
 
 
@@ -100,7 +100,7 @@ RidicQuestion[10] = "You won a free session to fly an airplane banner. What will
 RidicQuestion[11] = "If you spoke with a different accent while on the phone, what accent would you choose?";
 RidicQuestion[12] = "Your obituary says you died in the stupidest way ever. How did you die?";
 RidicQuestion[13] = "If you could text former president Millard Fillmore, what would you say to him?";
-RidicQuestion[14] = "What animal would be worst sports team mascot?";
+RidicQuestion[14] = "What animal would make the most ridiculous sports team mascot?";
 RidicQuestion[15] = "If potato chips were currency, what flavor would be the highest denomination?";
 RidicQuestion[16] = "What do you wish you had a coupon for?";
 RidicQuestion[17] = "If you could make one object out of legos then turn it real, what would you make?";
@@ -117,7 +117,7 @@ RidicQuestion[27] = "You get $500 to beat any celebrity in a game of rock, paper
 RidicQuestion[28] = "What is the best office supply to steal?";
 RidicQuestion[29] = "You have to eat dinner at a gas station. What do you get?";
 RidicQuestion[30] = "What is something you would describe as sophomoric?";
-
+RidicQuestion[31] = "What would be the worst &quot&prize&quot to come out when you break open a piñata?";
 
 
 

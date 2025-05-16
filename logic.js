@@ -73,7 +73,7 @@ document.getElementById("deckswitcher").style.visibility = 'hidden';
 
 
 function creatediv(questionnumber) {
-	document.getElementById("questionlist").innerHTML += "<div><p>" + questionnumber + "</p></div>";
+	document.getElementById("questionlist").innerHTML += "<div><p style='text-wrap: balance;'>" + questionnumber + "</p></div>";
 }
 
 

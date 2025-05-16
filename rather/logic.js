@@ -51,7 +51,7 @@ if (document.getElementById("questionlist1").innerHTML=="") {document.getElement
 }
 function creatediv2(questionnumber) {
 if (questionnumber != document.getElementById("dedupeme").innerHTML ) {
-	document.getElementById("questionlist2").innerHTML += "<div><p>" + questionnumber + "</p></div>";
+	document.getElementById("questionlist2").innerHTML += "<div><p style='text-wrap: balance;'>" + questionnumber + "</p></div>";
 }
 }
 

@@ -3,7 +3,7 @@ const Rather = [];
 
 
 /*----*/
-Rather[0] = "date a zealous birdwatcher";
+Rather[0] = "date an overly zealous birdwatcher";
 Rather[1] = "eat a large bowl of gummy worms";
 Rather[2] = "join a heavy metal band";
 Rather[3] = "use the email address CrazyCatLady@gmail.com";
@@ -26,21 +26,37 @@ Rather[19] = "visit the Museum of Nail Clippers";
 Rather[20] = "be interviewed for Doofus Magazine";
 Rather[21] = "have a video of you singing in the shower go viral";
 Rather[22] = "compete in a hopscotch tournament";
-Rather[23] = "get a phone alert every time someone wins on <span style='white-space:nowrap;'>The Price is Right</span>";
+Rather[23] = "get a phone alert every time someone wins on The Price is Right";
 Rather[24] = "have your birthday party at Panera";
 Rather[25] = "have a disease named after you";
-Rather[26] = "go on a retreat of metal detecting fanatics";
+Rather[26] = "go on a retreat for comic book fans";
 Rather[27] = "have an old timey car horn that goes <i>ah-oooooga</i>";
 Rather[28] = "wear a shirt with a picture of your face on it";
 Rather[29] = "wear bright pink contact lenses";
 Rather[30] = "stay at the Clown Motel";
 Rather[31] = "attend a cocktail party wearing a kilt";
 Rather[32] = "go through a car wash in a convertible";
-Rather[33] = "post a Ghandi quote on Facebook every day";
+Rather[33] = "post your adult coloring book art on Facebook";
 Rather[34] = "teach driver's education";
 Rather[35] = "have the personalized licence plate DUMHEAD";
 Rather[36] = "go on tour with a barbershop quartet";
 Rather[37] = "name your dog Eli Whitney";
+Rather[38] = "get super-enthusiastic about Flag Day";
+Rather[39] = "write a blog about metal detecting";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
