@@ -25,7 +25,7 @@ QuickQuestion[18] = "If you had a million dollars to donate to charity, which ca
 QuickQuestion[19] = "What is hanging on your refrigerator door?";
 QuickQuestion[20] = "How many Taylor Swift songs can you name?";
 QuickQuestion[21] = "Fill in the blank: When I dance, I look a ___.";
-QuickQuestion[22] = "What food is the most delicious food, and is also healthy?";
+QuickQuestion[22] = "What is the most delicious food that is also healthy?";
 QuickQuestion[23] = "What streaming service do you use most?";
 QuickQuestion[24] = "How far do you live from where you grew up?";
 QuickQuestion[25] = "What do you think of possums?";
@@ -33,7 +33,7 @@ QuickQuestion[26] = "What do you think when people give their pets human names?"
 QuickQuestion[27] = "What's the best kind of pie?";
 QuickQuestion[28] = "Which is better: bar soap or liquid soap?"
 QuickQuestion[29] = "What is your breakfast food of choice?";
-
+QuickQuestion[30] = "Do you tell time by wearing a watch or checking your phone?";
 
 
 
@@ -75,7 +75,7 @@ DiscQuestion[26] = "What do you find inherently funny?";
 DiscQuestion[27] = "How good are you at social media?"
 DiscQuestion[28] = "What is a life skill they should teach you in school?"
 DiscQuestion[29] = "What was your best Halloween costume?"
-
+DiscQuestion[30] = "What word do you always spell wrong?"
 
 
 
@@ -115,8 +115,8 @@ RidicQuestion[25] = "From now on, you can only speak in rhyme. How are you order
 RidicQuestion[26] = "You are dropped into a corn maze with 100 random people. How many can you beat out?";
 RidicQuestion[27] = "You get $500 to beat any celebrity in a game of rock, paper, scissors. Who do you choose?";
 RidicQuestion[28] = "What is the best office supply to steal?";
-RidicQuestion[29] = "You have to have dinner at a gas station. What do you get?";
-
+RidicQuestion[29] = "You have to eat dinner at a gas station. What do you get?";
+RidicQuestion[30] = "What is something you would describe as sophomoric?";
 
 
 
