@@ -12,14 +12,14 @@ Rather[5] = "write your own obituary";
 Rather[6] = "host bingo in a retirement home";
 Rather[7] = "let a 6 year old choose your outfit for a job interview";
 Rather[8] = "sneeze 33 times in a row";
-Rather[9] = "be treasurer of a knitting club";
+Rather[9] = "be elected treasurer of a knitting club";
 Rather[10] = "join an improve troupe";
 Rather[11] = "take your next vacation in Iowa";
 Rather[12] = "wear toe socks";
 Rather[13] = "read the Complete and Unabridged History of Soap Making";
 Rather[14] = "live in a Las Vegas casino";
 Rather[15] = "carry a mouse around in your pocket";
-Rather[16] = "become a master boomerang thrower";
+Rather[16] = "study the art of boomerang throwing";
 Rather[17] = "sleep in Snoopy pajamas";
 Rather[18] = "go by the nickname &quot;Marbles&quot;";
 Rather[19] = "visit the Museum of Nail Clippers";
@@ -29,23 +29,23 @@ Rather[22] = "compete in a hopscotch tournament";
 Rather[23] = "get a phone alert every time someone wins on The Price is Right";
 Rather[24] = "have your birthday party at Panera";
 Rather[25] = "have a disease named after you";
-Rather[26] = "go on a retreat for comic book fans";
+Rather[26] = "go on a retreat for competitive Monopoly players";
 Rather[27] = "have an old timey car horn that goes <i>ah-oooooga</i>";
 Rather[28] = "wear a shirt with a picture of your face on it";
 Rather[29] = "wear bright pink contact lenses";
 Rather[30] = "stay at the Clown Motel";
 Rather[31] = "attend a cocktail party wearing a kilt";
 Rather[32] = "go through a car wash in a convertible";
-Rather[33] = "post your adult coloring book art on Facebook";
+Rather[33] = "post your adult coloring book artwork on Facebook";
 Rather[34] = "teach driver's education";
 Rather[35] = "have the personalized licence plate DUMHEAD";
 Rather[36] = "go on tour with a barbershop quartet";
 Rather[37] = "name your dog Eli Whitney";
-Rather[38] = "get super-enthusiastic about Flag Day";
+Rather[38] = "decorate lavishly for Flag Day";
 Rather[39] = "write a blog about metal detecting";
-
-
-
+Rather[40] = "eat a bowl of 5-alarm chili";
+Rather[41] = "broadcast your dreams live on YouTube";
+Rather[42] = "bet money on a snail race";
 
 
 

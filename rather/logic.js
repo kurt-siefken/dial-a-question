@@ -46,7 +46,7 @@ document.getElementById("stopbutton2").classList.add("stopbuttonon");
 
 function creatediv1(questionnumber) {
 if (document.getElementById("questionlist1").innerHTML=="") {document.getElementById("dedupeme").innerHTML = questionnumber;}
-	document.getElementById("questionlist1").innerHTML += "<div><p>" + questionnumber + "</p></div>";
+	document.getElementById("questionlist1").innerHTML += "<div><p style='text-wrap: balance;'>" + questionnumber + "</p></div>";
 
 }
 function creatediv2(questionnumber) {
