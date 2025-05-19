@@ -27,7 +27,7 @@ Rather[20] = "be interviewed for Doofus Magazine";
 Rather[21] = "have a video of you singing in the shower go viral";
 Rather[22] = "compete in a hopscotch tournament";
 Rather[23] = "get a phone alert every time someone wins on The Price is Right";
-Rather[24] = "have your birthday party at Panera";
+Rather[24] = "have a surprise birthday party at Panera";
 Rather[25] = "have a disease named after you";
 Rather[26] = "go on a retreat for competitive Monopoly players";
 Rather[27] = "have an old timey car horn that goes <i>ah-oooooga</i>";
@@ -45,14 +45,14 @@ Rather[38] = "decorate lavishly for Flag Day";
 Rather[39] = "write a blog about metal detecting";
 Rather[40] = "eat a bowl of 5-alarm chili";
 Rather[41] = "broadcast your dreams live on YouTube";
-Rather[42] = "bet money on a snail race";
-
-
-
-
-
-
-
+Rather[42] = "bet $1,000 on a snail race";
+Rather[43] = "chaperone a high school prom";
+Rather[44] = "be an umbrella hat model";
+Rather[45] = "only speak and write using British English";
+Rather[46] = "work in a year-round Christmas store";
+Rather[47] = "go to bat against a pitcher throwing a 100 MPH fastball";
+Rather[48] = "get a tattoo of your favorite song from high school";
+Rather[49] = "participate in a 24-hour dance-a-thon";
 
 
 

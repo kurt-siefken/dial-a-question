@@ -29,10 +29,10 @@ QuickQuestion[22] = "What is the most delicious food that is also healthy?";
 QuickQuestion[23] = "What streaming service do you use most?";
 QuickQuestion[24] = "How far do you live from where you grew up?";
 QuickQuestion[25] = "What do you think of possums?";
-QuickQuestion[26] = "What do you think when people give their pets human names?";
+QuickQuestion[26] = "Do you prefer pets to have traditional pet names or human names?";
 QuickQuestion[27] = "What's the best kind of pie?";
 QuickQuestion[28] = "Which is better: bar soap or liquid soap?"
-QuickQuestion[29] = "What is your breakfast food of choice?";
+QuickQuestion[29] = "What do you usually eat for breakfast?";
 QuickQuestion[30] = "Do you prefer to wear a watch, or check the time on your phone?";
 
 
@@ -77,7 +77,7 @@ DiscQuestion[28] = "What is a life skill they should teach you in school?"
 DiscQuestion[29] = "What was your best Halloween costume?"
 DiscQuestion[30] = "What word do you always spell wrong?"
 DiscQuestion[31] = "What's a word that is fun to say?"
-
+DiscQuestion[32] = "If you could own any fictional vehicle, which would you choose?"
 
 
 
@@ -118,8 +118,8 @@ RidicQuestion[28] = "What is the best office supply to steal?";
 RidicQuestion[29] = "You have to eat dinner at a gas station. What do you get?";
 RidicQuestion[30] = "What is something you would describe as sophomoric?";
 RidicQuestion[31] = "What would be the worst &quotprize&quot to come out when you break open a pi&ntilde;ata?";
-
-
+RidicQuestion[32] = "If you went back in time 10 minutes, what would you do differently?";
+RidicQuestion[33] = "If there was a museum dedicated to you, what would the gift shop sell?";
 
 
 
