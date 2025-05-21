@@ -149,8 +149,9 @@ cursor: pointer;
 }
 
 
-
-
+.decklink {font-size: 16px;}
+.decklink a {color: #fff;}
+.decklink img {width: 12px; margin-left: 3px;}
 
 
 .thequestion {

@@ -32,7 +32,7 @@ Rather[25] = "have a disease named after you";
 Rather[26] = "go on a retreat for competitive Monopoly players";
 Rather[27] = "have an old timey car horn that goes <i>ah-oooooga</i>";
 Rather[28] = "wear a shirt with a picture of your face on it";
-Rather[29] = "wear bright pink contact lenses";
+Rather[29] = "wear bright red contact lenses";
 Rather[30] = "stay at the Clown Motel";
 Rather[31] = "attend a cocktail party wearing a kilt";
 Rather[32] = "go through a car wash in a convertible";
@@ -52,9 +52,9 @@ Rather[45] = "only speak and write using British English";
 Rather[46] = "work in a year-round Christmas store";
 Rather[47] = "go to bat against a pitcher throwing a 100 MPH fastball";
 Rather[48] = "get a tattoo of your favorite song from high school";
-Rather[49] = "participate in a 24-hour dance-a-thon";
-
-
+Rather[49] = "participate in a 24&#8209;hour dance-a-thon";
+Rather[50] = "spend the night in a graveyard";
+Rather[51] = "work as a poetry busker at a renaissance faire";
 
 
 
