@@ -113,13 +113,13 @@ RidicQuestion[23] = "What movie should be remade as a musical?";
 RidicQuestion[24] = "You can put googly eyes on any one thing in the world without being caught. Where do they go?";
 RidicQuestion[25] = "From now on, you can only speak in rhyme. How are you ordering dinner?";
 RidicQuestion[26] = "You are dropped into a corn maze with 100 random people. How many can you beat out?";
-RidicQuestion[27] = "You get $500 to beat any celebrity in a game of rock paper scissors. Who do you choose?";
-RidicQuestion[28] = "What is the best office supply to steal?";
+RidicQuestion[27] = "You get $500 to beat any celebrity in a game of Parcheesi. Who do you choose?";
+RidicQuestion[28] = "If there was a museum dedicated to you, what would the gift shop sell?";
 RidicQuestion[29] = "You have to eat dinner at a gas station. What do you get?";
 RidicQuestion[30] = "What is something you would describe as sophomoric?";
 RidicQuestion[31] = "What would be the worst &quotprize&quot to come out when you break open a pi&ntilde;ata?";
 RidicQuestion[32] = "If you went back in time 10 minutes, what would you do differently?";
-RidicQuestion[33] = "If there was a museum dedicated to you, what would the gift shop sell?";
+
 
 
 
@@ -155,7 +155,7 @@ WorkQuestion[26] = "What is a non-monetary reward at work that makes you feel ap
 WorkQuestion[27] = "You are in charge of your company's float in a large parade. What does it look like?"
 WorkQuestion[28] = "What is your <i>I need to power through</i> snack?"
 WorkQuestion[29] = "If you were an octopus, what would you do with your 6 other arms while at your computer?"
-
+WorkQuestion[30] = "What is the best office supply to steal?";
 
 
 

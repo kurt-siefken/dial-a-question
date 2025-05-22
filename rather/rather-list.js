@@ -5,7 +5,7 @@ const Rather = [];
 /*----*/
 Rather[0] = "date an overly zealous birdwatcher";
 Rather[1] = "eat a large bowl of gummy worms";
-Rather[2] = "join a heavy metal band";
+Rather[2] = "join a shock metal band";
 Rather[3] = "use the email address CrazyCatLady@gmail.com";
 Rather[4] = "have glow in the dark toenails";
 Rather[5] = "write your own obituary";
@@ -27,9 +27,9 @@ Rather[20] = "be interviewed for Doofus Magazine";
 Rather[21] = "have a video of you singing in the shower go viral";
 Rather[22] = "compete in a hopscotch tournament";
 Rather[23] = "get a phone alert every time someone wins on The Price is Right";
-Rather[24] = "have a surprise birthday party at Panera";
+Rather[24] = "spend your birthday writing sonnets in Panera";
 Rather[25] = "have a disease named after you";
-Rather[26] = "go on a retreat for competitive Monopoly players";
+Rather[26] = "go on a retreat for competitive hide and seek players";
 Rather[27] = "have an old timey car horn that goes <i>ah-oooooga</i>";
 Rather[28] = "wear a shirt with a picture of your face on it";
 Rather[29] = "wear bright red contact lenses";
@@ -42,22 +42,22 @@ Rather[35] = "have the personalized licence plate DUMHEAD";
 Rather[36] = "go on tour with a barbershop quartet";
 Rather[37] = "name your dog Eli Whitney";
 Rather[38] = "decorate lavishly for Flag Day";
-Rather[39] = "write a blog about metal detecting";
+Rather[39] = "record a podcast about metal detecting";
 Rather[40] = "eat a bowl of 5-alarm chili";
 Rather[41] = "broadcast your dreams live on YouTube";
 Rather[42] = "bet $1,000 on a snail race";
 Rather[43] = "chaperone a high school prom";
 Rather[44] = "be an umbrella hat model";
-Rather[45] = "only speak and write using British English";
+Rather[45] = "speak and write using old British English";
 Rather[46] = "work in a year-round Christmas store";
 Rather[47] = "go to bat against a pitcher throwing a 100 MPH fastball";
-Rather[48] = "get a tattoo of your favorite song from high school";
+Rather[48] = "get a tattoo depicting your favorite song from high school";
 Rather[49] = "participate in a 24&#8209;hour dance-a-thon";
 Rather[50] = "spend the night in a graveyard";
 Rather[51] = "work as a poetry busker at a renaissance faire";
-
-
-
+Rather[52] = "live in Amarillo, Texas";
+Rather[53] = "honk like a goose every time someone says the number ten";
+Rather[54] = "capture a skunk";
 
 
 
