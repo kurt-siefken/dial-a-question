@@ -5,8 +5,8 @@ const Rather = [];
 /*----*/
 Rather[0] = "date an overly zealous birdwatcher";
 Rather[1] = "eat a large bowl of gummy worms";
-Rather[2] = "join a shock metal band";
-Rather[3] = "use the email address CrazyCatLady@gmail.com";
+Rather[2] = "join a thrash metal band";
+Rather[3] = "use the professional email address CrazyCatLady@gmail.com";
 Rather[4] = "have glow in the dark toenails";
 Rather[5] = "write your own obituary";
 Rather[6] = "host bingo in a retirement home";
@@ -14,7 +14,7 @@ Rather[7] = "let a 6 year old choose your outfit for a job interview";
 Rather[8] = "sneeze 33 times in a row";
 Rather[9] = "be elected treasurer of a knitting club";
 Rather[10] = "join an improve troupe";
-Rather[11] = "take your next vacation in Iowa";
+Rather[11] = "take your next vacation in Kansas";
 Rather[12] = "wear toe socks";
 Rather[13] = "read the Complete and Unabridged History of Soap Making";
 Rather[14] = "live in a Las Vegas casino";
@@ -27,7 +27,7 @@ Rather[20] = "be interviewed for Doofus Magazine";
 Rather[21] = "have a video of you singing in the shower go viral";
 Rather[22] = "compete in a hopscotch tournament";
 Rather[23] = "get a phone alert every time someone wins on The Price is Right";
-Rather[24] = "spend your birthday writing sonnets in Panera";
+Rather[24] = "spend your birthday writing spoken word poetry in Panera";
 Rather[25] = "have a disease named after you";
 Rather[26] = "go on a retreat for competitive hide and seek players";
 Rather[27] = "have an old timey car horn that goes <i>ah-oooooga</i>";
@@ -58,6 +58,20 @@ Rather[51] = "work as a poetry busker at a renaissance faire";
 Rather[52] = "live in Amarillo, Texas";
 Rather[53] = "honk like a goose every time someone says the number ten";
 Rather[54] = "capture a skunk";
+Rather[55] = "skinny-dip on a busy night at the Bellagio fountain";
+Rather[56] = "transcribe the Constitution into pig latin";
+Rather[57] = "perform a stand-up comedy set about gravel";
+Rather[58] = "deejay a weekly radio show of experimental acid jazz";
+Rather[59] = "speak without using the letter V";
+Rather[60] = "ask for a sarsaparilla every time someone takes your order";
+
+
+
+
+
+
+
+
 
 
 
