@@ -14,7 +14,7 @@ Rather[7] = "let a 6 year old choose your outfit for a job interview";
 Rather[8] = "sneeze 33 times in a row";
 Rather[9] = "be elected treasurer of a knitting club";
 Rather[10] = "join an improve troupe";
-Rather[11] = "take your next vacation in Kansas";
+Rather[11] = "take your next vacation in Fort Wayne, Indiana";
 Rather[12] = "wear toe socks";
 Rather[13] = "read the Complete and Unabridged History of Soap Making";
 Rather[14] = "live in a Las Vegas casino";
@@ -64,11 +64,10 @@ Rather[57] = "perform a stand-up comedy set about gravel";
 Rather[58] = "deejay a weekly radio show of experimental acid jazz";
 Rather[59] = "speak without using the letter V";
 Rather[60] = "ask for a sarsaparilla every time someone takes your order";
-
-
-
-
-
+Rather[61] = "only drink using a crazy straw";
+Rather[62] = "decorate your lawn with a flock of plastic flamingos";
+Rather[63] = "sit next to a talkative ventriloquist on a 10-hour flight";
+Rather[64] = "dig holes";
 
 
 
