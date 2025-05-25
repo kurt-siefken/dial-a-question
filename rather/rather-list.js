@@ -68,8 +68,8 @@ Rather[61] = "only drink using a crazy straw";
 Rather[62] = "decorate your lawn with a flock of plastic flamingos";
 Rather[63] = "sit next to a talkative ventriloquist on a 10-hour flight";
 Rather[64] = "dig holes";
-
-
+Rather[65] = "wear size 14 shoes";
+Rather[66] = "wear oven mitts to a funeral";
 
 
 

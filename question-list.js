@@ -34,8 +34,8 @@ QuickQuestion[27] = "What's the best kind of pie?";
 QuickQuestion[28] = "Which is better: bar soap or liquid soap?"
 QuickQuestion[29] = "What do you usually eat for breakfast?";
 QuickQuestion[30] = "Do you prefer to wear a watch, or check the time on your phone?";
-
-
+QuickQuestion[31] = "Can you whistle? If so, are you a good whistler?";
+QuickQuestion[32] = "Have you ever sprayed whipped cream directly into your mouth?";
 
 
 
@@ -78,6 +78,15 @@ DiscQuestion[29] = "What was your best Halloween costume?"
 DiscQuestion[30] = "What word do you always spell wrong?"
 DiscQuestion[31] = "What's a word that is fun to say?"
 DiscQuestion[32] = "If you could own any fictional vehicle, which would you choose?"
+DiscQuestion[33] = "What's a non-dessert food that you could use as dessert?"
+DiscQuestion[34] = "You can choose any jigsaw puzzle. What is the picture you are piecing together?"
+DiscQuestion[35] = "If you could open one small business specialty store, what would you sell?"
+
+
+
+
+
+
 
 
 
@@ -123,6 +132,11 @@ RidicQuestion[32] = "If you went back in time 10 minutes, what would you do diff
 
 
 
+
+
+
+
+
 const WorkQuestion = [];
 
 WorkQuestion[0] = "You get to add an extra holiday to the company calendar. Where do you put it?"
@@ -143,7 +157,7 @@ WorkQuestion[14] = "What's your best story while traveling for work?"
 WorkQuestion[15] = "What's a skill that's not necessarly work related but has helped you at your job?"
 WorkQuestion[16] = "What is a work skill that you admire in other people?"
 WorkQuestion[17] = "How do you take a break while working from home?"
-WorkQuestion[18] = "What is some office lingo that you find funny?"
+WorkQuestion[18] = "What is some office lingo that you find funny or annoying?"
 WorkQuestion[19] = "What did you want to be when you grew up, and what do you do now?"
 WorkQuestion[20] = "What would you do if you had a 3 month paid sabbatical?"
 WorkQuestion[21] = "You fall asleep in a work meeting. What are you dreaming about?"
@@ -156,6 +170,13 @@ WorkQuestion[27] = "You are in charge of your company's float in a large parade.
 WorkQuestion[28] = "What is your <i>I need to power through</i> snack?"
 WorkQuestion[29] = "If you were an octopus, what would you do with your 6 other arms while at your computer?"
 WorkQuestion[30] = "What is the best office supply to steal?";
+WorkQuestion[31] = "If you had an unlimited budget, what would you buy for your home office?";
+WorkQuestion[32] = "If your job was an adventure movie, what would the exciting action scene look like?";
+
+
+
+
+
 
 
 
