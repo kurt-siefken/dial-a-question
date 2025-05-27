@@ -19,14 +19,14 @@ Rather[12] = "wear toe socks";
 Rather[13] = "read the Complete and Unabridged History of Soap Making";
 Rather[14] = "live in a Las Vegas casino";
 Rather[15] = "carry a mouse around in your pocket";
-Rather[16] = "study the art of boomerang throwing";
+Rather[16] = "study the physics of boomerang throwing";
 Rather[17] = "sleep in Snoopy pajamas";
 Rather[18] = "go by the nickname &quot;Marbles&quot;";
 Rather[19] = "visit the Museum of Nail Clippers";
 Rather[20] = "be interviewed for Doofus Magazine";
 Rather[21] = "have a video of you singing in the shower go viral";
 Rather[22] = "compete in a hopscotch tournament";
-Rather[23] = "get a phone alert every time someone wins on The Price is Right";
+Rather[23] = "hiccup alert every time someone wins on The Price is Right";
 Rather[24] = "spend your birthday writing spoken word poetry in Panera";
 Rather[25] = "have a disease named after you";
 Rather[26] = "go on a retreat for competitive hide and seek players";
@@ -60,7 +60,7 @@ Rather[53] = "honk like a goose every time someone says the number ten";
 Rather[54] = "capture a skunk";
 Rather[55] = "skinny-dip on a busy night at the Bellagio fountain";
 Rather[56] = "transcribe the Constitution into pig latin";
-Rather[57] = "perform a stand-up comedy set about gravel";
+Rather[57] = "perform a stand-up comedy set about ants";
 Rather[58] = "deejay a weekly radio show of experimental acid jazz";
 Rather[59] = "speak without using the letter V";
 Rather[60] = "ask for a sarsaparilla every time someone takes your order";
@@ -70,6 +70,16 @@ Rather[63] = "sit next to a talkative ventriloquist on a 10-hour flight";
 Rather[64] = "dig holes";
 Rather[65] = "wear size 14 shoes";
 Rather[66] = "wear oven mitts to a funeral";
+Rather[67] = "go camping in the Everglades";
+Rather[68] = "have your face on a billboard ad for anti-lice shampoo";
+Rather[69] = "work in a New Orleans voodoo shop";
+Rather[70] = "use soap that smells like ranch dressing";
+Rather[71] = "make small talk with strangers when you ride an elevator";
+Rather[72] = "make your browser history public";
+Rather[73] = "blow soap bubbles from your nose when you brush your teeth";
+
+
+
 
 
 
