@@ -26,10 +26,10 @@ Rather[19] = "visit the Museum of Nail Clippers";
 Rather[20] = "be interviewed for Doofus Magazine";
 Rather[21] = "have a video of you singing in the shower go viral";
 Rather[22] = "compete in a hopscotch tournament";
-Rather[23] = "hiccup alert every time someone wins on The Price is Right";
+Rather[23] = "hiccup every time someone wins a prize on The Price is Right";
 Rather[24] = "spend your birthday writing spoken word poetry in Panera";
 Rather[25] = "have a disease named after you";
-Rather[26] = "go on a retreat for competitive hide and seek players";
+Rather[26] = "go on a retreat for competitive tic tac toe players";
 Rather[27] = "have an old timey car horn that goes <i>ah-oooooga</i>";
 Rather[28] = "wear a shirt with a picture of your face on it";
 Rather[29] = "wear bright red contact lenses";
@@ -74,12 +74,12 @@ Rather[67] = "go camping in the Everglades";
 Rather[68] = "have your face on a billboard ad for anti-lice shampoo";
 Rather[69] = "work in a New Orleans voodoo shop";
 Rather[70] = "use soap that smells like ranch dressing";
-Rather[71] = "make small talk with strangers when you ride an elevator";
+Rather[71] = "always make small talk with strangers on an elevator";
 Rather[72] = "make your browser history public";
 Rather[73] = "blow soap bubbles from your nose when you brush your teeth";
-
-
-
+Rather[74] = "sort a thousand ping pong balls";
+Rather[75] = "live in a glamping yurt";
+Rather[76] = "have a phone that never charges to more than 44%";
 
 
 
