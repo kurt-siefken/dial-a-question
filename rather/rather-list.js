@@ -69,17 +69,27 @@ Rather[62] = "decorate your lawn with a flock of plastic flamingos";
 Rather[63] = "sit next to a talkative ventriloquist on a 10-hour flight";
 Rather[64] = "dig holes";
 Rather[65] = "wear size 14 shoes";
-Rather[66] = "wear oven mitts to a funeral";
+Rather[66] = "take a selfie at a funeral";
 Rather[67] = "go camping in the Everglades";
 Rather[68] = "have your face on a billboard ad for anti-lice shampoo";
 Rather[69] = "work in a New Orleans voodoo shop";
 Rather[70] = "use soap that smells like ranch dressing";
-Rather[71] = "always make small talk with strangers on an elevator";
+Rather[71] = "make small talk with strangers on an elevator";
 Rather[72] = "make your browser history public";
 Rather[73] = "blow soap bubbles from your nose when you brush your teeth";
 Rather[74] = "sort a thousand ping pong balls";
 Rather[75] = "live in a glamping yurt";
-Rather[76] = "have a phone that never charges to more than 44%";
+Rather[76] = "have a phone that plays showtunes while charging";
+Rather[77] = "attend a speed-dating event while wearing a bathing suit";
+Rather[78] = "give motivational speeches at a job fairs";
+Rather[79] = "walk the red carpet wearing blinged out oven mitts";
+Rather[80] = "chew pork chop flavored gum";
+
+
+
+
+
+
 
 
 
