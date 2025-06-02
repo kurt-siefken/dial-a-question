@@ -56,7 +56,7 @@ Rather[49] = "participate in a 24&#8209;hour dance-a-thon";
 Rather[50] = "spend the night in a graveyard";
 Rather[51] = "work as a poetry busker at a renaissance faire";
 Rather[52] = "live in Amarillo, Texas";
-Rather[53] = "honk like a goose every time someone says the number ten";
+Rather[53] = "honk like a goose every time you meet someone new";
 Rather[54] = "capture a skunk";
 Rather[55] = "skinny-dip on a busy night at the Bellagio fountain";
 Rather[56] = "transcribe the Constitution into pig latin";
@@ -81,11 +81,11 @@ Rather[74] = "sort a thousand ping pong balls";
 Rather[75] = "live in a glamping yurt";
 Rather[76] = "have a phone that plays showtunes while charging";
 Rather[77] = "attend a speed-dating event while wearing a bathing suit";
-Rather[78] = "give motivational speeches at a job fairs";
+Rather[78] = "give motivational speeches at job fairs";
 Rather[79] = "walk the red carpet wearing blinged out oven mitts";
 Rather[80] = "chew pork chop flavored gum";
-
-
+Rather[81] = "drive across Connecticut on a riding lawn mower";
+Rather[82] = "work as a snake handler";
 
 
 
