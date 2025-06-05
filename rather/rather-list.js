@@ -26,10 +26,10 @@ Rather[19] = "visit the Museum of Nail Clippers";
 Rather[20] = "be interviewed for Doofus Magazine";
 Rather[21] = "have a video of you singing in the shower go viral";
 Rather[22] = "compete in a hopscotch tournament";
-Rather[23] = "hiccup every time someone wins a prize on The Price is Right";
+Rather[23] = "your phone dings every time someone wins a prize on The Price is Right";
 Rather[24] = "spend your birthday writing spoken word poetry in Panera";
 Rather[25] = "have a disease named after you";
-Rather[26] = "go on a retreat for competitive tic tac toe players";
+Rather[26] = "go on a retreat for competitive Twister players";
 Rather[27] = "have an old timey car horn that goes <i>ah-oooooga</i>";
 Rather[28] = "wear a shirt with a picture of your face on it";
 Rather[29] = "wear bright red contact lenses";
@@ -52,7 +52,7 @@ Rather[45] = "speak and write using old British English";
 Rather[46] = "work in a year-round Christmas store";
 Rather[47] = "go to bat against a pitcher throwing a 100 MPH fastball";
 Rather[48] = "get a tattoo depicting your favorite song from high school";
-Rather[49] = "participate in a 24&#8209;hour dance-a-thon";
+Rather[49] = "participate in a 24&nbsp;hour dance-a-thon";
 Rather[50] = "spend the night in a graveyard";
 Rather[51] = "work as a poetry busker at a renaissance faire";
 Rather[52] = "live in Amarillo, Texas";
@@ -66,7 +66,7 @@ Rather[59] = "speak without using the letter V";
 Rather[60] = "ask for a sarsaparilla every time someone takes your order";
 Rather[61] = "only drink using a crazy straw";
 Rather[62] = "decorate your lawn with a flock of plastic flamingos";
-Rather[63] = "sit next to a talkative ventriloquist on a 10-hour flight";
+Rather[63] = "sit next to a talkative ventriloquist on a 10&nbsp;hour flight";
 Rather[64] = "dig holes";
 Rather[65] = "wear size 14 shoes";
 Rather[66] = "take a selfie at a funeral";
@@ -80,16 +80,19 @@ Rather[73] = "blow soap bubbles from your nose when you brush your teeth";
 Rather[74] = "sort a thousand ping pong balls";
 Rather[75] = "live in a glamping yurt";
 Rather[76] = "have a phone that plays showtunes while charging";
-Rather[77] = "attend a speed-dating event while wearing a bathing suit";
-Rather[78] = "give motivational speeches at job fairs";
+Rather[77] = "attend a speed-dating event in a bathing suit";
+Rather[78] = "be a motivational speaker";
 Rather[79] = "walk the red carpet wearing blinged out oven mitts";
 Rather[80] = "chew pork chop flavored gum";
 Rather[81] = "drive across Connecticut on a riding lawn mower";
 Rather[82] = "work as a snake handler";
-
-
-
-
+Rather[83] = "write only using a feather quill";
+Rather[84] = "send exactly three text messages every day";
+Rather[85] = "speak with a Boston accent";
+Rather[86] = "wear burlap underwear";
+Rather[87] = "slap Santa Claus";
+Rather[89] = "write and star in a 30 minute tv special of knock knock jokes";
+Rather[90] = "join a debate club and argue that taxes should be higher";
 
 
 
