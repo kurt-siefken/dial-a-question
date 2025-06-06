@@ -77,7 +77,7 @@ Rather[70] = "use soap that smells like ranch dressing";
 Rather[71] = "make small talk with strangers on an elevator";
 Rather[72] = "make your browser history public";
 Rather[73] = "blow soap bubbles from your nose when you brush your teeth";
-Rather[74] = "sort a thousand ping pong balls";
+Rather[74] = "sort 3,000 ping pong balls";
 Rather[75] = "live in a glamping yurt";
 Rather[76] = "have a phone that plays showtunes while charging";
 Rather[77] = "attend a speed-dating event in a bathing suit";
@@ -91,8 +91,8 @@ Rather[84] = "send exactly three text messages every day";
 Rather[85] = "speak with a Boston accent";
 Rather[86] = "wear burlap underwear";
 Rather[87] = "slap Santa Claus";
-Rather[89] = "write and star in a 30 minute tv special of knock knock jokes";
-Rather[90] = "join a debate club and argue that taxes should be higher";
+Rather[88] = "every time you buy something, tell the cashier a knock knock joke";
+Rather[89] = "join a debate club and argue that taxes should be higher";
 
 
 
