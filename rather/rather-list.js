@@ -81,7 +81,7 @@ Rather[74] = "sort 3,000 ping pong balls";
 Rather[75] = "live in a glamping yurt";
 Rather[76] = "have a phone that plays showtunes while charging";
 Rather[77] = "attend a speed-dating event in a bathing suit";
-Rather[78] = "be a motivational speaker";
+Rather[78] = "give motivational speeches";
 Rather[79] = "walk the red carpet wearing blinged out oven mitts";
 Rather[80] = "chew pork chop flavored gum";
 Rather[81] = "drive across Connecticut on a riding lawn mower";
@@ -92,8 +92,8 @@ Rather[85] = "speak with a Boston accent";
 Rather[86] = "wear burlap underwear";
 Rather[87] = "slap Santa Claus";
 Rather[88] = "every time you buy something, tell the cashier a knock knock joke";
-Rather[89] = "join a debate club and argue that taxes should be higher";
-
+Rather[89] = "join a debate team and argue that taxes should be higher";
+Rather[90] = "run across a snow covered football field barefoot";
 
 
 
