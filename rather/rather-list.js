@@ -64,7 +64,7 @@ Rather[57] = "perform a stand-up comedy set about ants";
 Rather[58] = "deejay a weekly radio show of experimental acid jazz";
 Rather[59] = "speak without using the letter V";
 Rather[60] = "ask for a sarsaparilla every time someone takes your order";
-Rather[61] = "only drink using a crazy straw";
+Rather[61] = "only be able to drink by using a crazy straw";
 Rather[62] = "decorate your lawn with a flock of plastic flamingos";
 Rather[63] = "sit next to a talkative ventriloquist on a 10&nbsp;hour flight";
 Rather[64] = "dig holes";
@@ -76,7 +76,7 @@ Rather[69] = "work in a New Orleans voodoo shop";
 Rather[70] = "use soap that smells like ranch dressing";
 Rather[71] = "make small talk with strangers on an elevator";
 Rather[72] = "make your browser history public";
-Rather[73] = "blow soap bubbles from your nose when you brush your teeth";
+Rather[73] = "blow soap bubbles from your nose every time you wash your hands";
 Rather[74] = "sort 3,000 ping pong balls";
 Rather[75] = "live in a glamping yurt";
 Rather[76] = "have a phone that plays showtunes while charging";
@@ -94,6 +94,13 @@ Rather[87] = "slap Santa Claus";
 Rather[88] = "every time you buy something, tell the cashier a knock knock joke";
 Rather[89] = "join a debate team and argue that taxes should be higher";
 Rather[90] = "run across a snow covered football field barefoot";
+Rather[91] = "brush your teeth with mayonnaise";
+
+
+
+
+
+
 
 
 
