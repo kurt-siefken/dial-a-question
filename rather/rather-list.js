@@ -29,7 +29,7 @@ Rather[22] = "compete in a hopscotch tournament";
 Rather[23] = "your phone dings every time someone wins a prize on The Price is Right";
 Rather[24] = "spend your birthday writing spoken word poetry in Panera";
 Rather[25] = "have a disease named after you";
-Rather[26] = "go on a retreat for competitive Twister players";
+Rather[26] = "go on a retreat for competitive checkers players";
 Rather[27] = "have an old timey car horn that goes <i>ah-oooooga</i>";
 Rather[28] = "wear a shirt with a picture of your face on it";
 Rather[29] = "wear bright red contact lenses";
@@ -45,7 +45,7 @@ Rather[38] = "decorate lavishly for Flag Day";
 Rather[39] = "record a podcast about metal detecting";
 Rather[40] = "eat a bowl of 5-alarm chili";
 Rather[41] = "broadcast your dreams live on YouTube";
-Rather[42] = "bet $1,000 on a snail race";
+Rather[42] = "bet $100 on a snail race";
 Rather[43] = "chaperone a high school prom";
 Rather[44] = "be an umbrella hat model";
 Rather[45] = "speak and write using old British English";
@@ -95,16 +95,14 @@ Rather[88] = "every time you buy something, tell the cashier a knock knock joke"
 Rather[89] = "join a debate team and argue that taxes should be higher";
 Rather[90] = "run across a snow covered football field barefoot";
 Rather[91] = "brush your teeth with mayonnaise";
-
-
-
-
-
-
-
-
-
-
+Rather[92] = "climb the stairs to the top of the Empire State Building";
+Rather[93] = "work as an outdoor window washer for a skyscraper";
+Rather[94] = "stay at a hippie commune";
+Rather[95] = "be the subject of a famous rapper's scathing diss track";
+Rather[96] = "get into a tickle fight with your neighbor";
+Rather[97] = "attend an outdoor movie festival in a pouring rain storm";
+Rather[98] = "cuddle a snake";
+Rather[99] = "see the Mothman";
 
 
 
