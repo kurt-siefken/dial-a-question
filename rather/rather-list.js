@@ -64,7 +64,7 @@ Rather[57] = "perform a stand-up comedy set about ants";
 Rather[58] = "deejay a weekly radio show of experimental acid jazz";
 Rather[59] = "speak without using the letter V";
 Rather[60] = "ask for a sarsaparilla every time someone takes your order";
-Rather[61] = "only be able to drink by using a crazy straw";
+Rather[61] = "drink only by using a crazy straw";
 Rather[62] = "decorate your lawn with a flock of plastic flamingos";
 Rather[63] = "sit next to a talkative ventriloquist on a 10&nbsp;hour flight";
 Rather[64] = "dig holes";
@@ -101,7 +101,7 @@ Rather[94] = "stay at a hippie commune";
 Rather[95] = "be the subject of a famous rapper's scathing diss track";
 Rather[96] = "get into a tickle fight with your neighbor";
 Rather[97] = "attend an outdoor movie festival in a pouring rain storm";
-Rather[98] = "cuddle a snake";
+Rather[98] = "ride a merry go round for 4 hours";
 Rather[99] = "see the Mothman";
 
 
