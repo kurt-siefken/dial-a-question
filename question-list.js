@@ -21,7 +21,7 @@ QuickQuestion[14] = "What is your guilty pleasure food?";
 QuickQuestion[15] = "What was the last movie or show you really got into?";
 QuickQuestion[16] = "What store can you spend a lot of time just looking around?";
 QuickQuestion[17] = "What is your favorite non-alcoholic drink?";
-QuickQuestion[18] = "If you had a million dollars to donate to charity, which cause would you choose?";
+QuickQuestion[18] = "Describe the socks you are wearing right now.";
 QuickQuestion[19] = "What is hanging on your refrigerator door?";
 QuickQuestion[20] = "How many Taylor Swift songs can you name?";
 QuickQuestion[21] = "Fill in the blank: When I dance, I look a ___.";
@@ -31,14 +31,16 @@ QuickQuestion[24] = "How far do you live from where you grew up?";
 QuickQuestion[25] = "What do you think of possums?";
 QuickQuestion[26] = "Do you prefer pets to have traditional pet names or human names?";
 QuickQuestion[27] = "What's the best kind of pie?";
-QuickQuestion[28] = "Which is better: bar soap or liquid soap?"
+QuickQuestion[28] = "Which is better: bar soap or liquid soap?";
 QuickQuestion[29] = "What do you usually eat for breakfast?";
 QuickQuestion[30] = "Do you prefer to wear a watch, or check the time on your phone?";
 QuickQuestion[31] = "Can you whistle? If so, are you a good whistler?";
 QuickQuestion[32] = "Have you ever sprayed whipped cream directly into your mouth?";
-
-
-
+QuickQuestion[33] = "On a scale of 1-10, how daring of a rollercoaster are you willing to ride?";
+QuickQuestion[34] = "When you go on vacation, are you an overplanner? Or do you go with the flow?";
+QuickQuestion[35] = "Do you read the instructions, or just wing it?";
+QuickQuestion[36] = "Do you talk back to your GPS when it tells you what to do?";
+QuickQuestion[37] = "What is your typical sneezing pattern?";
 
 
 
@@ -59,7 +61,7 @@ DiscQuestion[10] = "What is a word that you say wrong on purpose because it's fu
 DiscQuestion[11] = "What is something from your childhood that kids today won't understand?";
 DiscQuestion[12] = "What is a word or saying local to the area where you live?";
 DiscQuestion[13] = "When you hear <i>a guy walks into a bar</i> jokes, what kind of bar do you picture?";
-DiscQuestion[14] = "When you go on vacation, are you an overplanner? Or do you go with the flow?";
+DiscQuestion[14] = "Where is the most embarrassing public place you've fallen asleep?";
 DiscQuestion[15] = "When you hear the words <i>school lunch</i>, what do you think of?";
 DiscQuestion[16] = "What is a word you mispronounced for a long time?";
 DiscQuestion[17] = "What is something in popular culture that you just don't get?";
@@ -82,8 +84,8 @@ DiscQuestion[33] = "What's a non-dessert food that you could use as dessert?"
 DiscQuestion[34] = "You can choose any jigsaw puzzle. What is the picture you are piecing together?"
 DiscQuestion[35] = "If you could open one small business specialty store, what would you sell?"
 DiscQuestion[36] = "If you threw a message in a bottle into the sea, what would you write?"
-
-
+DiscQuestion[37] = "If you were leader of a popular band, how would you dress on stage?"
+DiscQuestion[38] = "If you had a million dollars to donate to charity, which cause would you choose?";
 
 
 
@@ -128,11 +130,11 @@ RidicQuestion[29] = "You have to eat dinner at a gas station. What do you get?";
 RidicQuestion[30] = "What is something you would describe as sophomoric?";
 RidicQuestion[31] = "What would be the worst &quotprize&quot to come out when you break open a pi&ntilde;ata?";
 RidicQuestion[32] = "If you went back in time 10 minutes, what would you do differently?";
-
-
-
-
-
+RidicQuestion[33] = "If you could rename Earth, what would you name it?";
+RidicQuestion[34] = "When you die, where would you like to come back and haunt?";
+RidicQuestion[35] = "In a condiment fight, which condiment do you choose, and which do you give to your opponent?";
+RidicQuestion[36] = "What animal would make the best stand-up comedian?";
+RidicQuestion[37] = "If you had to choose any country as your middle name, what country would you choose?";
 
 
 
@@ -172,7 +174,7 @@ WorkQuestion[29] = "If you were an octopus, what would you do with your 6 other 
 WorkQuestion[30] = "What is the best office supply to steal?";
 WorkQuestion[31] = "If you had an unlimited budget, what would you buy for your home office?";
 WorkQuestion[32] = "If your job was an adventure movie, what would the exciting action scene look like?";
-
+WorkQuestion[33] = "During a typical work day, what percentage of your co-workers arrive before you?";
 
 
 
