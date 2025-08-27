@@ -3,19 +3,19 @@ const Rather = [];
 
 
 /*----*/
-Rather[0] = "date an overly zealous birdwatcher";
-Rather[1] = "eat a large bowl of gummy worms";
+Rather[0] = "marry an enthusiastic cockroach farmer";
+Rather[1] = "eat a large bowl of gummy worm spaghetti";
 Rather[2] = "join a thrash metal band";
 Rather[3] = "use the professional email address CrazyCatLady@gmail.com";
 Rather[4] = "have glow in the dark toenails";
 Rather[5] = "write your own obituary";
 Rather[6] = "host bingo in a retirement home";
 Rather[7] = "let a 6 year old choose your outfit for a job interview";
-Rather[8] = "sneeze 33 times in a row";
+Rather[8] = "sneeze 33 times in a row every morning";
 Rather[9] = "be elected treasurer of a knitting club";
 Rather[10] = "join an improve troupe";
 Rather[11] = "take your next vacation in Fort Wayne, Indiana";
-Rather[12] = "wear toe socks";
+Rather[12] = "always wear toe socks";
 Rather[13] = "read the Complete and Unabridged History of Soap Making";
 Rather[14] = "live in a Las Vegas casino";
 Rather[15] = "carry a mouse around in your pocket";
@@ -29,7 +29,7 @@ Rather[22] = "compete in a hopscotch tournament";
 Rather[23] = "your phone dings every time someone wins a prize on The Price is Right";
 Rather[24] = "spend your birthday writing spoken word poetry in Panera";
 Rather[25] = "have a disease named after you";
-Rather[26] = "go on a retreat for competitive checkers players";
+Rather[26] = "go on a retreat for competitive solitaire players";
 Rather[27] = "have an old timey car horn that goes <i>ah-oooooga</i>";
 Rather[28] = "wear a shirt with a picture of your face on it";
 Rather[29] = "wear bright red contact lenses";
@@ -45,7 +45,7 @@ Rather[38] = "decorate lavishly for Flag Day";
 Rather[39] = "record a podcast about metal detecting";
 Rather[40] = "eat a bowl of 5-alarm chili";
 Rather[41] = "broadcast your dreams live on YouTube";
-Rather[42] = "bet $100 on a snail race";
+Rather[42] = "bet $500 on a snail race";
 Rather[43] = "chaperone a high school prom";
 Rather[44] = "be an umbrella hat model";
 Rather[45] = "speak and write using old British English";
@@ -60,7 +60,7 @@ Rather[53] = "honk like a goose every time you meet someone new";
 Rather[54] = "capture a skunk";
 Rather[55] = "skinny-dip on a busy night at the Bellagio fountain";
 Rather[56] = "transcribe the Constitution into pig latin";
-Rather[57] = "perform a stand-up comedy set about ants";
+Rather[57] = "perform an edgy stand-up comedy set about having athlete's foot";
 Rather[58] = "deejay a weekly radio show of experimental acid jazz";
 Rather[59] = "speak without using the letter V";
 Rather[60] = "ask for a sarsaparilla every time someone takes your order";
@@ -80,11 +80,11 @@ Rather[73] = "blow soap bubbles from your nose every time you wash your hands";
 Rather[74] = "sort 3,000 ping pong balls";
 Rather[75] = "live in a glamping yurt";
 Rather[76] = "have a phone that plays showtunes while charging";
-Rather[77] = "attend a speed-dating event in a bathing suit";
+Rather[77] = "attend a speed-dating event in a skimpy bathing suit";
 Rather[78] = "give motivational speeches";
-Rather[79] = "walk the red carpet wearing blinged out oven mitts";
+Rather[79] = "walk the red carpet wearing a skin-tight body suit";
 Rather[80] = "chew pork chop flavored gum";
-Rather[81] = "drive across Connecticut on a riding lawn mower";
+Rather[81] = "drive across Rhode Island on a riding lawn mower";
 Rather[82] = "work as a snake handler";
 Rather[83] = "write only using a feather quill";
 Rather[84] = "send exactly three text messages every day";
@@ -101,8 +101,15 @@ Rather[94] = "stay at a hippie commune";
 Rather[95] = "be the subject of a famous rapper's scathing diss track";
 Rather[96] = "get into a tickle fight with your neighbor";
 Rather[97] = "attend an outdoor movie festival in a pouring rain storm";
-Rather[98] = "ride a merry go round for 4 hours";
-Rather[99] = "see the Mothman";
+Rather[98] = "ride a merry go round for 6 hours";
+Rather[99] = "see the Mothman (not the movie, the actual Mothman)";
+Rather[100] = "go slam dancing";
+Rather[101] = "have your day-to-day life filmed for a reality tv show";
+
+
+
+
+
 
 
 

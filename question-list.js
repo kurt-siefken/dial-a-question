@@ -36,12 +36,12 @@ QuickQuestion[29] = "What do you usually eat for breakfast?";
 QuickQuestion[30] = "Do you prefer to wear a watch, or check the time on your phone?";
 QuickQuestion[31] = "Can you whistle? If so, are you a good whistler?";
 QuickQuestion[32] = "Have you ever sprayed whipped cream directly into your mouth?";
-QuickQuestion[33] = "On a scale of 1-10, how daring of a rollercoaster are you willing to ride?";
+QuickQuestion[33] = "On a scale of 1-10, how daring of a rollercoaster rider are you?";
 QuickQuestion[34] = "When you go on vacation, are you an overplanner? Or do you go with the flow?";
 QuickQuestion[35] = "Do you read the instructions, or just wing it?";
 QuickQuestion[36] = "Do you talk back to your GPS when it tells you what to do?";
 QuickQuestion[37] = "What is your typical sneezing pattern?";
-
+QuickQuestion[38] = "Where is the nearest swimming pool to where you are right now?";
 
 
 
@@ -80,7 +80,7 @@ DiscQuestion[29] = "What was your best Halloween costume?"
 DiscQuestion[30] = "What word do you always spell wrong?"
 DiscQuestion[31] = "What's a word that is fun to say?"
 DiscQuestion[32] = "If you could own any fictional vehicle, which would you choose?"
-DiscQuestion[33] = "What's a non-dessert food that you could use as dessert?"
+DiscQuestion[33] = "What's a non-dessert food that you could eat like a dessert?"
 DiscQuestion[34] = "You can choose any jigsaw puzzle. What is the picture you are piecing together?"
 DiscQuestion[35] = "If you could open one small business specialty store, what would you sell?"
 DiscQuestion[36] = "If you threw a message in a bottle into the sea, what would you write?"
@@ -146,7 +146,7 @@ WorkQuestion[1] = "If you had to email the CEO an emoji right now, what would it
 WorkQuestion[2] = "Have you ever attended a conference call in your pajamas?"
 WorkQuestion[3] = "How has AI impacted your job?"
 WorkQuestion[4] = "What's the most mundane part of your job?"
-WorkQuestion[5] = "Would you say anything if a co-worker inexplicably joined a large zoom call in a Spiderman mask?"
+WorkQuestion[5] = "What would you do if a co-worker inexplicably joined a large zoom call in a Spiderman mask?"
 WorkQuestion[6] = "If you work from home, what do you do with your saved commute time?"
 WorkQuestion[7] = "Do you know your company's motto?"
 WorkQuestion[8] = "How do you decompress after a particularly hard day at work?"
@@ -216,6 +216,6 @@ PosQuestion[24] = "What is something tough that you survived?"
 PosQuestion[25] = "What is something your 12 year old self would think is cool about you today?"
 PosQuestion[26] = "Who is someone that thinks highly of you?"
 PosQuestion[27] = "What is something you are looking forward to?"
-
+PosQuestion[28] = "What is something about yourself that you are working on improving?"
 
 
