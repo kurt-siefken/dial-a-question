@@ -146,7 +146,7 @@ WorkQuestion[1] = "If you had to email the CEO an emoji right now, what would it
 WorkQuestion[2] = "Have you ever attended a conference call in your pajamas?"
 WorkQuestion[3] = "How has AI impacted your job?"
 WorkQuestion[4] = "What's the most mundane part of your job?"
-WorkQuestion[5] = "What would you do if a co-worker inexplicably joined a large zoom call in a Spiderman mask?"
+WorkQuestion[5] = "What would you do if a co&#8209;worker inexplicably joined a large zoom call in a Spiderman mask?"
 WorkQuestion[6] = "If you work from home, what do you do with your saved commute time?"
 WorkQuestion[7] = "Do you know your company's motto?"
 WorkQuestion[8] = "How do you decompress after a particularly hard day at work?"
@@ -174,7 +174,7 @@ WorkQuestion[29] = "If you were an octopus, what would you do with your 6 other 
 WorkQuestion[30] = "What is the best office supply to steal?";
 WorkQuestion[31] = "If you had an unlimited budget, what would you buy for your home office?";
 WorkQuestion[32] = "If your job was an adventure movie, what would the exciting action scene look like?";
-WorkQuestion[33] = "During a typical work day, what percentage of your co-workers arrive before you?";
+WorkQuestion[33] = "During a typical work day, what percentage of your co&#8209;workers arrive before you?";
 
 
 
