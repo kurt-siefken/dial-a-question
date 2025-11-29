@@ -3,14 +3,39 @@ setTimeout(function(){
 },500);
 
 
+
+
+// Prepare this once per session
+let firsts = [];  // pool of indices we haven't used yet
+
+function initFirsts(array) {
+    firsts = [...array];         // copy the array
+    shuffle(firsts);             // shuffle once for randomness
+}
+
+// Your existing Fisher-Yates shuffle
 function shuffle(array) {
-    for (var i = array.length - 1; i > 0; i--) {
-        var j = Math.floor(Math.random() * (i + 1));
-        var temp = array[i];
-        array[i] = array[j];
-        array[j] = temp;
+    for (let i = array.length - 1; i > 0; i--) {
+        let j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
     }
 }
+
+// "Smart shuffle" that enforces unique first value
+function smartShuffle(array) {
+    if (firsts.length === 0) {
+        initFirsts(array);       // reset after all have been used
+    }
+
+    const firstValue = firsts.pop();   // unique first value
+    shuffle(array);                     // shuffle normally
+    const index = array.indexOf(firstValue);
+
+    // move that chosen value to the front
+    [array[0], array[index]] = [array[index], array[0]];
+}
+
+
 
 
 
@@ -19,14 +44,14 @@ function startwheel() {
 	document.getElementById("questionlist").innerHTML = "";
 
 	if (decklist = document.getElementById("deckid").innerHTML == 'Quick') {
-		shuffle(QuickQuestion);
+		smartShuffle(QuickQuestion);
 		for (let i = 0; i < 3; i++) {
 		QuickQuestion.forEach(creatediv);
 		}	
 	}
 
 	if (decklist = document.getElementById("deckid").innerHTML == 'Discussion') {
-		shuffle(DiscQuestion);
+		smartShuffle(DiscQuestion);
 		for (let i = 0; i < 3; i++) {
 		DiscQuestion.forEach(creatediv);
 		}
@@ -34,21 +59,21 @@ function startwheel() {
 
 
 	if (decklist = document.getElementById("deckid").innerHTML == 'Ridiculous') {
-		shuffle(RidicQuestion);
+		smartShuffle(RidicQuestion);
 		for (let i = 0; i < 3; i++) {
 		RidicQuestion.forEach(creatediv);
 		}
 	}
 
 	if (decklist = document.getElementById("deckid").innerHTML == 'Work') {
-		shuffle(WorkQuestion);
+		smartShuffle(WorkQuestion);
 		for (let i = 0; i < 3; i++) {
 		WorkQuestion.forEach(creatediv);
 		}
 	}
 
 	if (decklist = document.getElementById("deckid").innerHTML == 'Positive') {
-		shuffle(PosQuestion);
+		smartShuffle(PosQuestion);
 		for (let i = 0; i < 3; i++) {
 		PosQuestion.forEach(creatediv);
 		}
