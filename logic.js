@@ -142,7 +142,7 @@ buttonstartdeactive();
 
 
 function switchdeck(deckvalue) {
-
+	firsts = [];
 	document.getElementById("deckid").innerHTML = deckvalue;
 	document.getElementById("questionlist").innerHTML = "";
 
