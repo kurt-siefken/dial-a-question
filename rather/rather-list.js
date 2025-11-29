@@ -20,7 +20,7 @@ Rather[13] = "read the Complete and Unabridged History of Soap Making";
 Rather[14] = "live in a Las Vegas casino";
 Rather[15] = "carry a mouse around in your pocket";
 Rather[16] = "write an essay on the physics of boomerang throwing";
-Rather[17] = "sleep in Snoopy pajamas";
+Rather[17] = "go to work in Snoopy pajamas";
 Rather[18] = "go by the nickname &quot;Marbles&quot;";
 Rather[19] = "visit the Museum of Nail Clippers";
 Rather[20] = "be interviewed for Doofus Magazine";
@@ -82,13 +82,13 @@ Rather[75] = "live in a glamping yurt";
 Rather[76] = "have a phone that plays showtunes while charging";
 Rather[77] = "attend a speed-dating event in a skimpy bathing suit";
 Rather[78] = "give motivational speeches";
-Rather[79] = "walk the red carpet wearing a skin-tight body suit";
+Rather[79] = "walk the red carpet wearing a chicken suit";
 Rather[80] = "chew pork chop flavored gum";
 Rather[81] = "drive across Rhode Island on a riding lawn mower";
 Rather[82] = "work as a snake handler";
 Rather[83] = "write only using a feather quill";
 Rather[84] = "send exactly three text messages every day";
-Rather[85] = "speak with a Boston accent";
+Rather[85] = "speak with a thick Boston accent";
 Rather[86] = "wear burlap underwear";
 Rather[87] = "slap Santa Claus";
 Rather[88] = "every time you buy something, tell the cashier a knock knock joke";
@@ -105,9 +105,9 @@ Rather[98] = "ride a merry go round for 6 hours";
 Rather[99] = "see the Mothman (not the movie, the actual Mothman)";
 Rather[100] = "go slam dancing";
 Rather[101] = "have your day-to-day life filmed for a reality tv show";
-
-
-
+Rather[102] = "use a phone that never charges past 30%";
+Rather[103] = "have a password protected toilet in your bathroom";
+Rather[104] = "ask 30 strangers to take a selfie with you";
 
 
 
