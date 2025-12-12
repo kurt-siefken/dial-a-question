@@ -72,6 +72,13 @@ function startwheel() {
 		}
 	}
 
+	if (decklist = document.getElementById("deckid").innerHTML == 'Kids') {
+		smartShuffle(KidQuestion);
+		for (let i = 0; i < 3; i++) {
+		KidQuestion.forEach(creatediv);
+		}
+	}
+
 	if (decklist = document.getElementById("deckid").innerHTML == 'Positive') {
 		smartShuffle(PosQuestion);
 		for (let i = 0; i < 3; i++) {
