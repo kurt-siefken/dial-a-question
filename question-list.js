@@ -51,6 +51,9 @@ QuickQuestion[44] = "What is your favorite food topping (on anything)?";
 QuickQuestion[45] = "What is your phone's wallpaper right now?";
 
 
+
+
+
 const DiscQuestion = [];
 
 DiscQuestion[0] = "What is a question you have that Google can't answer?";
@@ -101,6 +104,10 @@ DiscQuestion[44] = "What would you do with some unexpected alone time?";
 
 
 
+
+
+
+
 const RidicQuestion = [];
 
 RidicQuestion[0] = "If you were writing a political thriller, what would the president's name be?";
@@ -130,13 +137,13 @@ RidicQuestion[23] = "What movie should be remade as a musical?";
 RidicQuestion[24] = "You can put googly eyes on any one thing in the world without being caught. Where do they go?";
 RidicQuestion[25] = "From now on, you can only speak in rhyme. How are you ordering dinner?";
 RidicQuestion[26] = "You are dropped into a corn maze with 100 random people. How many can you beat out?";
-RidicQuestion[27] = "You get $500 to beat any celebrity in a game of Parcheesi. Who do you choose?";
+RidicQuestion[27] = "You get $5,000 if you can beat any celebrity in a thumb wrestling match. Who do you choose?";
 RidicQuestion[28] = "If there was a museum dedicated to you, what would the gift shop sell?";
 RidicQuestion[29] = "You have to eat dinner at a gas station. What do you get?";
 RidicQuestion[30] = "What is something you would describe as sophomoric?";
 RidicQuestion[31] = "What would be the worst &quot;prize&quot; to come out when you break open a pi&ntilde;ata?";
 RidicQuestion[32] = "If you went back in time 10 minutes, what would you do differently?";
-RidicQuestion[33] = "If you could rename Earth, what would you name it?";
+RidicQuestion[33] = "If you could rename the state (or province) you live in, what would you name it?";
 RidicQuestion[34] = "When you die, where would you like to come back and haunt?";
 RidicQuestion[35] = "In a condiment fight, which condiment do you choose, and which do you give to your opponent?";
 RidicQuestion[36] = "What animal would make the best stand-up comedian?";
@@ -144,8 +151,13 @@ RidicQuestion[37] = "If you had to choose any country as your middle name, what 
 RidicQuestion[38] = "You have to convince a room full of people that you are an alien. How do you do it?";
 RidicQuestion[39] = "You get a lifetime supply of any item you can buy at the dollar store. What do you choose?";
 RidicQuestion[40] = "You are hired as a consultant to make elevators more fun. What are your suggestions?";
-
-
+RidicQuestion[41] = "If you were made of of pasta, what kind of pasta would you look for in a mate?";
+RidicQuestion[42] = "What would be the worst material to use for a raincoat?";
+RidicQuestion[43] = "Your fortune teller has a drive through lane. What do you ask into the speaker?";
+RidicQuestion[44] = "Where do you draw the line on wearing sweatpants in public?";
+RidicQuestion[45] = "You have to buy dinner for your nemesis. Where are you taking them?";
+RidicQuestion[46] = "If you could buy a <i>mystery vacation</i> at the price of an average vacation, would you do it?";
+RidicQuestion[47] = "If you learned how to hover 2 inches off the ground, how would it change your life?";
 
 
 
@@ -265,7 +277,7 @@ KidQuestion[12] = "You wake up and find a dolphin in your bathtub! How did it ge
 KidQuestion[13] = "If you could go to any restaurant on your birthday, where would you go?";
 KidQuestion[14] = "What's the funniest word you can think of?";
 KidQuestion[15] = "If an alien landed in your backyard, what would it look like?";
-KidQuestion[16] = "If you had $100, but could only use it to buy presents, what would you buy and who would you give them to?";
+KidQuestion[16] = "If you had $100 to spend on presents, what would you buy and who would you give them to?";
 KidQuestion[17] = "If you could choose a vacation anywhere in the world, where would you go?";
 KidQuestion[18] = "What is the most fun activity to do outside?";
 KidQuestion[19] = "If it rained candy, what kind of candy would you want?";

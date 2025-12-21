@@ -115,7 +115,7 @@ Rather[108] = "drink a glass of orange juice each night after brushing your teet
 Rather[109] = "wear sunglasses on the back of your head at all times";
 Rather[110] = "write a thank you note every time you order a meal";
 Rather[111] = "be followed by a small, harmless butterfly everywhere you go";
-Rather[112] = "work the phrase <i>Spoiler alert!</i> into two conversations a day";
+Rather[112] = "work the phrase <i>Spoiler alert!</i> into conversation twice a day";
 Rather[113] = "have a mild emoji allergy";
 
 
