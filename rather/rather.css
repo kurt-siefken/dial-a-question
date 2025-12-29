@@ -60,10 +60,10 @@ width: 100%;
 }
 
 .questionlist {
-  font-family: "Patrick Hand", cursive;
-  font-weight: 400;
+  font-family: "Comic Neue", cursive;
+  font-weight: 700;
   font-style: normal;
-font-size: 30px;
+font-size: 26px;
 line-height: .8em;
 position: relative;
 text-align: center;
@@ -156,8 +156,8 @@ body {font-size: 28px; line-height: 26px;}
 margin: 0px 20px;
 	}
 .questionlist {
-font-size: 22px;
-line-height: 22px;
+font-size: 18px;
+line-height: 1em;
 }
 }
 
