@@ -49,8 +49,8 @@ QuickQuestion[42] = "It's a snowy day, and you're stuck at home alone. What soun
 QuickQuestion[43] = "What's your favorite number?";
 QuickQuestion[44] = "What is your favorite food topping (on anything)?";
 QuickQuestion[45] = "What is your phone's wallpaper right now?";
-
-
+QuickQuestion[46] = "What is the farthest you've ever walked?";
+QuickQuestion[47] = "You get two scoops of ice cream. What flavors do you choose?";
 
 
 
@@ -101,7 +101,7 @@ DiscQuestion[41] = "What is the weirdest coincidence you've ever experienced?";
 DiscQuestion[42] = "What is something you do now that your teenage self would laugh at?";
 DiscQuestion[43] = "What is a weird tradition you or your family have?";
 DiscQuestion[44] = "What would you do with some unexpected alone time?";
-
+DiscQuestion[45] = "If you could change your birhtday, what date would you choose?";
 
 
 
@@ -208,7 +208,7 @@ WorkQuestion[38] = "What is something work-related that you secretly enjoy?";
 WorkQuestion[39] = "What is something you appreciate about your co-workers that isn't on any year-end review?";
 WorkQuestion[40] = "What is a work task you do that gets you into flow state so you lose track of time?";
 WorkQuestion[41] = "You are put in charge of your company's social media. How scared should the company be?";
-
+WorkQuestion[42] = "Office birthday parties: cool or cringe?";
 
 
 const PosQuestion = [];
