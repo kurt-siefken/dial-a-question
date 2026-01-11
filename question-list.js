@@ -102,7 +102,7 @@ DiscQuestion[42] = "What is something you do now that your teenage self would la
 DiscQuestion[43] = "What is a weird tradition you or your family have?";
 DiscQuestion[44] = "What would you do with some unexpected alone time?";
 DiscQuestion[45] = "If you could change your birthday, what date would you choose?";
-
+DiscQuestion[46] = "Going to DisneyWorld as an adult: Cool or cringe?";
 
 
 
@@ -156,7 +156,7 @@ RidicQuestion[42] = "What would be the worst material to use for a raincoat?";
 RidicQuestion[43] = "Your fortune teller has a drive through lane. What do you ask into the speaker?";
 RidicQuestion[44] = "Where do you draw the line on wearing sweatpants in public?";
 RidicQuestion[45] = "You have to buy dinner for your nemesis. Where are you taking them?";
-RidicQuestion[46] = "If you could buy a <i>mystery vacation</i> at the price of an average vacation, would you do it?";
+RidicQuestion[46] = "Your travel agent offers a <i>mystery vacation</i> at a decent price. Do you take it?";
 RidicQuestion[47] = "If you learned how to hover 2 inches off the ground, how would it change your life?";
 
 
