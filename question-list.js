@@ -158,7 +158,7 @@ RidicQuestion[44] = "Where do you draw the line on wearing sweatpants in public?
 RidicQuestion[45] = "You have to buy dinner for your nemesis. Where are you taking them?";
 RidicQuestion[46] = "Your travel agent offers a <i>mystery vacation</i> at a decent price. Do you take it?";
 RidicQuestion[47] = "If you learned how to hover 2 inches off the ground, how would it change your life?";
-
+RidicQuestion[48] = "If you were in charge of the next census, what question would you make everyone answer?";
 
 
 
