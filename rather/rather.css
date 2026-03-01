@@ -109,7 +109,7 @@ width: 100%;
   display: inline-block;
 }
 
-.stopbuttonoff {opacity: .4; pointer-events: none; }
+.stopbuttonoff, .startbuttonoff {opacity: .4; pointer-events: none; }
 .stopbuttonon {opacity: 1}
 
 .startbuttonshell {width: 100%; text-align: center; margin-top: 30px;}

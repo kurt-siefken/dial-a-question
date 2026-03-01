@@ -29,7 +29,8 @@ function startwheel() {
 		Rather.forEach(creatediv2);
 		}	
 
-
+document.getElementById("startbutton").classList.add("stopbuttonoff");
+document.getElementById("questionlist1").classList.add("startanimation");
 document.getElementById("questionlist1").classList.remove("stopanimation"); 
 document.getElementById("questionlist1").classList.add("startanimation");
 document.getElementById("questionlist2").classList.remove("stopanimation"); 
@@ -65,6 +66,20 @@ function stopwheel(wheelnum) {
 	document.getElementById("questionlist" + wheelnum).classList.add("stopanimation");
 	document.getElementById("stopbutton" + wheelnum).classList.remove("stopbuttonon"); 
 	document.getElementById("stopbutton" + wheelnum).classList.add("stopbuttonoff");
+
+const stop1 = document.getElementById("stopbutton1");
+const stop2 = document.getElementById("stopbutton2");
+
+if (
+  stop1.classList.contains("stopbuttonoff") &&
+  stop2.classList.contains("stopbuttonoff")
+) {
+setTimeout(() => {
+    document.getElementById("startbutton").classList.remove("stopbuttonoff");
+}, 2000);
+
+}
+
 
 }
 

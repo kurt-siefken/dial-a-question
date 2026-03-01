@@ -51,7 +51,7 @@ QuickQuestion[44] = "What is your favorite food topping (on anything)?";
 QuickQuestion[45] = "What is your phone's wallpaper right now?";
 QuickQuestion[46] = "What is the farthest you've ever walked?";
 QuickQuestion[47] = "You get two scoops of ice cream. What flavors do you choose?";
-
+QuickQuestion[48] = "What is the perfect temperature outside?";
 
 
 const DiscQuestion = [];
@@ -159,7 +159,7 @@ RidicQuestion[45] = "You have to buy dinner for your nemesis. Where are you taki
 RidicQuestion[46] = "Your travel agent offers a <i>mystery vacation</i> at a decent price. Do you take it?";
 RidicQuestion[47] = "If you learned how to hover 2 inches off the ground, how would it change your life?";
 RidicQuestion[48] = "If you were in charge of the next census, what question would you make everyone answer?";
-
+RidicQuestion[49] = "Do you think bowling pins feel pain, or are they excited to be knocked over?";
 
 
 
