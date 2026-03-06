@@ -160,7 +160,7 @@ RidicQuestion[46] = "Your travel agent offers a <i>mystery vacation</i> at a dec
 RidicQuestion[47] = "If you learned how to hover 2 inches off the ground, how would it change your life?";
 RidicQuestion[48] = "If you were in charge of the next census, what question would you make everyone answer?";
 RidicQuestion[49] = "Do you think bowling pins feel pain, or are they excited to be knocked over?";
-
+RidicQuestion[50] = "What are the pros and cons of dating a ghost?";
 
 
 
