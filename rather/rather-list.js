@@ -119,6 +119,6 @@ Rather[112] = "work the phrase <i>Spoiler alert!</i> into conversation twice a d
 Rather[113] = "have a mild emoji allergy";
 Rather[114] = "sleep in a coffin";
 Rather[115] = "drink 5 Red Bulls a day for a week";
-
+Rather[116] = "give a sermon speaking grammatically like Yoda";
 
 
