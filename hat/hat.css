@@ -86,3 +86,38 @@ box-sizing: border-box;
   opacity: 1;
   transform: translateY(0) scale(1) rotate(var(--rotate, 0deg));
 }
+
+
+
+
+.PageTitle {
+	text-align: center;
+	font-family: "Special Elite", system-ui;
+	color: #888;
+	font-size: .8em;
+	display: block;
+	width: 100%;
+	position: absolute;
+	top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+	.PageTitle {font-size: .6em; top: 20px;}
+	
+}
+

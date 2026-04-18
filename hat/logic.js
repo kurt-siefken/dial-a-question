@@ -87,11 +87,12 @@ function getNewHat() {
     newHat = listofhats[Math.floor(Math.random() * listofhats.length)];
   } while (newHat === currentSrc);
 
+newHat = "hats/" + newHat;
+
   return newHat;
 }
 
 const listofhats = [
-  "hat-default.png",
   "hat-green.png",
   "hat-baseball.png",
   "hat-pink.png",
@@ -100,7 +101,13 @@ const listofhats = [
   "hat-bucket.png",
   "hat-santa.png",
   "hat-usa.png",
+  "hat-sombrero.png",
+  "hat-construction.png",
+  "hat-sailor.png",
+  "hat-witch.png",
+  "hat-feathers.png",
+  "hat-cook.png",
+  "hat-fire.png",
 ];
 
 
-hatimage.setAttribute("src", getNewHat());
