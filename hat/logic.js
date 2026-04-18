@@ -1,5 +1,5 @@
 
-const hat = document.getElementById("hat");
+const hat = document.getElementById("hat-image");
 const sceneDisplay = document.getElementById("scene-card");
 const changehat = document.getElementById("change-hat");
 const hatimage = document.getElementById("hat-image");

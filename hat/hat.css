@@ -24,7 +24,7 @@ height: 100%;
 
 #hat {margin-top: 30px;}
 #hat img {width: 200px;}
-#hat:hover {cursor: pointer;}
+#hat-image:hover {cursor: pointer;}
 
 #scene {text-align: center; justify-content: center; align-items: flex-end;}
 
