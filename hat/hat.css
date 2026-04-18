@@ -1,0 +1,88 @@
+body {
+  font-family: "Gabarito", sans-serif;
+	font-size: 40px;
+	background-color: #F6F1E8;
+	border: 0px solid red;
+	margin: 0px;
+	padding: 0px;
+	line-height: 32px;
+	height: 100%;
+overflow: hidden
+}
+
+.pagestructure {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+border: 0px solid green;
+height: 100%;
+}
+
+#hat, #scene { height: 50%; border: 0px solid red;}
+#scene {display: flex; justify-content: flex-end; width: 100%;}
+
+#hat {margin-top: 30px;}
+#hat img {width: 200px;}
+#hat:hover {cursor: pointer;}
+
+#scene {text-align: center; justify-content: center; align-items: flex-end;}
+
+.shaking {
+  animation: shake 0.8s ease-in-out;
+}
+
+
+.change-hat {
+	position: absolute; 
+	bottom: 10px; 
+	right: 10px; 
+	font-size: 12px; 
+	border: 1px solid darkblue; 
+	padding: 0px 10px; 
+	border-radius: 5px;
+}
+
+.change-hat:hover {
+	cursor: pointer;
+}
+
+
+
+
+
+
+@keyframes shake {
+  0% { transform: rotate(0deg); }
+  20% { transform: rotate(-8deg) translateY(10px) translateX(-5px); }
+  40% { transform: rotate(8deg) translateY(0px) translateX(0px);}
+  60% { transform: rotate(-6deg)  translateY(10px) translateX(5px);}
+  80% { transform: rotate(6deg) translateY(0px) translateX(0px);}
+  100% { transform: rotate(0deg); }
+}
+
+
+
+.scene-card {
+  opacity: 0;
+  transform: translateY(20px) scale(0.95) rotate(var(--rotate, 0deg));
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  background-color: #fff;
+  display: inline-block;
+  padding: 20px 30px;
+border: 1px solid #ccc;
+max-width: min(500px, 90%);
+text-align: center;
+text-wrap-style: balance;
+box-sizing: border-box;
+
+  font-family: "Boogaloo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.scene-card.show {
+  opacity: 1;
+  transform: translateY(0) scale(1) rotate(var(--rotate, 0deg));
+}
