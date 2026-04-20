@@ -109,7 +109,7 @@ const scenes = [
   "Modern additions to the Ten Commandments",
   "If dogs told jokes",
   "Inappropriate times to break into laughter",
-  "Bad things to do during an earthquake",
+  "Bad things to be doing during an earthquake",
   "People you wish would just shut up",
   "Things you shouldn't do when confronted by street gang",
   "Difficult things to sell door to door",
@@ -198,10 +198,25 @@ const scenes = [
   "If department store mannequins could talk",
   "Odd things to hear from the voices in your head",
   "If your thoughts were amplified on loud speakers",
-
-
-
-
+  "Bad table etiquette",
+  "Living with 160 cats",
+  "I didn't know the mic was on",
+  "Dumb criminals being caught in the act",
+  "If adults settled disputes the way kids do",
+  "Ads where the style and product don't match",
+  "Bad times to take off your pants",
+  "Weird things to time",
+  "Unfortunate times to become nauseous",
+  "Things you shouldn't be doing while talking on the phone",
+  "Worst cliffhanger lines leading into a commercial",
+  "Self help books written by dogs",
+  "Worst person to share an elevator with",
+  "If statues could speak",
+  "The right way... and the wrong way",
+  "Bad things to see written in the sky",
+  "Things they never write songs about",
+  "What Santa really does when he arrives down your chimney",
+  "Odd things to have written in icing on a cake",
 
 ];
 
