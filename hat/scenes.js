@@ -217,6 +217,10 @@ const scenes = [
   "Things they never write songs about",
   "What Santa really does when he arrives down your chimney",
   "Odd things to have written in icing on a cake",
+  "Aliens arriving in the USA",
+  "Pro athletes doing normal jobs",
+  "Bad ideas for a stand up comedian",
+
 
 ];
 
