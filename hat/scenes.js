@@ -220,6 +220,10 @@ const scenes = [
   "Aliens arriving in the USA",
   "Pro athletes doing normal jobs",
   "Bad ideas for a stand up comedian",
+  "Terrible babysitters",
+  "Low budget zoos",
+  "Rich people in prison",
+  "Two jobs you can't do at the same time",
 
 
 ];

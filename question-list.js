@@ -52,7 +52,7 @@ QuickQuestion[45] = "What is your phone's wallpaper right now?";
 QuickQuestion[46] = "What is the farthest you've ever walked?";
 QuickQuestion[47] = "You get two scoops of ice cream. What flavors do you choose?";
 QuickQuestion[48] = "What is the perfect temperature outside?";
-
+QuickQuestion[49] = "How low do you let your cell phone battery go before you charge it?";
 
 const DiscQuestion = [];
 
@@ -102,7 +102,7 @@ DiscQuestion[42] = "What is something you do now that your teenage self would la
 DiscQuestion[43] = "What is a weird tradition you or your family have?";
 DiscQuestion[44] = "What would you do with some unexpected alone time?";
 DiscQuestion[45] = "If you could change your birthday, what date would you choose?";
-DiscQuestion[46] = "Going to DisneyWorld as an adult: Cool or cringe?";
+DiscQuestion[46] = "Going to DisneyWorld as an adult: Cool or kinda weird?";
 
 
 
