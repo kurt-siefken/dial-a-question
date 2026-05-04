@@ -158,7 +158,7 @@ cursor: pointer;
 border: 4px solid #888;
 position: relative;
 overflow: hidden;
-height: 100px;
+height: 150px;
 margin: 0px;
 border-top: 0px;
 margin-bottom: 30px;
@@ -179,7 +179,7 @@ color: #1b407d;
 }
 
 #questionlist div {
-height: 100px;
+height: 150px;
 display: flex;
 align-items: center;
 justify-content: center;
@@ -225,26 +225,26 @@ line-height: 1em;
 
 /* The animation code */
 @keyframes startroll {
-  from {top: -1050px;}
-  to {top: -50px;}
+  from {top: -1575px;}
+  to {top: -75px;}
 }
 
 .startanimation {
   animation-name: startroll;
-  animation-duration: 1s;
+  animation-duration: 1.1s;
   animation-iteration-count: infinite;
 animation-timing-function: linear;
 }
 
 /* The animation code */
 @keyframes stoproll {
-  from {top: -400px;}
+  from {top: -600px;}
   to {top: 0px;}
 }
 
 .stopanimation {
   animation-name: stoproll;
-  animation-duration: 1s;
+  animation-duration: 1.1s;
   animation-iteration-count: 1;
 animation-timing-function: ease-out;
 }
