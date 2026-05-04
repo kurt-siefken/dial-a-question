@@ -37,7 +37,7 @@ border: 0px solid blue;
 .pagename {
 	font-family: "Special Elite", system-ui;
 text-align: center;
-font-size: 46px;
+font-size: 40px;
 display: block;
 line-height: 60px;
 margin-bottom: 30px;
@@ -49,11 +49,11 @@ margin-bottom: 40px;
 
 .startstopbutton:hover {cursor: pointer}
 .startstopbutton{
-  width: 130px;
-  height: 130px;
-  line-height: 130px;
+  width: 110px;
+  height: 110px;
+  line-height: 110px;
   border-radius: 50%;
-  font-size: 30px;
+  font-size: 28px;
   text-align: center;
 margin: 0px 30px;
 text-transform: uppercase; 
@@ -77,7 +77,7 @@ display: flex;
 width: 100%;
 justify-content: center;
 align-items: center;
-margin-top: 40px;
+
 }
 
 
@@ -169,7 +169,7 @@ background-color: #fff;
   font-family: "Comic Neue", cursive;
   font-weight: 700;
   font-style: normal;
-font-size: 30px;
+font-size: 32px;
 line-height: 1em;
 position: relative;
 text-align: center;
@@ -213,7 +213,7 @@ body {font-size: 28px; line-height: 26px;}
 margin: 0px 20px;
 	}
 #questionlist {
-font-size: 20px;
+font-size: 22px;
 line-height: 1em;
 }
 }
