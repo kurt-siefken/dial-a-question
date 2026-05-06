@@ -1,0 +1,76 @@
+<html style="height: 100%;">
+<head>
+<title>Beat the Ding</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&&family=Luckiest+Guy&&family=Commissioner:wght@100..900&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="ding.css">
+<link rel="icon" type="image/x-icon" href="favicon.png">
+
+
+
+<script type="text/javascript" src="dinglist.js"></script>
+<script type="text/javascript" src="logic.js" defer></script>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body id="pagebody"  class="preload">
+
+
+
+
+<div class="menu-toggle" aria-label="Open menu">☰</div>
+
+<nav class="side-menu" id="sideMenu">
+  <button class="close-menu" aria-label="Close menu">×</button>
+
+  <a href="../index.html">Dial a Question</a>
+  <a href="../rather/index.html">Would You Rather</a>
+  <a href="../hat/index.html">Scenes From a Hat</a>
+  <div class="menu-selected">Beat the Ding</div>
+</nav>
+
+<div class="overlay" id="overlay"></div>
+
+
+
+
+
+<div class="PageTitle">Beat the Ding!</div>
+
+<div class="pagestructure">
+
+<div class="TheSetup">
+	<div class="ThePrompt">
+		<div class="TheDeadline"><span id="TimeText" class="TimeText">&nbsp;</span></div>
+		<div class="TheScene">
+			<div id="SceneList" class="SceneList">
+
+			</div>
+
+		</div>
+	</div>
+	<div class="TheTimer">
+		<div id="TimerShell" class="TimerShell TimerOff">
+			<div class="TimerButton" id="TimerButton"></div>
+		</div>
+	</div>
+</div>
+
+
+<div class="ButtonRow">
+<div onClick="NewGame()" id="StartButton" class="GreenButton Buttons">NEW GAME</div>
+<div onClick="StartStopTimer()" id="StartClock" class="GreenButton Buttons turnoff">START CLOCK</div>
+</div>
+
+</div>
+
+
+
+
+</body>
+</html>

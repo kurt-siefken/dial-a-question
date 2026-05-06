@@ -1,0 +1,418 @@
+body {
+  font-family: "Gabarito", sans-serif;
+	font-size: 40px;
+	background-color: #F6F1E8;
+	border: 0px solid red;
+	margin: 0px;
+	padding: 0px;
+	line-height: 32px;
+	height: 100%;
+  font-family: "Commissioner", sans-serif;
+overflow: hidden;
+}
+
+.pagestructure {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+border: 0px solid green;
+height: 100%;
+font-size: 24px;
+}
+
+
+
+.TheSetup {display: flex; width: 90%; max-width: 800px;}
+
+
+.ThePrompt {
+	background-color: #fff;
+	width: 66%;
+	border: 2px solid #888;
+
+
+}
+
+.TheDeadline {
+	background-color: #888;
+	color: #fff;
+	padding: 10px;
+	height: 30px;
+}
+
+.TheScene {
+	0px;
+	height: 150px;
+	position: relative;
+	overflow: hidden;
+}
+
+.SceneList {
+	position: absolute;
+}
+
+.SceneUnit {
+	height: 150px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-wrap: balance;
+	padding: 0px 20px;
+}
+
+
+.TheTimer {
+	margin-left: 20px;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	position: relative;
+}
+
+.TimerShell {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 5px solid #888;
+	background-color: #fff;
+	width: 170px;
+	height: 170px;
+  	border-radius: 50%;
+	z-index: 5;
+	position: relative;
+}
+
+
+
+.TimerButton {
+  line-height: 110px;
+
+  font-size: 100px;
+  text-align: center;
+  margin: 0px 30px;
+  text-transform: uppercase; 
+  font-weight: 700;
+
+  font-family: "Luckiest Guy", sans-serif;
+
+}
+
+.TimerOn {border: 5px solid green; opacity: 1;}
+.TimerOff {border: 5px solid #888; opacity: 1;}
+
+
+
+
+.PageTitle {
+	text-align: center;
+	font-family: "Special Elite", system-ui;
+	color: #888;
+	font-size: .8em;
+	display: block;
+	width: 100%;
+	position: absolute;
+	top: 30px;
+	border-bottom: 0px solid #999;
+}
+
+.TimeText {
+
+	
+}
+
+#StartClock{
+	width: 200px;
+	text-align: center;
+}
+
+.ButtonRow {
+	display: flex;
+	margin-top: 30px;
+}
+
+.Buttons {
+	margin: 5px;
+  	text-transform: uppercase; 
+	font-weight: bold;
+	cursor: pointer;
+  	border-radius: 10px;
+  	padding: 10px 20px;	
+	text-align: center;
+}
+
+
+
+.GreenButton {
+	color: #fff; 
+	background-color: #12b61a; 
+	border: 3px solid #346D37; 
+	background-image: linear-gradient(180deg, #2ddf35 0%, #069c0d 100%); 
+	text-shadow: 1px 1px 2px black;
+}
+
+
+.RedButton {
+	color: #fff; 
+	background-color: red; 
+	border: 3px solid #8C3737;  
+	background-image: linear-gradient(180deg, #ea0d0d 0%, #8c3737 100%);  
+	text-shadow: 1px 1px 2px black;
+}
+
+
+
+
+.turnoff {
+	opacity: .3;
+	pointer-events: none;
+}
+
+
+
+
+/* The animation code */
+@keyframes startroll {
+  from {top: -1200px;}
+  to {top: 0px;}
+}
+
+.startanimation {top: 0px;
+  animation: startroll 1.5s forwards;
+  animation-timing-function: ease-out;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+	.PageTitle {font-size: .6em; top: 20px;}
+	.TheSetup {flex-direction: column;}
+	.ThePrompt {width: 100%;}
+	.TheTimer {margin: auto; margin-top: -20px;}
+	.TimerShell {height: 120px; width: 120px;}
+	.TheDeadline {font-size: 16px; height: 30px; padding: 5px 10px;}
+	.ButtonRow {flex-direction: column; margin-top: 10px auto; width: 90%;}
+	.Buttons {padding: 5px; width: auto;}
+	#StartClock {width: auto;}
+	
+}
+
+
+
+
+
+
+
+
+/* ---------- TIMER ANIMATION ----------- */
+
+
+
+.tick {
+  animation: tickPop 0.2s ease;
+}
+
+@keyframes tickPop {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.3);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+
+
+#TimerButton.warning {
+  color: orange;
+
+}
+
+#TimerButton.danger {
+  color: red;
+  animation: shake 0.3s infinite, pulse 0.3s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.15);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes shake {
+  0% {
+    translate: 0;
+  }
+
+  25% {
+    translate: -1px;
+  }
+
+  50% {
+    translate: 1px;
+  }
+
+  75% {
+    translate: -1px;
+  }
+
+  100% {
+    translate: 0;
+  }
+}
+
+
+
+
+#TimerButton.explode {
+  animation: explodeAway .7s ease-out forwards;
+color: blue;
+}
+
+@keyframes explodeAway {
+  0% {
+    transform: scale(1) rotate(0deg);
+    opacity: 1;
+  }
+
+  60% {
+    transform: scale(10) rotate(12deg);
+    opacity: 0.8;
+  }
+
+  100% {
+    transform: scale(14) rotate(-18deg);
+    opacity: 0;
+  }
+}
+
+
+/* ---------- TIMER ANIMATION ----------- */
+
+
+
+
+
+
+
+/* ---------- HAMBURGER MENU ----------- */
+
+
+.menu-toggle {
+  font-size: 2rem;
+  background: none;
+  border: 0px solid red;
+  display: inline-block;
+  padding: 20px;
+  z-index: 10;
+  position: relative;
+  cursor: pointer;
+ }
+
+
+
+.side-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 260px;
+  height: 100vh;
+  background: #222;
+  padding: 2rem 1.5rem;
+  transform: translateX(-100%);
+  transition: transform 0.25s ease;
+  z-index: 1000;
+}
+
+.side-menu.open {
+  transform: translateX(0);
+}
+
+.side-menu a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  margin: 1rem 0;
+  font-size: 1.2rem;
+}
+
+.menu-selected {
+  opacity: .8;
+  display: block;
+  color: white;
+  text-decoration: none;
+  margin: 1rem 0;
+  font-size: 1.2rem;
+  text-decoration: underline;
+}
+
+.close-menu {
+  background: none;
+  border: 0;
+  color: white;
+  font-size: 2rem;
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+  z-index: 999;
+}
+
+.overlay.open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+
+
+/* ---------- HAMBURGER MENU ----------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

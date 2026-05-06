@@ -203,7 +203,6 @@ const scenes = [
   "I didn't know the mic was on",
   "Dumb criminals being caught in the act",
   "If adults settled disputes the way kids do",
-  "Ads where the style and product don't match",
   "Bad times to take off your pants",
   "Weird things to time",
   "Unfortunate times to become nauseous",
@@ -224,6 +223,11 @@ const scenes = [
   "Low budget zoos",
   "Rich people in prison",
   "Two jobs you can't do at the same time",
+  "Criminal moms",
+  "Terrible bodyguards",
+  "Worst things to hear over the Walmart spearkers",
+
+
 
 
 ];
