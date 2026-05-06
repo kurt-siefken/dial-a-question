@@ -18,9 +18,13 @@ align-items: center;
 border: 0px solid green;
 height: 100%;
 font-size: 24px;
+margin: auto;
 }
 
-
+.pageblock {
+display: flex; width: 90%; max-width: 800px;
+margin: auto;
+}
 
 .TheSetup {display: flex; width: 90%; max-width: 800px;}
 
@@ -125,6 +129,7 @@ font-size: 24px;
 .ButtonRow {
 	display: flex;
 	margin-top: 30px;
+	justify-content: center;
 }
 
 .Buttons {
@@ -186,15 +191,15 @@ font-size: 24px;
 
 @media screen and (max-width: 600px) {
 	.PageTitle {font-size: .6em; top: 20px;}
-	.TheSetup {flex-direction: column;}
+	.TheSetup {flex-direction: column; margin: auto;}
 	.ThePrompt {width: 100%;}
 	.TheTimer {margin: auto; margin-top: -20px;}
 	.TimerShell {height: 120px; width: 120px;}
 	.TheDeadline {font-size: 16px; height: 30px; padding: 5px 10px;}
-	.ButtonRow {flex-direction: column; margin-top: 10px auto; width: 90%;}
+	.ButtonRow {flex-direction: column; margin: 10px auto; width: 90%;}
 	.Buttons {padding: 5px; width: auto;}
 	#StartClock {width: auto;}
-	.pagestructure {height: auto; margin-top: 30px;}
+	.pagestructure {}
 	.TimerButton {}
 }
 

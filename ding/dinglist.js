@@ -23,7 +23,7 @@ let dinglist = [
 ["Name 5 things with a clock while doing a robot voice", 12],
 ["Name 4 things you're afraid of in a tiny, squeaky voice", 9],
 ["Name 5 sports while pantomiming playing them", 11],
-["Name 5 things you can find at a hardware store", 10],
+["Name 5 things you can find at a hardware store and 2 you can't", 12],
 ["Name 4 planets and 3 periodic table elements", 12],
 ["Name 6 things that are physically sticky", 12],
 ["Name 6 body parts that come in pairs", 10],
