@@ -88,7 +88,12 @@ font-size: 24px;
 
 .TimerButton {
   font-size: 100px;
-  font-family: "Luckiest Guy", sans-serif;
+  // font-family: "Special Elite", system-ui;
+margin-top: 0px;
+height: 100px;
+display: flex;
+align-items: center;
+ font-family: "Luckiest Guy", sans-serif;
 }
 
 .TimerOn {border: 5px solid green; opacity: 1;}
