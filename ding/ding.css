@@ -1,5 +1,4 @@
 body {
-  font-family: "Gabarito", sans-serif;
 	font-size: 40px;
 	background-color: #F6F1E8;
 	border: 0px solid red;
@@ -87,13 +86,12 @@ font-size: 24px;
 
 
 .TimerButton {
-  font-size: 100px;
+  	font-size: 100px;
   // font-family: "Special Elite", system-ui;
-margin-top: 0px;
-line-height: 300px;
-display: flex;
-align-items: center;
- font-family: "Luckiest Guy", sans-serif;
+	margin-top: 0px;
+	display: flex;
+	align-items: center;
+ 	font-family: "Calistoga", sans-serif;
 }
 
 .TimerOn {border: 5px solid green; opacity: 1;}
