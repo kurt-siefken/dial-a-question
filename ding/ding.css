@@ -89,11 +89,12 @@ font-size: 24px;
 .TimerButton {
   font-size: 100px;
   text-align: center;
-  margin: 0px 30px;
+  margin: auto;
   text-transform: uppercase; 
   font-family: "Luckiest Guy", sans-serif;
   display: flex;
   align-items: center;
+
 }
 
 .TimerOn {border: 5px solid green; opacity: 1;}
