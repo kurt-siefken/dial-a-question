@@ -15,12 +15,37 @@
 <script type="text/javascript" src="logic.js"></script>
 
 
+<link rel="stylesheet" href="menu/menu.css">
+<script type="text/javascript" src="menu/menu.js" defer></script>
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body id="pagebody"  class="preload">
 
-	
+
+
+
+
+
+
+<!-------------- MENU ---------------->
+<div class="menu-toggle" aria-label="Open menu">☰</div>
+
+<nav class="side-menu" id="sideMenu">
+  <button class="close-menu" aria-label="Close menu">×</button>
+
+  <div class="menu-selected">Dial a Question</div>
+  <a href="rather/index.html">Would You Rather</a>
+  <a href="hat/index.html">Scenes From a Hat</a>
+  <a href="ding/index.html">Beat the Ding</a>
+</nav>
+
+<div class="overlay" id="overlay"></div>
+<!-------------- MENU ---------------->
+
+
+
 
 
 <div class="pagestructure">
@@ -43,8 +68,6 @@
 		<div class="deckchoice" onclick="switchdeck('Positive')">Positive Questions</div>
 		<div class="deckchoice" onclick="switchdeck('Kids')">Kids Questions</div>
 		<div class="deckchoice" onclick="switchdeck('Work')">Work Questions</div>
-		<div class="deckchoice decklink"><a href="rather/index.html">Would You Rather...?</a></div>
-		<div class="deckchoice decklink"><a href="hat/index.html">Scenes from a Hat</a></div>
 	</div>
 <div class="thedeck" id="thedeck"><span id="deckid">Quick</span> Questions</div>
 </div>

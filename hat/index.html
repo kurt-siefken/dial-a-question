@@ -4,7 +4,7 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Boogaloo&&family=Special+Elite&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Boogaloo&&family=Special+Elite&family=Gabarito&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="hat.css">
 <link rel="icon" type="image/x-icon" href="favicon.png">
@@ -14,11 +14,30 @@
 <script type="text/javascript" src="scenes.js"></script>
 <script type="text/javascript" src="logic.js" defer></script>
 
+<link rel="stylesheet" href="../menu/menu.css">
+<script type="text/javascript" src="../menu/menu.js" defer></script>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body id="pagebody"  class="preload">
+
+<!-------------- MENU ---------------->
+<div class="menu-toggle" aria-label="Open menu">☰</div>
+
+<nav class="side-menu" id="sideMenu">
+  <button class="close-menu" aria-label="Close menu">×</button>
+
+  <a href="../index.html">Dial a Question</a>
+  <a href="../rather/index.html">Would You Rather</a>
+  <div class="menu-selected">Scenes From a Hat</div>
+  <a href="../ding/index.html">Beat the Ding</a>
+</nav>
+
+<div class="overlay" id="overlay"></div>
+<!-------------- MENU ---------------->
+
+
 
 <div class="PageTitle">Scenes From a Hat</div>
 
