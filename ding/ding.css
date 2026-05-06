@@ -124,6 +124,7 @@ margin: auto;
 #StartClock{
 	width: 200px;
 	text-align: center;
+
 }
 
 .ButtonRow {
@@ -198,7 +199,7 @@ margin: auto;
 	.TheDeadline {font-size: 16px; height: 30px; padding: 5px 10px;}
 	.ButtonRow {flex-direction: column; margin: 10px auto; width: 90%;}
 	.Buttons {padding: 5px; width: auto;}
-	#StartClock {width: auto;}
+	#StartClock {width: auto; padding: 30px 0px;}
 	.pagestructure {}
 	.TimerButton {}
 }
