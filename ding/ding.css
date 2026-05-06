@@ -93,10 +93,9 @@ font-size: 24px;
   text-align: center;
   margin: 0px 30px;
   text-transform: uppercase; 
-  font-weight: 700;
-
   font-family: "Luckiest Guy", sans-serif;
-
+  display: flex;
+  align-items: center;
 }
 
 .TimerOn {border: 5px solid green; opacity: 1;}
@@ -199,6 +198,7 @@ font-size: 24px;
 	.ButtonRow {flex-direction: column; margin-top: 10px auto; width: 90%;}
 	.Buttons {padding: 5px; width: auto;}
 	#StartClock {width: auto;}
+	.pagestructure {height: auto; margin-top: 30px;}
 	
 }
 
