@@ -65,7 +65,7 @@ setTimeout(() => {
 
 selectedTime = firstItem[1] ;
 document.getElementById("TimeText").innerHTML= "You have <b>" + selectedTime + " SECONDS</b> to...";
-document.getElementById("TimerButton").innerHTML= selectedTime;
+document.getElementById("TimerButton").textContent = selectedTime;
 	document.getElementById("StartClock").classList.remove("turnoff");
 	document.getElementById("StartClock").textContent = "Start Clock";
 

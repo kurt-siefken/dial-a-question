@@ -87,8 +87,6 @@ font-size: 24px;
 
 
 .TimerButton {
-  line-height: 110px;
-
   font-size: 100px;
   text-align: center;
   margin: 0px 30px;
@@ -199,7 +197,7 @@ font-size: 24px;
 	.Buttons {padding: 5px; width: auto;}
 	#StartClock {width: auto;}
 	.pagestructure {height: auto; margin-top: 30px;}
-	
+	.TimerButton {}
 }
 
 
