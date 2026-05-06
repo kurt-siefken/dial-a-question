@@ -87,8 +87,8 @@ font-size: 24px;
 
 
 .TimerButton {
-
-
+  font-size: 100px;
+  font-family: "Luckiest Guy", sans-serif;
 }
 
 .TimerOn {border: 5px solid green; opacity: 1;}
