@@ -122,11 +122,11 @@ updateCountdownStyle();
       timer = null;
       EndTimer();
 countdownEl.classList.remove("warning", "danger", "tick");
-countdownEl.textContent = "Ding!";
+countdownEl.textContent = "DING!";
 countdownEl.classList.add("explode");
 setTimeout(() => {
 countdownEl.classList.remove("explode");
-countdownEl.innerHTML = "<div style='font-size: 82px; color: blue; transform: rotate(-20deg);'>DING!</div>";
+countdownEl.innerHTML = "<div class='FinalDing'>DING!</div>";
 }, 1000);
     }
   }, 1000);

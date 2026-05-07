@@ -21,14 +21,14 @@ let dinglist = [
 ["Name 5 farm animals while making their specific noises", 12],
 ["Name 5 US States in a cowboy accent", 10],
 ["Name 5 things with a clock while doing a robot voice", 12],
-["Name 4 things you're afraid of in a tiny, squeaky voice", 9],
-["Name 5 sports while pantomiming playing them", 11],
+["Name 4 things you're afraid of while looking frightened", 9],
+["Name 6 sports while pantomiming playing them", 10],
 ["Name 5 things you can find at a hardware store and 2 you can't", 12],
 ["Name 4 planets and 3 periodic table elements", 12],
 ["Name 6 things that are physically sticky", 12],
 ["Name 6 body parts that come in pairs", 10],
 ["Name 5 board games", 10],
-["Name 7 words that rhyme with Light", 14],
+["Name 7 words that rhyme with Light", 12],
 ["Name 5 instruments you blow into", 11],
 ["Name 6 hobbies that require a helmet", 11],
 ["Name 5 cartoon villains while laughing like one", 15],
@@ -40,7 +40,7 @@ let dinglist = [
 ["Name 3 things that smell terrible and 4 things that smell great", 12],
 ["Name 6 words that contain the letter X", 12],
 ["Name 5 ways to cook an egg", 11],
-["Name 3 things you should never do at a funeral", 12],
+["Name 3 things you should never do at a funeral", 11],
 ["Name 4 types of dinosaurs while stomping your feet", 11],
 ["Name 4 words that start and end with the same letter", 11],
 ["Name 4 sea animals and 4 land animals", 15],
@@ -51,7 +51,7 @@ let dinglist = [
 ["Name 3 things that float and 3 things that sink", 14],
 ["Name 3 expensive things and 3 cheap things", 14],
 ["Name 4 things you can balance on your head", 9],
-["Name 6 things under you can buy with a 10 dollar bill", 12],
+["Name 6 things you can buy with a 10 dollar bill", 12],
 ["Name 5 things you see at a beach", 11],
 ["Name 3 things that are soft and 3 things that are hard", 12],
 ["Name 3 winter Olympic sports and 3 summer Olympic sports", 13],
@@ -68,9 +68,23 @@ let dinglist = [
 ["Name 3 things you drink from a cup and 3 types of cakes", 12],
 ["Using a monotone voice, name 5 things you find in a classroom", 12],
 ["While yawning, name 5 things you do right after waking up", 12],
-["Name 5 things that start with Super", 12],
+["Name 5 words that start with Super", 12],
 ["Name 5 places you don't want to be right now", 11],
+["Name 5 car parts and 3 dish set parts", 13],
+["Name 3 movie monsters and 3 rooms in an office building", 13],
+["Name 5 things associated with pirates while talking like a pirate", 13],
+["Name 5 apps on your phone", 10],
+["Name 7 words you might here in a weather report", 15],
+["Point to 5 body parts in alphabetical order", 11],
+["Name 6 types of delicious dips", 11],
 
 
 
 ];
+
+
+
+
+
+
+

@@ -63,6 +63,7 @@ margin: auto;
 	align-items: center;
 	text-wrap: balance;
 	padding: 0px 20px;
+	line-height: 1em;
 }
 
 
@@ -184,7 +185,17 @@ margin: auto;
   animation-timing-function: ease-out;
 }
 
+.FinalDing {
 
+text-shadow: 
+    -2px -2px 0 #FFF,  
+     2px -2px 0 #FFF,
+    -2px  2px 0 #FFF,
+     2px  2px 0 #FFF;
+	font-size: 82px;
+	color: blue;
+	transform: rotate(-20deg);
+}
 
 
 
@@ -217,6 +228,7 @@ margin: auto;
 
 .tick {
   animation: tickPop 0.2s ease;
+
 }
 
 @keyframes tickPop {
@@ -287,6 +299,11 @@ margin: auto;
 #TimerButton.explode {
   animation: explodeAway .7s ease-out forwards;
 color: blue;
+text-shadow: 
+    -1px -1px 0 #FFF,  
+     1px -1px 0 #FFF,
+    -1px  1px 0 #FFF,
+     1px  1px 0 #FFF;
 }
 
 @keyframes explodeAway {
