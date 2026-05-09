@@ -33,7 +33,7 @@ let dinglist = [
 ["Name 6 hobbies that require a helmet", 11],
 ["Name 5 cartoon villains while laughing like one", 15],
 ["Name 5 people who were born before 1900", 12],
-["Name 7 things that are smaller than a breadbox", 10],
+["Name 7 things that might be in your glove compartment", 10],
 ["Name 5 items of clothing you'd wear in Antarctica", 12],
 ["Name 5 things you definitely won't see out the nearest window", 12],
 ["Name 5 excuses for being late", 15],
@@ -76,8 +76,9 @@ let dinglist = [
 ["Name 5 apps on your phone", 10],
 ["Name 7 words you might hear in a weather report", 15],
 ["Point to 5 body parts in alphabetical order", 11],
-["Name 6 types of delicious dip", 11],
-["Name 5 alternate uses for a traffic cone", 12],
+["Name 6 delicious types of dip", 11],
+["Name 4 alternate uses for a traffic cone", 12],
+["Name 4 zodiac signs and 4 street signs", 13],
 
 
 
