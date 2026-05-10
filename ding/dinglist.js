@@ -79,8 +79,8 @@ let dinglist = [
 ["Name 6 delicious types of dip", 11],
 ["Name 4 alternate uses for a traffic cone", 12],
 ["Name 4 zodiac signs and 4 street signs", 13],
-
-
+["Name 5 things owned by a magician", 13],
+["Make 5 sound effects", 14],
 
 
 

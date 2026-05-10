@@ -226,8 +226,8 @@ const scenes = [
   "Criminal moms",
   "Terrible bodyguards",
   "Worst things to hear over the Walmart spearkers",
-
-
+  "Bad TV meteorologists",
+  "Apologies from a bad tattoo artist",
 
 
 ];
