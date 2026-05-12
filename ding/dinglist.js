@@ -18,12 +18,12 @@ let dinglist = [
 ["Name 4 types of cheese and 4 types of pasta", 15],
 ["Name 5 things you find in a vending machine", 9],
 ["Name 6 vegetables while making a yuck face", 10],
-["Name 5 farm animals while making their specific noises", 12],
+["Make 5 noises you might hear on a farm", 12],
 ["Name 5 US States in a cowboy accent", 10],
 ["Name 5 things with a clock while doing a robot voice", 12],
 ["Name 4 things you're afraid of while looking frightened", 9],
 ["Name 6 sports while pantomiming playing them", 10],
-["Name 5 things you can find at a hardware store and 2 you can't", 12],
+["Name 5 things you can buy at a hardware store and 2 you can't", 12],
 ["Name 4 planets and 3 periodic table elements", 12],
 ["Name 6 things that are physically sticky", 12],
 ["Name 6 body parts that come in pairs", 10],
@@ -79,8 +79,12 @@ let dinglist = [
 ["Name 6 delicious types of dip", 11],
 ["Name 4 alternate uses for a traffic cone", 12],
 ["Name 4 zodiac signs and 4 street signs", 13],
-["Name 5 things owned by a magician", 13],
+["Name 5 items owned by a magician", 13],
 ["Make 5 sound effects", 14],
+["Name 3 places people use binoculars", 11],
+["Name 6 types of parties", 15],
+
+
 
 
 

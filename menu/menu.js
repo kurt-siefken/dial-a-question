@@ -1,3 +1,7 @@
+setTimeout(function(){
+    document.body.className="";
+},500);
+
 //---------------- HAMBURGER MENU -----------------------//
 
 const menuToggle = document.querySelector(".menu-toggle");

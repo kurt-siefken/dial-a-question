@@ -1,0 +1,90 @@
+body.preload *{
+animation-duration: 0s !important;
+-webkit-animation-duration: 0s !important;
+transition:background-color 0s, opacity 0s, color 0s, width 0s, height 0s, padding 0s, margin 0s !important;}
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Gabarito", sans-serif;
+	background-color: #F6F1E8;
+	border: 0px solid red;
+	margin: 0px;
+	padding: 0px;
+	line-height: 32px;
+	height: 100%;
+font-size: 22px;
+overflow: hidden;
+line-height: 1em;
+}
+
+
+
+
+
+a {text-decoration: none; color: #1b407d;}
+
+.pagestructure {
+display: flex;
+justify-content: center;
+align-items: center;
+border: 0px solid green;
+height: 100%;
+}
+
+.pagestructure > div {
+width: 90%;
+max-width: 800px;
+border: 0px solid blue;
+}
+
+.pagename {
+	text-align: center;
+	font-family: "Special Elite", system-ui;
+	color: #888;
+	font-size: .8em;
+	display: block;
+	width: 100%;
+	border-bottom: 0px solid #999;
+}
+
+
+.tilestructure {
+
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+gap: 10px;
+}
+
+.tile {
+border: 0px solid red;
+flex: 0 0 calc(50% - 10px);
+border-radius: 10px;
+background-color: #a1ccd1;
+padding: 20px;
+}
+
+
+.tiletitle {
+font-size: 30px;
+margin-bottom: 20px;
+text-align: center;
+}
+
+
+
+.footer {
+position: absolute;
+bottom: 0;
+width: 100%;
+text-align: center;
+border: 0px solid red;
+background-color: #beb9b0;
+font-size: 16px;
+padding: 5px;
+
+}

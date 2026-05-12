@@ -242,6 +242,7 @@ WorkQuestion = [
 ["What is a work task you do that gets you into flow state so you lose track of time?"],
 ["You are put in charge of your company's social media. How scared should the company be?"],
 ["Office birthday parties: cool or cringe?"],
+["The CEO has an important investor call on Halloween. What are you dressing them up as?"],
 ];
 
 
