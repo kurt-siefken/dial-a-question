@@ -23,7 +23,7 @@ height: 100%;
 #scene {display: flex; justify-content: flex-end; width: 100%;}
 
 #hat {margin-top: 30px;}
-#hat img {width: 200px;}
+#hat img {width: 200px; user-select: none;    }
 #hat-image:hover {cursor: pointer;}
 
 #scene {text-align: center; justify-content: center; align-items: flex-end;}
