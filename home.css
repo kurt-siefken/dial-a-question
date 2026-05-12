@@ -3,6 +3,19 @@ animation-duration: 0s !important;
 -webkit-animation-duration: 0s !important;
 transition:background-color 0s, opacity 0s, color 0s, width 0s, height 0s, padding 0s, margin 0s !important;}
 
+:root {
+  --bg: #F7F3EA;          /* warm off-white */
+  --alt-bg: #ccc;          /* warm off-white */
+  --text: #102A43;        /* deep navy */
+  --headline: #0B5CAD;    /* confident blue */
+  --highlight: #D9ECFF;   /* pale blue marker swipe */
+  --primary: #1E88E5;     /* button blue */
+  --primary-dark: #1565C0;
+  --surface: #FFFFFF;
+  --muted: #52616B;
+}
+
+
 
 * {
   box-sizing: border-box;
@@ -10,15 +23,16 @@ transition:background-color 0s, opacity 0s, color 0s, width 0s, height 0s, paddi
 
 body {
   font-family: "Gabarito", sans-serif;
-	background-color: #F6F1E8;
+	background-color: var(--bg);
+	color: var(--text);
 	border: 0px solid red;
 	margin: 0px;
 	padding: 0px;
 	line-height: 32px;
 	height: 100%;
-font-size: 22px;
-overflow: hidden;
-line-height: 1em;
+	font-size: 22px;
+	overflow: hidden;
+	line-height: 1em;
 }
 
 
@@ -64,8 +78,9 @@ gap: 10px;
 border: 0px solid red;
 flex: 0 0 calc(50% - 10px);
 border-radius: 10px;
-background-color: #a1ccd1;
+background-color: var(--primary-dark);
 padding: 20px;
+color: var(--bg);
 }
 
 
@@ -83,7 +98,7 @@ bottom: 0;
 width: 100%;
 text-align: center;
 border: 0px solid red;
-background-color: #beb9b0;
+background-color: var(--alt-bg);
 font-size: 16px;
 padding: 5px;
 

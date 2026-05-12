@@ -55,7 +55,7 @@ let dinglist = [
 ["Name 5 things you see at a beach", 11],
 ["Name 3 things that are soft and 3 things that are hard", 12],
 ["Name 3 winter Olympic sports and 3 summer Olympic sports", 13],
-["Name 4 sounds you can make when you mean Yuck", 9],
+["Make 4 sounds that can mean 'Yuck!'", 9],
 ["Name 4 types of fish and 3 human bones", 15],
 ["Name 4 things you can't buy at Walmart", 14],
 ["Name 5 US cities that don't have a pro sports team", 11],
