@@ -1,49 +1,5 @@
 
 
-body {
-  font-family: "Gabarito", sans-serif;
-	font-size: 40px;
-	background-color: #F6F1E8;
-	border: 0px solid red;
-	margin: 0px;
-	padding: 0px;
-	line-height: 32px;
-	height: 100%;
-}
-
-
-
-
-
-
-a {text-decoration: none; color: #1b407d;}
-
-.pagestructure {
-display: flex;
-justify-content: center;
-align-items: center;
-border: 0px solid green;
-height: 100%;
-}
-
-.pagestructure > div {
-width: 90%;
-max-width: 800px;
-border: 0px solid blue;
-}
-
-.pagename {
-	text-align: center;
-	font-family: "Special Elite", system-ui;
-	color: #888;
-	font-size: .8em;
-	display: block;
-	width: 100%;
-	border-bottom: 0px solid #999;
-}
-
-
-
 
 
 .thequestion {

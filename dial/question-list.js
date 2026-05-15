@@ -163,7 +163,7 @@ RidicQuestion = [
 ["If there was a museum dedicated to you, what would the gift shop sell?"],
 ["You have to eat dinner at a gas station. What do you get?"],
 ["What is something you would describe as sophomoric?"],
-["What would be the worst prize, to come out when you break open a pinata?"],
+["What would be the worst prize to come out when you break open a pinata?"],
 ["If you went back in time 10 minutes, what would you do differently?"],
 ["If you could rename the state (or province) you live in, what would you name it?"],
 ["When you die, where would you like to come back and haunt?"],

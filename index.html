@@ -6,15 +6,14 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&family=Comic+Neue&family=Special+Elite&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="questions.css">
+<link rel="stylesheet" href="home.css">
 <link rel="icon" type="image/x-icon" href="favicon.png">
 
 
 
-<script type="text/javascript" src="question-list.js"></script>
-<script type="text/javascript" src="logic.js"></script>
 
 
+<link rel="stylesheet" href="base.css">
 <link rel="stylesheet" href="menu/menu.css">
 <script type="text/javascript" src="menu/menu.js" defer></script>
 
@@ -35,10 +34,12 @@
 <nav class="side-menu" id="sideMenu">
   <button class="close-menu" aria-label="Close menu">×</button>
 
-  <div class="menu-selected">Dial a Question</div>
+  <div class="menu-selected">Home</div>
+  <a href="dial/index.html">Dial a Question</a>
   <a href="rather/index.html">Would You Rather...?</a>
   <a href="hat/index.html">Scenes From a Hat</a>
   <a href="ding/index.html">Beat the Ding!</a>
+  <a href="about.html" class="menu-bottom">About</a>
 </nav>
 
 <div class="overlay" id="overlay"></div>
@@ -48,64 +49,69 @@
 
 
 
-<div class="pagestructure">
-
+<div class="pagestructuretop">
 <div>
 
+<div class="gametitle">
+<span class="title-large">Dial a Question</span><br>
+<span class="title-small">and other conversational games</span>
+</div>
 
-<div class="pagename">Dial a Question</div>
+<div class="tilestructure">
 
 
-
-
-<div class="deckheader" id="deckheader" style="position: relative;">
-
-<div class="deckswitcher deckswitcheroff" id="deckswitcher" onclick="openswitcher();">^</div>
-	<div id="deckchoices" class="deckchoices deckchoicesoff">
-		<div class="deckchoice" onclick="switchdeck('Quick')">Quick Questions</div>
-		<div class="deckchoice" onclick="switchdeck('Discussion')">Discussion Questions</div>
-		<div class="deckchoice" onclick="switchdeck('Ridiculous')">Ridiculous Questions</div>
-		<div class="deckchoice" onclick="switchdeck('Positive')">Positive Questions</div>
-		<div class="deckchoice" onclick="switchdeck('Kids')">Kids Questions</div>
-		<div class="deckchoice" onclick="switchdeck('Work')">Work Questions</div>
+<a href="dial/index.html" class="tile">
+<div class="tiletitle">Dial a Question</div>
+	<div class="tileblurb"><img src="dial.png" class="tileimage">Spin and answer. 
+	<div class="tilesubblurb">A low-pressure game to get people talking.</div>
 	</div>
-<div class="thedeck" id="thedeck"><span id="deckid">Quick</span> Questions</div>
+</a> 
+
+
+<a href="rather/index.html" class="tile">
+<div class="tiletitle" style="background-color: darkred;">Would You Rather...?</div>
+	<div class="tileblurb"><img src="rather.png" class="tileimage">Pick your preference.
+	<div class="tilesubblurb">Choose between thousands of ridiculous dilemmas.</div>
+	</div>
+</a> 
+
+
+<a href="hat/index.html" class="tile">
+<div class="tiletitle" style="background-color: darkgreen;">Scenes From a Hat</div>
+	<div class="tileblurb"><img src="hat.png" class="tileimage">Create a scene.
+	<div class="tilesubblurb">The classic improv game of rapid-fire scenarios.</div>
+	</div>
+</a>  
+
+
+<a href="ding/index.html" class="tile">
+<div class="tiletitle" style="background-color: purple;">Beat the Ding!</div>
+	<div class="tileblurb"><img src="ding.png" class="tileimage">Think quick!
+	<div class="tilesubblurb">Answer before the clock hits zero. Accuracy not required.</div>
+	</div>
+</a>  
+
+
+
+
+
+
+</div>
 </div>
 
 
 
 
 
-<div id="thequestion" class="thequestion">
-
-	<div id="questionlist"></div>
 </div>
 
 
 
-
-<div class="startstop">
-<div onclick="startwheel();" class="startstopbutton buttonstart" id="startbutton"><span>Start</span></div>
-<div onclick="stopwheel();"  class="startstopbutton buttonstop stopbuttonon" id="stopbutton"><span>Stop</span></div>
+<div class="footer">
+<span class="footer-claim">No ads.</span>
+<span class="footer-claim">No data collection.</span>
+<span class="footer-claim">Just conversational games.</span>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-</div>
-
-
-
-
 
 
 

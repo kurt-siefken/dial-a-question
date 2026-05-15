@@ -83,9 +83,9 @@ let dinglist = [
 ["Make 5 sound effects", 14],
 ["Name 3 places people use binoculars", 11],
 ["Name 6 types of parties", 15],
-
-
-
+["Name 3 Greek letters and 2 Greek foods", 14],
+["Make 5 different grunts", 8],
+["Do an impression of 4 different emojis", 10],
 
 
 

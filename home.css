@@ -3,67 +3,12 @@ animation-duration: 0s !important;
 -webkit-animation-duration: 0s !important;
 transition:background-color 0s, opacity 0s, color 0s, width 0s, height 0s, padding 0s, margin 0s !important;}
 
-:root {
-  --bg: #F7F3EA;          /* warm off-white */
-  --alt-bg: #ccc;          /* warm off-white */
-  --text: #102A43;        /* deep navy */
-  --headline: #0B5CAD;    /* confident blue */
-  --highlight: #D9ECFF;   /* pale blue marker swipe */
-  --primary: #1E88E5;     /* button blue */
-  --primary-dark: #1565C0;
-  --surface: #FFFFFF;
-  --muted: #52616B;
-}
 
+.about-page p, .about-page li {font-size: 18px;}
 
+.title-large {font-size: 40px;}
+.title-small {font-size: 20px;}
 
-* {
-  box-sizing: border-box;
-}
-
-body {
-  font-family: "Gabarito", sans-serif;
-	background-color: var(--bg);
-	color: var(--text);
-	border: 0px solid red;
-	margin: 0px;
-	padding: 0px;
-	line-height: 32px;
-	height: 100%;
-	font-size: 22px;
-	overflow: hidden;
-	line-height: 1em;
-}
-
-
-
-
-
-a {text-decoration: none; color: #1b407d;}
-
-.pagestructure {
-display: flex;
-justify-content: center;
-align-items: center;
-border: 0px solid green;
-height: 100%;
-}
-
-.pagestructure > div {
-width: 90%;
-max-width: 800px;
-border: 0px solid blue;
-}
-
-.pagename {
-	text-align: center;
-	font-family: "Special Elite", system-ui;
-	color: #888;
-	font-size: .8em;
-	display: block;
-	width: 100%;
-	border-bottom: 0px solid #999;
-}
 
 
 .tilestructure {
@@ -71,29 +16,58 @@ border: 0px solid blue;
 display: flex;
 flex-direction: row;
 flex-wrap: wrap;
-gap: 10px;
+gap: 30px;
+justify-content: center;
+padding-bottom: 50px;
 }
 
 .tile {
 border: 0px solid red;
-flex: 0 0 calc(50% - 10px);
+flex: 0 0 calc(50% - 30px);
 border-radius: 10px;
-background-color: var(--primary-dark);
-padding: 20px;
-color: var(--bg);
+background-color: #fff;
+padding: 0px;
+  box-shadow: 1px 1px 3px #aaa;
 }
 
 
 .tiletitle {
-font-size: 30px;
+font-size: 24px;
 margin-bottom: 20px;
 text-align: center;
+border-radius: 10px 10px 0px 0px;
+padding: 15px;
+background-color: var(--primary);
+color: #fff;
+text-transform: uppercase;
+}
+
+.tileblurb {
+margin: 20px 20px;
+display: block;
+}
+
+.tileimage {
+float: left; 
+width: 70px; 
+margin-right: 20px; 
+margin-bottom: 10px;
+}
+
+
+.tilesubblurb {
+font-size: .8em; 
+color: var(--muted); 
+line-height: 1em; 
+margin-top: 7px;
 }
 
 
 
+
+
 .footer {
-position: absolute;
+position: fixed;
 bottom: 0;
 width: 100%;
 text-align: center;
@@ -101,5 +75,22 @@ border: 0px solid red;
 background-color: var(--alt-bg);
 font-size: 16px;
 padding: 5px;
+color: var(--bg);
+}
+
+.footer-claim {
+margin: 0px 6px;
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+.tile {flex: 0 0 90%;}
+.footer {font-size: 14px;}
+.footer-claim {margin: 0px 4px;}
+.title-large{font-size: 30px;}
+.title-small{font-size: 15px;}
 
 }
+
