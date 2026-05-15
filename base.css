@@ -76,11 +76,10 @@ padding: 20px 40px;
 font-family: "Special Elite", system-ui;
 margin: 20px auto;
 font-size: 40px;
-margin-top: 20px;
 color: var(--alt-bg)
 }
 
 
 @media screen and (max-width: 600px) {
-.gametitle {font-size: 28px;}
+.gametitle {font-size: 28px; margin-top: 0px;}
 }
