@@ -229,6 +229,11 @@ const scenes = [
   "Bad TV meteorologists",
   "Apologies from a bad tattoo artist",
   "A world without lies",
+  "Unnecessary 911 calls",
+  "A world without the internet",
+
+
+
 
 ];
 

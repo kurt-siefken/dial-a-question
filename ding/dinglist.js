@@ -27,7 +27,7 @@ let dinglist = [
 ["Name 4 planets and 3 periodic table elements", 12],
 ["Name 6 things that are physically sticky", 12],
 ["Name 6 body parts that come in pairs", 10],
-["Name 5 board games, rolling the dice each time", 10],
+["Name 5 board games, rolling the dice between each one", 10],
 ["Name 7 words that rhyme with Light", 12],
 ["Name 5 instruments you blow into", 11],
 ["Name 6 hobbies that require a helmet", 11],
