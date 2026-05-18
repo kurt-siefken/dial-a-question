@@ -54,6 +54,7 @@ QuickQuestion  = [
 ["What is the perfect temperature outside?"],
 ["How low do you let your cell phone battery go before you charge it?"],
 ["Which is the better strategy: same lottery numbers every week or pick at random?"],
+["Do you wear socks to bed or go barefoot?"],
 ];
 
 
