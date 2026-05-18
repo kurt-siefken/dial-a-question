@@ -89,7 +89,7 @@ box-sizing: border-box;
 	display: block;
 	width: 100%;
 	position: absolute;
-	top: 30px;
+
 border-bottom: 0px solid #999;
 }
 
@@ -109,7 +109,7 @@ border-bottom: 0px solid #999;
 
 
 @media screen and (max-width: 600px) {
-	.PageTitle {font-size: .6em; top: 20px;}
+	.PageTitle {font-size: .6em;}
 	.scene-card {font-size: 32px;}
 	
 }

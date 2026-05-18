@@ -33,13 +33,13 @@ let dinglist = [
 ["Name 6 hobbies that require a helmet", 11],
 ["Name 5 cartoon villains while laughing like one", 15],
 ["Name 5 people who were born before 1900", 12],
-["Name 7 things that might be in your glove compartment", 10],
+["Name 7 things that might be in your glove compartment", 12],
 ["Name 5 items of clothing you'd wear in Antarctica", 12],
 ["Name 5 things you definitely won't see out the nearest window", 12],
 ["Name 5 excuses for being late", 15],
 ["Name 3 things that smell terrible and 4 things that smell great", 12],
 ["Name 6 words that contain the letter X", 12],
-["Name 5 ways to cook an egg", 11],
+["Name 5 ways to cook an egg", 9],
 ["Name 3 things you should never do at a funeral", 11],
 ["Name 4 real dinosaurs and 1 made-up dinosaur", 12],
 ["Name 4 words that start and end with the same letter", 11],
@@ -52,12 +52,12 @@ let dinglist = [
 ["Name 3 expensive things and 3 cheap things", 14],
 ["Name 3 things you can balance on your head and 2 you can't", 9],
 ["Name 6 things you can buy with a 10 dollar bill", 12],
-["Name 5 things you see at a beach", 11],
+["Name 7 things you see at a beach", 11],
 ["Name 3 things that are soft and 3 things that are hard", 12],
 ["Name 3 winter Olympic sports and 3 summer Olympic sports", 13],
 ["Make 4 sounds that can mean 'Yuck!'", 9],
 ["Name 4 types of fish and 3 human bones", 15],
-["Name 4 things you can't buy at Walmart", 14],
+["Name 4 things you can't buy at Walmart", 13],
 ["Name 5 US cities that don't have a pro sports team", 11],
 ["Name 5 places you've never been", 9],
 ["Name 3 things that are hot and 4 breeds of dogs", 14],
@@ -70,7 +70,7 @@ let dinglist = [
 ["While yawning, name 5 things you do right after waking up", 12],
 ["Name 5 words that start with Super", 12],
 ["Name 5 places you don't want to be right now", 11],
-["Name 5 car parts and 3 dish set parts", 13],
+["Name 5 car parts and 3 parts of a table setting", 13],
 ["Name 3 movie monsters and 3 rooms in an office building", 13],
 ["Name 5 things associated with pirates while talking like a pirate", 13],
 ["Name 5 apps on your phone", 10],
@@ -80,13 +80,25 @@ let dinglist = [
 ["Name 4 alternate uses for a traffic cone", 12],
 ["Name 4 zodiac signs and 4 street signs", 13],
 ["Name 5 items owned by a magician", 13],
-["Make 5 sound effects", 14],
+["Make 5 sound effects to use instead of 'ding'", 10],
 ["Name 3 places people use binoculars", 11],
 ["Name 6 types of parties", 15],
 ["Name 3 Greek letters and 2 Greek foods", 14],
 ["Make 5 different grunts", 8],
 ["Do an impression of 4 different emojis", 10],
 ["Name 3 types of rodents and 4 airlines", 12],
+["Name 3 things you'd find in Alaska and 3 things you'd find in Hawaii", 11],
+
+
+
+
+
+
+
+
+
+
+
 
 
 ];

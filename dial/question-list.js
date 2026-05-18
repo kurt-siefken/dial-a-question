@@ -55,6 +55,7 @@ QuickQuestion  = [
 ["How low do you let your cell phone battery go before you charge it?"],
 ["Which is the better strategy: same lottery numbers every week or pick at random?"],
 ["Do you wear socks to bed or go barefoot?"],
+["Going first in tic tac toe, do you pick X or O?"],
 ];
 
 
@@ -113,7 +114,7 @@ DiscQuestion = [
 ["What is a weird tradition you or your family have?"],
 ["What would you do with some unexpected alone time?"],
 ["If you could change your birthday, what date would you choose?"],
-["Going to DisneyWorld as an adult: Cool or kinda weird?"],
+["Going to DisneyWorld as an adult: Cool or not cool?"],
 ["If you could make money by putting commericals in your dreams, would you do it?"],
 ["Where do you wish you had grown up?"],
 ["What is a memorable meal you had (either good or bad)?"],
