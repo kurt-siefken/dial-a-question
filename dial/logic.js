@@ -86,7 +86,12 @@ function startwheel() {
 		}
 	}
 
-
+	if (decklist = document.getElementById("deckid").innerHTML == 'Travel') {
+		smartShuffle(TravelQuestion);
+		for (let i = 0; i < 3; i++) {
+		TravelQuestion.forEach(creatediv);
+		}
+	}
 
 
 

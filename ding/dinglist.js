@@ -36,7 +36,7 @@ let dinglist = [
 ["Name 7 things that might be in your glove compartment", 12],
 ["Name 5 items of clothing you'd wear in Antarctica", 12],
 ["Name 5 things you definitely won't see out the nearest window", 12],
-["Name 5 excuses for being late", 15],
+["Name 5 excuses for being late", 14],
 ["Name 3 things that smell terrible and 4 things that smell great", 12],
 ["Name 6 words that contain the letter X", 12],
 ["Name 5 ways to cook an egg", 9],
@@ -88,14 +88,13 @@ let dinglist = [
 ["Do an impression of 4 different emojis", 10],
 ["Name 3 types of rodents and 4 airlines", 12],
 ["Name 3 things you'd find in Alaska and 3 things you'd find in Hawaii", 11],
-
-
-
-
-
-
-
-
+["Name 5 things you might do when the power goes out", 12],
+["Name 3 types of rocks and 3 types of rolls", 10],
+["Name 5 things you might do when the power goes out", 12],
+["Name 4 household annoying chores and 3 annoying errands", 12],
+["Name 6 things in a box", 12],
+["Name 5 things in your junk drawer", 11],
+["Tell 4 lies", 11],
 
 
 

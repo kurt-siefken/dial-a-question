@@ -352,3 +352,66 @@ KidQuestion = [
 ["If you had to name yourself after any famous person, what name would you choose?"],
 ];
 
+
+
+
+
+/*-------------------------------------*/
+/*--------- TRAVEL QUESTIONS ----------*/
+/*-------------------------------------*/
+
+
+TravelQuestion = [
+["What is a destination you loved, but you'll probably never get back to?"],
+["What is destination you loved, but wouldn't particularly recommend?"],
+["What is destination you thought you'd love, but it wasn't what you expected?"],
+["What is a travel story where something unexpected and memorable happened?"],
+["What is a memorable meal you ate while traveling?"],
+["What is the most exotic-feeling place you've ever been?"],
+["Where did you go that the weather was perfect?"],
+["What is a travel experience that left you exhausted?"],
+["Have you ever been injured while traveling? What's the story?"],
+["What is the farthest from home you have ever traveled?"],
+["Do you collect anything from your travels?"],
+["What is a totally underrated place you have been?"],
+["Where is somewhere you didn't expect to love, but now you want to go back?"],
+["What is a destination that can't be experienced just in photos?"],
+["What is a destination where you could stay and just relax for a week?"],
+["What is the most beautiful view you have ever seen while traveling?"],
+["Where have you been that the people were extremely friendly?"],
+["What is some culture shock you have experienced while traveling?"],
+["Do you have any nightmare stories about missing a plane, train, or bus?"],
+["What is the most danger you have ever felt while traveling?"],
+["What is the nicest place you have ever spent the night?"],
+["What is a destination that felt surprisingly like home?"],
+["What is a destination that can't be experienced just in photos?"],
+["Where is somewhere you have visted that you would be happy to move to?"],
+["Where is somewhere you think everyone should visit?"],
+["What is something spontaneous you have done while traveling?"],
+["What is a moment of serendipity you have experienced while traveling?"],
+["Where have you been that just didn't feel real?"],
+["What is a destination that was outrageously expensive?"],
+["What is a trip you have taken where you splurged?"],
+["What is a trip you have taken that energized you?"],
+["Who is someone you meet while traveling that you'll never forget?"],
+["What is a memorable experience you've had with a stranger while traveling?"],
+["What was your most adventurous vacation?"],
+
+
+];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
