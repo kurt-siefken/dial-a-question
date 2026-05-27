@@ -70,7 +70,7 @@ const Rather = [
 ["go camping in the Everglades"],
 ["have your face on a billboard ad for anti-lice shampoo"],
 ["work in a New Orleans voodoo shop"],
-["use soap that smells like ranch dressing"],
+["use shampoo that smells like ranch dressing"],
 ["make small talk with strangers on an elevator"],
 ["make your browser history public"],
 ["blow soap bubbles from your nose every time you wash your hands"],
@@ -117,7 +117,7 @@ const Rather = [
 ["drink 5 Red Bulls a day for 2 weeks"],
 ["give a sermon speaking grammatically like Yoda"],
 ["live an Amish lifestyle for 2 months"],
-
+["always smell like sun block"],
 
 
 ];

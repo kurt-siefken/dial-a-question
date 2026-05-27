@@ -31,7 +31,7 @@ let dinglist = [
 ["Name 7 words that rhyme with Light", 12],
 ["Name 5 instruments you blow into", 11],
 ["Name 6 hobbies that require a helmet", 11],
-["Name 5 cartoon villains while laughing like one", 15],
+["Name 5 movie villains while laughing like one", 15],
 ["Name 5 people who were born before 1900", 12],
 ["Name 7 things that might be in your glove compartment", 12],
 ["Name 5 items of clothing you'd wear in Antarctica", 12],
@@ -95,6 +95,14 @@ let dinglist = [
 ["Name 6 things in a box", 12],
 ["Name 5 things in your junk drawer", 11],
 ["Tell 4 lies", 11],
+["Name 5 famous mythical creatures and 1 made up", 12],
+["Name 7 holidays in chronological order", 10,]
+["Name 7 things that hurt", 13],
+["Name 6 things a golfer needs", 12],
+["Make 5 noises a ghost might make", 11],
+["Name 2 famous cats and 2 famous dogs", 11],
+
+
 
 
 
