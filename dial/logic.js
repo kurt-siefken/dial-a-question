@@ -42,56 +42,29 @@ function smartShuffle(array) {
 function startwheel() {
 
 	document.getElementById("questionlist").innerHTML = "";
+	let decklist = document.getElementById("deckid").innerHTML;
 
-	if (decklist = document.getElementById("deckid").innerHTML == 'Quick') {
-		smartShuffle(QuickQuestion);
-		for (let i = 0; i < 3; i++) {
-		QuickQuestion.forEach(creatediv);
-		}	
-	}
+const decks = {
+    Quick: QuickQuestion,
+    Discussion: DiscQuestion,
+    Ridiculous: RidicQuestion,
+    Work: WorkQuestion,
+    Kids: KidQuestion,
+    Positive: PosQuestion,
+    Travel: TravelQuestion,
+    Music: MusicQuestion,
+};
 
-	if (decklist = document.getElementById("deckid").innerHTML == 'Discussion') {
-		smartShuffle(DiscQuestion);
-		for (let i = 0; i < 3; i++) {
-		DiscQuestion.forEach(creatediv);
-		}
-	}
+const deck = decks[decklist];
 
+if (deck) {
+    smartShuffle(deck);
 
-	if (decklist = document.getElementById("deckid").innerHTML == 'Ridiculous') {
-		smartShuffle(RidicQuestion);
-		for (let i = 0; i < 3; i++) {
-		RidicQuestion.forEach(creatediv);
-		}
-	}
+    for (let i = 0; i < 3; i++) {
+        deck.forEach(creatediv);
+    }
+}
 
-	if (decklist = document.getElementById("deckid").innerHTML == 'Work') {
-		smartShuffle(WorkQuestion);
-		for (let i = 0; i < 3; i++) {
-		WorkQuestion.forEach(creatediv);
-		}
-	}
-
-	if (decklist = document.getElementById("deckid").innerHTML == 'Kids') {
-		smartShuffle(KidQuestion);
-		for (let i = 0; i < 3; i++) {
-		KidQuestion.forEach(creatediv);
-		}
-	}
-
-	if (decklist = document.getElementById("deckid").innerHTML == 'Positive') {
-		smartShuffle(PosQuestion);
-		for (let i = 0; i < 3; i++) {
-		PosQuestion.forEach(creatediv);
-		}
-	}
-
-	if (decklist = document.getElementById("deckid").innerHTML == 'Travel') {
-		smartShuffle(TravelQuestion);
-		for (let i = 0; i < 3; i++) {
-		TravelQuestion.forEach(creatediv);
-		}
-	}
 
 
 

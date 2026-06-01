@@ -383,6 +383,7 @@ TravelQuestion = [
 ["Do you have any nightmare stories about missing a plane, train, or bus?"],
 ["What is the most danger you have ever felt while traveling?"],
 ["What is the nicest place you have ever spent the night?"],
+["What is the sketchiest place you have ever spent the night?"],
 ["What is a destination that felt surprisingly like home?"],
 ["What is a destination that can't be experienced just in photos?"],
 ["Where is somewhere you have visted that you would be happy to move to?"],
@@ -393,15 +394,72 @@ TravelQuestion = [
 ["What is a destination that was outrageously expensive?"],
 ["What is a trip you have taken where you splurged?"],
 ["What is a trip you have taken that energized you?"],
-["Who is someone you meet while traveling that you'll never forget?"],
+["Who is someone you met while traveling that you'll never forget?"],
 ["What is a memorable experience you've had with a stranger while traveling?"],
 ["What was your most adventurous vacation?"],
+["Have you ever sat next to someone memorable on a plane, train, or bus?"],
+
+
+
 
 
 ];
 
 
 
+
+/*-------------------------------------*/
+/*---------- MUSIC QUESTIONS ----------*/
+/*-------------------------------------*/
+
+
+MusicQuestion = [
+["What is the first concert you ever attended?"],
+["What is the first album you ever owned?"],
+["What band have you seen live the most times?"],
+["How has music streaming influenced what you listen to?"],
+["Does album art change your impression of an album? If so, how?"],
+["What live band surprised you most?"],
+["What is some album art you really like?"],
+["What album has a killer opener song?"],
+["What good album has a bad lead single?"],
+["What is a guilty pleasure song you can admit you like?"],
+["What is a meh album by a band you really like?"],
+["What band lost you as their sound evolved?"],
+["What band can't you get into their earlier stuff?"],
+["What is a band you only like one of their albums?"],
+["What is a concert moment you'll never forget?"],
+["What do you think of music festivals?"],
+["What is the biggest band you saw in a small venue?"],
+["What is a band or album you should like, but you just can't get into?"],
+["What band do you have mixed feelings about because their lyrics haven't aged well?"],
+["If someone asked you to name a total banger song, what would you suggest?"],
+["What song do you want played at your funeral?"],
+["You can play one song to unite the world. What song do you choose?"],
+["What song, band, or album is just unlistenable?"],
+["What band have always wanted to see in concert?"],
+["What is the coolest venue you've seen a concert?"],
+["What is the farthest away you've ever been to a concert?"],
+["What are you listening to in your earbuds to pump you up?"],
+["What band do you just not understand how they got popular?"],
+["What band deserved to be bigger?"],
+["What is a music trend you'd like to see die?"],
+["What band has the best lead singer?"],
+["What song would you like to hear covered in a very different genre?"],
+["What is your favorite cover song?"],
+["What makes a good cover song?"],
+["What live band was kind of disappointing?"],
+["What is a band with one iconic song that actually has an impressive catalog?"],
+["What is a classic song that you really like?"],
+["How many band shirts do you currently have?"],
+["When did you first really get into music?"],
+["What band logo or font do you really like?"],
+["What is a band you wish you had gotten into earlier?"],
+["What is a song or album that changed your life?"],
+["What band was ahead of their time?"],
+
+
+];
 
 
 
