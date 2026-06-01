@@ -118,7 +118,7 @@ const Rather = [
 ["give a sermon speaking grammatically like Yoda"],
 ["live an Amish lifestyle for 2 months"],
 ["always smell like sun block"],
-
+["always listen to ice cream truck music when you drive"],
 
 ];
 
