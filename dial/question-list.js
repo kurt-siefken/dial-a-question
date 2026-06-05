@@ -121,6 +121,12 @@ DiscQuestion = [
 ["What is something everyone seems to love, but you just don't get it?"],
 ["If you were typecast in movies, what character would you always play?"],
 ["What's a fad that, in retrospect, was kind of cool?"],
+["If you were famous, what would you do a commercial for because you love the product?"],
+["It's karaoke night! What are you singing? (And yes, you have to sing!)"],
+["What clique did you belong to in high school? Would you still belong there today?"],
+["What is the most DIY project you have ever accomplished?"],
+["What would you like to see a documentary about?"],
+
 ];
 
 
@@ -136,7 +142,7 @@ DiscQuestion = [
 RidicQuestion = [
 ["If you were writing a political thriller, what would the president's name be?"],
 ["If our reality is just a simulation, what is the hypothesis being tested?"],
-["How many pigeons could you carry for half a mile?"],
+["How many mice could you carry for half a mile?"],
 ["If you were stuck in a Walmart for three days, how would you pass the time?"],
 ["What animal would you like to see on rollerskates?"],
 ["If you could run away and join the circus, what circus job would you want?"],
@@ -188,6 +194,18 @@ RidicQuestion = [
 ["What is the upside of stubbing your toe?"],
 ["If your high school had Yelp reviews, how would you rate it?"],
 ["If you had a personal strategist, what would you strategize about?"],
+["If could choose a mildly convenient superpower, what would it be?"],
+["What button would you like to add to your car's dashboard?"],
+["You can dress anyone in the world in a Halloween costume. Who do you choose and what is the costume?"],
+["You have one month to break a world record. What is your plan?"],
+["If you could create one new official emoji, what would it be?"],
+["If you were a secret agent, what code world would you casually drop into conversation?"],
+["You have to make an art project using whatever is in your freezer. What's your plan?"],
+
+
+
+
+
 ];
 
 
@@ -457,7 +475,7 @@ MusicQuestion = [
 ["What is a band you wish you had gotten into earlier?"],
 ["What is a song or album that changed your life?"],
 ["What band was ahead of their time?"],
-
+["What opening band blew you away?"],
 
 ];
 

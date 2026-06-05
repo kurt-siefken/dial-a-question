@@ -101,7 +101,7 @@ let dinglist = [
 ["Name 6 things a golfer needs", 12],
 ["Make 5 noises a ghost might make", 11],
 ["Name 2 famous cats and 2 famous dogs", 11],
-
+["Name 3 alternate names for french fries", 14],
 
 
 

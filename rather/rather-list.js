@@ -116,9 +116,12 @@ const Rather = [
 ["sleep in a coffin"],
 ["drink 5 Red Bulls a day for 2 weeks"],
 ["give a sermon speaking grammatically like Yoda"],
-["live an Amish lifestyle for 2 months"],
+["live an Amish lifestyle for a month"],
 ["always smell like sun block"],
 ["always listen to ice cream truck music when you drive"],
+["use '80s neon fashion as your personal brand"],
+
+
 
 ];
 
