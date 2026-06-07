@@ -55,7 +55,13 @@ QuickQuestion  = [
 ["How low do you let your cell phone battery go before you charge it?"],
 ["Which is the better strategy: same lottery numbers every week or pick at random?"],
 ["Do you wear socks to bed or go barefoot?"],
-["Going first in tic tac toe, do you pick X or O?"],
+["Going first in tic tac toe, should you pick X or O?"],
+
+
+
+
+
+
 ];
 
 
@@ -121,11 +127,19 @@ DiscQuestion = [
 ["What is something everyone seems to love, but you just don't get it?"],
 ["If you were typecast in movies, what character would you always play?"],
 ["What's a fad that, in retrospect, was kind of cool?"],
-["If you were famous, what would you do a commercial for because you love the product?"],
+["If you were famous, what would you do a commercial for because you already use it?"],
 ["It's karaoke night! What are you singing? (And yes, you have to sing!)"],
 ["What clique did you belong to in high school? Would you still belong there today?"],
 ["What is the most DIY project you have ever accomplished?"],
 ["What would you like to see a documentary about?"],
+["What absolutely should and absolutely shouldn't go on a hot dog?"],
+["What is a word that is really fun to say?"],
+["What board game or video game have you always liked to play?"],
+["Would you enjoy living on an island accessible only by ferry?"],
+["You have a 5 hour layover at an airport. How are you passing the time?"],
+
+
+
 
 ];
 

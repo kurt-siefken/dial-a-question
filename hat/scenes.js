@@ -235,8 +235,8 @@ const scenes = [
   "Terrible security guards",
   "Unlikely scenes from the McDonalds drive-thru",
   "Rejected podcasts",
-
-
+  "Terrible neighbors",
+  "Terrible apologies",
 
 
 
