@@ -23,7 +23,6 @@ QuickQuestion  = [
 ["What is your favorite non-alcoholic drink?"],
 ["Describe the socks you are wearing right now."],
 ["What is hanging on your refrigerator door?"],
-["How many Taylor Swift songs can you name?"],
 ["Fill in the blank: When I dance, I look like a ___."],
 ["What is your favorite healthy food?"],
 ["What streaming service do you use most?"],
@@ -56,9 +55,9 @@ QuickQuestion  = [
 ["Which is the better strategy: same lottery numbers every week or pick at random?"],
 ["Do you wear socks to bed or go barefoot?"],
 ["Going first in tic tac toe, should you pick X or O?"],
-
-
-
+["What is the worst chore to do? What chore don't you mind doing?"],
+["How good of a cook are you?"],
+["You won a free household appliance! What appliance do you choose?"],
 
 
 
@@ -120,7 +119,7 @@ DiscQuestion = [
 ["What is a weird tradition you or your family have?"],
 ["What would you do with some unexpected alone time?"],
 ["If you could change your birthday, what date would you choose?"],
-["Going to DisneyWorld as an adult: Cool or not cool?"],
+["What would you think about going to DisneyWorld as an adult? Fun or not fun?"],
 ["If you could make money by putting commericals in your dreams, would you do it?"],
 ["Where do you wish you had grown up?"],
 ["What is a memorable meal you had (either good or bad)?"],
@@ -137,6 +136,9 @@ DiscQuestion = [
 ["What board game or video game have you always liked to play?"],
 ["Would you enjoy living on an island accessible only by ferry?"],
 ["You have a 5 hour layover at an airport. How are you passing the time?"],
+["If you had a personal assistant, what would you like help with?"],
+
+
 
 
 
@@ -156,7 +158,7 @@ DiscQuestion = [
 RidicQuestion = [
 ["If you were writing a political thriller, what would the president's name be?"],
 ["If our reality is just a simulation, what is the hypothesis being tested?"],
-["How many mice could you carry for half a mile?"],
+["How many ice cubes could you carry for half a mile?"],
 ["If you were stuck in a Walmart for three days, how would you pass the time?"],
 ["What animal would you like to see on rollerskates?"],
 ["If you could run away and join the circus, what circus job would you want?"],
@@ -213,10 +215,10 @@ RidicQuestion = [
 ["You can dress anyone in the world in a Halloween costume. Who do you choose and what is the costume?"],
 ["You have one month to break a world record. What is your plan?"],
 ["If you could create one new official emoji, what would it be?"],
-["If you were a secret agent, what code world would you casually drop into conversation?"],
+["If you were a secret agent, what code word would you casually drop into conversation?"],
 ["You have to make an art project using whatever is in your freezer. What's your plan?"],
-
-
+["If you went back in time 100 years, what item would you bring to blow everyone's mind?"],
+["You want your nemesis to have a terrible vacation. What item do you sneak into their suitcase?"],
 
 
 
