@@ -58,7 +58,7 @@ QuickQuestion  = [
 ["What is the worst chore to do? What chore don't you mind doing?"],
 ["How good of a cook are you?"],
 ["You won a free household appliance! What appliance do you choose?"],
-
+["What is the perfect temperature?"],
 
 
 ];
@@ -137,7 +137,7 @@ DiscQuestion = [
 ["Would you enjoy living on an island accessible only by ferry?"],
 ["You have a 5 hour layover at an airport. How are you passing the time?"],
 ["If you had a personal assistant, what would you like help with?"],
-
+["What would be your nightmare job?"],
 
 
 
@@ -210,7 +210,7 @@ RidicQuestion = [
 ["What is the upside of stubbing your toe?"],
 ["If your high school had Yelp reviews, how would you rate it?"],
 ["If you had a personal strategist, what would you strategize about?"],
-["If could choose a mildly convenient superpower, what would it be?"],
+["If you could choose a mildly convenient superpower, what would it be?"],
 ["What button would you like to add to your car's dashboard?"],
 ["You can dress anyone in the world in a Halloween costume. Who do you choose and what is the costume?"],
 ["You have one month to break a world record. What is your plan?"],
@@ -219,6 +219,9 @@ RidicQuestion = [
 ["You have to make an art project using whatever is in your freezer. What's your plan?"],
 ["If you went back in time 100 years, what item would you bring to blow everyone's mind?"],
 ["You want your nemesis to have a terrible vacation. What item do you sneak into their suitcase?"],
+["What citrus fruit is the most distinguished?"],
+["What makes aliens look down at us and think <i>Earthlings are such simpletons</i>?"],
+
 
 
 
@@ -279,6 +282,11 @@ WorkQuestion = [
 ["You are put in charge of your company's social media. How scared should the company be?"],
 ["Office birthday parties: cool or cringe?"],
 ["The CEO has an important investor call on Halloween. What are you dressing them up as?"],
+
+
+
+
+
 ];
 
 
@@ -337,6 +345,12 @@ PosQuestion = [
 ["What is a compliment you've received that has really stuck with you?"],
 ["What is something you like about where you are in life right now?"],
 ["If you got some really good news, who are the first people you want to tell?"],
+
+
+
+
+
+
 ];
 
 
@@ -384,6 +398,11 @@ KidQuestion = [
 ["You can get a free shopping spree at any store. What store do you choose?"],
 ["What do penguins think about all day?"],
 ["If you had to name yourself after any famous person, what name would you choose?"],
+
+
+
+
+
 ];
 
 
@@ -492,6 +511,9 @@ MusicQuestion = [
 ["What is a song or album that changed your life?"],
 ["What band was ahead of their time?"],
 ["What opening band blew you away?"],
+
+
+
 
 ];
 
