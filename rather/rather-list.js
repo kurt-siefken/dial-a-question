@@ -24,7 +24,7 @@ const Rather = [
 ["have a video of you singing in the shower go viral"],
 ["compete in a high-stakes hopscotch tournament"],
 ["have your phone ding every time someone wins a prize on <i>The Price is Right</i>"],
-["spend your birthday writing spoken word poetry in Panera"],
+["spend your birthday waiting in line at the DMV"],
 ["have a disease named after you"],
 ["go on a retreat for competitive solitaire players"],
 ["have an old-timey car horn that goes <i>ah-oooooga</i>"],
@@ -42,7 +42,7 @@ const Rather = [
 ["record a podcast about metal detecting"],
 ["eat a bowl of five-alarm chili"],
 ["broadcast your dreams live on YouTube"],
-["bet $500 on a snail race"],
+["bet $300 on a snail race"],
 ["chaperone a high school prom"],
 ["be an umbrella hat model"],
 ["speak and write using old British English"],
@@ -61,7 +61,7 @@ const Rather = [
 ["deejay a weekly radio show of experimental acid jazz"],
 ["lose $.25 every time you use the letter V"],
 ["ask if they have sarsaparilla every time someone takes your order"],
-["drink only by using a crazy straw"],
+["drink only by using a 5-foot long crazy straw"],
 ["decorate your lawn with a flock of plastic flamingos"],
 ["sit next to a talkative ventriloquist on a 10-hour flight"],
 ["dig holes"],
@@ -119,7 +119,7 @@ const Rather = [
 ["live an Amish lifestyle for a month"],
 ["always smell like sun block"],
 ["always listen to ice cream truck music when you drive"],
-["use '80s neon fashion as your personal brand"],
+["use 80s neon fashion as your personal brand"],
 
 
 

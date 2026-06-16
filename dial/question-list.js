@@ -51,14 +51,18 @@ QuickQuestion  = [
 ["What is the farthest you've ever walked?"],
 ["You get two scoops of ice cream. What flavors do you choose?"],
 ["What is the perfect temperature outside?"],
-["How low do you let your cell phone battery go before you charge it?"],
+["How low do you let your cell phone battery go before you start getting nervous?"],
 ["Which is the better strategy: same lottery numbers every week or pick at random?"],
 ["Do you wear socks to bed or go barefoot?"],
 ["Going first in tic tac toe, should you pick X or O?"],
 ["What is the worst chore to do? What chore don't you mind doing?"],
 ["How good of a cook are you?"],
 ["You won a free household appliance! What appliance do you choose?"],
-["What is the perfect temperature?"],
+["Do you think puns are clever humor or not that funny?"],
+
+
+
+
 
 
 ];
@@ -79,7 +83,7 @@ DiscQuestion = [
 ["What is a small part of your life that you really enjoy?"],
 ["If you had to give a half hour talk right now, what could you talk about?"],
 ["What is something you hated as a kid, but love now?"],
-["What is a country whose name you know, but have no idea where it is?"],
+["What is a place whose name you know, but have no idea where it is?"],
 ["What's a pet peeve you find particularly annoying?"],
 ["What's a quality in someone that makes you respect them instantly?"],
 ["What's a show or movie that you always stop to watch when it's on TV?"],
@@ -138,8 +142,8 @@ DiscQuestion = [
 ["You have a 5 hour layover at an airport. How are you passing the time?"],
 ["If you had a personal assistant, what would you like help with?"],
 ["What would be your nightmare job?"],
-
-
+["You have to get a job as a tour guide. Where are you giving tours?"],
+["You are suddenly given a $40 million film budget. What kind of movie are you making?"],
 
 
 
@@ -204,7 +208,6 @@ RidicQuestion = [
 ["You have to buy dinner for your nemesis. Where are you taking them?"],
 ["Your travel agent offers a sale on a <i>mystery vacation</i>. Do you take it?"],
 ["If you learned how to hover 2 inches off the ground, how would it change your life?"],
-["If you were in charge of the next census, what question would you make everyone answer?"],
 ["Do you think bowling pins feel pain, or are they excited to be knocked over?"],
 ["What are the pros and cons of dating a ghost?"],
 ["What is the upside of stubbing your toe?"],
@@ -221,7 +224,7 @@ RidicQuestion = [
 ["You want your nemesis to have a terrible vacation. What item do you sneak into their suitcase?"],
 ["What citrus fruit is the most distinguished?"],
 ["What makes aliens look down at us and think <i>Earthlings are such simpletons</i>?"],
-
+["You have been commissioned to carve artwork out of a bar of soap. What are you carving?"],
 
 
 
