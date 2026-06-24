@@ -3,6 +3,16 @@ setTimeout(function(){
 },500);
 
 
+const decks = {
+    Quick: QuickQuestion,
+    Discussion: DiscQuestion,
+    Ridiculous: RidicQuestion,
+    Work: WorkQuestion,
+    Kids: KidQuestion,
+    Positive: PosQuestion,
+    Travel: TravelQuestion,
+    Music: MusicQuestion,
+};
 
 
 // Prepare this once per session
@@ -44,16 +54,7 @@ function startwheel() {
 	document.getElementById("questionlist").innerHTML = "";
 	let decklist = document.getElementById("deckid").innerHTML;
 
-const decks = {
-    Quick: QuickQuestion,
-    Discussion: DiscQuestion,
-    Ridiculous: RidicQuestion,
-    Work: WorkQuestion,
-    Kids: KidQuestion,
-    Positive: PosQuestion,
-    Travel: TravelQuestion,
-    Music: MusicQuestion,
-};
+
 
 const deck = decks[decklist];
 
@@ -131,13 +132,13 @@ function switchdeck(deckvalue) {
 	document.getElementById("deckid").innerHTML = deckvalue;
 	document.getElementById("questionlist").innerHTML = "";
 
-	document.getElementById("deckswitcher").classList.toggle("deckswitcheroff");
-	document.getElementById("deckswitcher").classList.toggle("deckswitcheron");
-	document.getElementById("deckchoices").classList.toggle("deckchoicesoff");
-	document.getElementById("deckchoices").classList.toggle("deckchoiceson");
 
+closeswitcher();
 buttonstartactive();
 buttonstopdeactive();
+setCategory(deckvalue);
+console.log('Deck switched to ' + deckvalue + ' Questions.');
+
 }
 
 
@@ -158,7 +159,45 @@ function buttonstopactive() {
 function buttonstopdeactive() {
 	document.getElementById("stopbutton").classList.add("stopbuttonon");
 }
+function closeswitcher() {
+	document.getElementById("deckswitcher").classList.toggle("deckswitcheroff");
+	document.getElementById("deckswitcher").classList.toggle("deckswitcheron");
+	document.getElementById("deckchoices").classList.toggle("deckchoicesoff");
+	document.getElementById("deckchoices").classList.toggle("deckchoiceson");
+}
 
+
+
+////////////////////////////////////////////
+// ADDS CATEGORY AS A PARAMETER TO THE URL
+
+function setCategory(deckvalue) {
+  const url = new URL(window.location.href);
+
+  // Add or update the parameter
+  url.searchParams.set("category", deckvalue);
+
+  // Update the browser URL without reloading the page
+  window.history.replaceState({}, "", url);
+}
+
+
+////////////////////////////////////////////
+// IF CATEGORY EXISTS, SWITCH TO THAT DECK
+
+function checkCategory() {
+  const params = new URLSearchParams(window.location.search);
+  const category = params.get("category");
+
+  if (category && category in decks) {
+    	console.log('Deck opened as ' + category + '.');
+	switchdeck(category)
+	closeswitcher();
+  }
+}
+
+
+window.addEventListener("load", checkCategory);
 
 
 

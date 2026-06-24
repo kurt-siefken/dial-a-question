@@ -59,7 +59,10 @@ QuickQuestion  = [
 ["How good of a cook are you?"],
 ["You won a free household appliance! What appliance do you choose?"],
 ["Do you think puns are clever humor or not that funny?"],
-
+["Do you mind a messy environment, or do you prefer things to be neat and tidy?"],
+["You are invited to a potluck barbecue. What are you bringing?"],
+["How legibile is your handwriting?"],
+["If someone asks you to take their picture, how good of a photographer are you?"],
 
 
 
@@ -108,7 +111,6 @@ DiscQuestion = [
 ["What is a life skill they should teach you in school?"],
 ["What was your best Halloween costume?"],
 ["What word do you always spell wrong?"],
-["What's a word that is fun to say?"],
 ["If you could own any fictional vehicle, which would you choose?"],
 ["What's a non-dessert food that you could eat like a dessert?"],
 ["You can choose any jigsaw puzzle. What is the picture you are piecing together?"],
@@ -144,7 +146,7 @@ DiscQuestion = [
 ["What would be your nightmare job?"],
 ["You have to get a job as a tour guide. Where are you giving tours?"],
 ["You are suddenly given a $40 million film budget. What kind of movie are you making?"],
-
+["If you were given $100 today to spend only on something fun, what would you buy?"],
 
 
 ];
@@ -222,9 +224,13 @@ RidicQuestion = [
 ["You have to make an art project using whatever is in your freezer. What's your plan?"],
 ["If you went back in time 100 years, what item would you bring to blow everyone's mind?"],
 ["You want your nemesis to have a terrible vacation. What item do you sneak into their suitcase?"],
-["What citrus fruit is the most distinguished?"],
+["What citrus fruit is the most dignified?"],
 ["What makes aliens look down at us and think <i>Earthlings are such simpletons</i>?"],
 ["You have been commissioned to carve artwork out of a bar of soap. What are you carving?"],
+["What object would you like to throw off the high dive, just to see it splash?"],
+["What TV show or movie would you like to watch in smell-o-vision?"],
+
+
 
 
 
@@ -514,8 +520,9 @@ MusicQuestion = [
 ["What is a song or album that changed your life?"],
 ["What band was ahead of their time?"],
 ["What opening band blew you away?"],
-
-
+["What is your favorite blend of two different music genres?"],
+["What band would you like to play at your birthday party?"],
+["You're in charge of the Super Bowl halftime show. What band is playing, and who is their surprise guest?"],
 
 
 ];
