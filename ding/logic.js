@@ -174,5 +174,5 @@ function updateCountdownStyle() {
 
 
 
-
+console.log("There are " + dinglist.length + " ding categories!");
 

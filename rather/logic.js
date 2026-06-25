@@ -89,6 +89,6 @@ setTimeout(() => {
 
 
 
-
+console.log("There are " + (Rather.length * (Rather.length - 1)).toLocaleString() + " possible Would You Rather combinations!");
 
 

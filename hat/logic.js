@@ -111,3 +111,5 @@ const listofhats = [
 ];
 
 
+
+console.log("There are " + scenes.length + " scenes and " + listofhats.length + " hats!");

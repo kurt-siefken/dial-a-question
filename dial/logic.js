@@ -14,6 +14,13 @@ const decks = {
     Music: MusicQuestion,
 };
 
+const totalQuestions = Object.values(decks)
+    .reduce((sum, deck) => sum + deck.length, 0);
+
+console.log("There are " + totalQuestions + " questions in the game.");
+
+
+
 
 // Prepare this once per session
 let firsts = [];  // pool of indices we haven't used yet
@@ -65,8 +72,6 @@ if (deck) {
         deck.forEach(creatediv);
     }
 }
-
-
 
 
 
@@ -137,8 +142,7 @@ closeswitcher();
 buttonstartactive();
 buttonstopdeactive();
 setCategory(deckvalue);
-console.log('Deck switched to ' + deckvalue + ' Questions.');
-
+console.log("There are " + decks[document.getElementById("deckid").innerHTML].length + " " + deckvalue + " questions.");
 }
 
 
@@ -187,13 +191,19 @@ function setCategory(deckvalue) {
 
 function checkCategory() {
   const params = new URLSearchParams(window.location.search);
-  const category = params.get("category");
+  let category = params.get("category");
 
   if (category && category in decks) {
     	console.log('Deck opened as ' + category + '.');
 	switchdeck(category)
 	closeswitcher();
+
   }
+
+
+
+category = category || "Quick";
+console.log("There are " + decks[document.getElementById("deckid").innerHTML].length + " " + category + " questions.");
 }
 
 

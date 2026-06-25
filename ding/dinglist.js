@@ -105,7 +105,7 @@ let dinglist = [
 ["Name 4 restaurants that sound good for dinner tonight", 11],
 ["Say an ordinary sentence, but make it sound like an inside joke", 8],
 ["Name 4 types of crackers in the voice of a parrot", 10],
-
+["Name 6 yoga poses, real or made up", 12],
 
 
 
