@@ -229,8 +229,8 @@ RidicQuestion = [
 ["You have been commissioned to carve artwork out of a bar of soap. What are you carving?"],
 ["What object would you like to throw off the high dive, just to see it splash?"],
 ["What TV show or movie would you like to watch in smell-o-vision?"],
-
-
+["You can put a toll booth anywhere in the world and get $1 every time someone passes. Where does it go?"],
+["They say there are no stupid questions. But what is a truly stupid question?"],
 
 
 
@@ -483,8 +483,7 @@ MusicQuestion = [
 ["Does album art change your impression of an album? If so, how?"],
 ["What live band surprised you most?"],
 ["What is some album art you really like?"],
-["What album has a killer opener song?"],
-["What good album has a bad lead single?"],
+["What album has a killer opener song?"],["What good album has a bad lead single?"],
 ["What is a guilty pleasure song you can admit you like?"],
 ["What is a meh album by a band you really like?"],
 ["What band lost you as their sound evolved?"],
