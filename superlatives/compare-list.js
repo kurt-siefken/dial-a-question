@@ -24,13 +24,13 @@ CompareCategory  = [
 ["animal at the aquarium"],
 ["type of hat"],
 ["Mexican food"],
-["convenience store"],
+["item at a convenience store"],
 ["ice cream flavor"],
 ["part of a car"],
 ["vegetarian food"],
 ["piece of winter clothing"],
 ["holiday decoration"],
-["Australian item"],
+["thing from Australian"],
 ["button on a machine"],
 ["item in a toolbox"],
 ["type of fastener"],
@@ -48,22 +48,30 @@ CompareCategory  = [
 ["musical instrument"],
 ["body organ"],
 ["type of haircut"],
-["item in a spray bottle"],
 ["item in a beach bag"],
 ["app on your phone"],
 ["exercise equipment"],
 ["flying insect"],
 ["vacation destination"],
-["poisonous item"],
+["poisonous thing"],
 ["item used by a plumber"],
 ["rodent"],
 ["salad dressing"],
 ["type of shoe"],
+["piece of linen"],
+["item in a souvenir shop"],
+["thing in a classroom"],
+["piece of camping equipment"],
+["playing card"],
+["balloon animal"],
+["item in a vending machine"],
 
 
 
 
 ];
+
+
 
 
 
@@ -96,7 +104,7 @@ CompareAdjective  = [
 ["is the most fun at midnight"],
 ["is the luckiest"],
 ["would be coolest on a tee shirt"],
-["would be most pleasing for a grandmother"],
+["would be most pleasing to a grandmother"],
 ["is the most soulful"],
 ["would be most confusing to a time traveler"],
 ["is the most unpleasant when damp"],
@@ -113,9 +121,28 @@ CompareAdjective  = [
 ["is the most suspicious"],
 ["would be voted most likely to succeed"],
 ["is best to bring on vacation"],
-["be best for a birthday party"],
+["would be best at a birthday party"],
 ["attracts the most bees"],
 ["is most likely to go viral online"],
+["would be trouble if used by a supervillain"],
+["has the best stories to tell"],
+["would be best on a Valentines Day date"],
+["would throw the best party"],
+["makes everyone the most uncomfortable"],
+["would make the worst neighbor"],
+["would be worst when frozen"],
+["would leave the worst stain"],
+["would you buy at a yard sale"],
+["should come with a warning label"],
+["would instantly improve your day"],
+["would you give to an astronaut before takeoff"],
+["is probably part of a secret espionage plot"],
+["would you want on a deserted island"],
+["would you like to see a documentary on"],
+["can instantly ruin your day"],
+["deserves more respect"],
+["is definitely a rich-person thing"],
+["would be worst to clean with a toothbrush"],
 
 
 
