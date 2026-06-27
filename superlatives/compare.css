@@ -1,5 +1,5 @@
 :root {
-  --boxheight: 50px;      
+  --boxheight: 80px;      
 }
 
 
@@ -24,7 +24,7 @@ line-height: 40px;
 
 .entrybox {
 	height: var(--boxheight);
-position: relative;
+	position: relative;
 }
 
 .boxitem {
@@ -36,15 +36,15 @@ position: relative;
 	justify-content: center;
 
 
-  font-family: "Comic Neue", cursive;
-  font-weight: 700;
-  font-style: normal;
-line-height: 1em;
-position: relative;
-text-align: center;
-width: 95%;
-margin: auto;
-color: #1b407d;
+  	font-family: "Comic Neue", cursive;
+  	font-weight: 700;
+  	font-style: normal;
+	line-height: 1em;
+	position: relative;
+	width: 95%;
+	margin: auto;
+	color: #1b407d;
+	text-wrap: balance;
 }
 
 
