@@ -42,7 +42,7 @@ CompareCategory  = [
 ["Halloween costume"],
 ["ointment"],
 ["drug store purchase"],
-["geometric shape"],
+["writing implement"],
 ["famous artwork"],
 ["bakery food"],
 ["musical instrument"],
@@ -66,7 +66,7 @@ CompareCategory  = [
 ["type of balloon animal"],
 ["vending machine purchase"],
 ["item in a junk drawer"],
-
+["magician's prop"],
 
 
 ];
