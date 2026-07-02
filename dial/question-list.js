@@ -63,7 +63,10 @@ QuickQuestion  = [
 ["You are invited to a potluck barbecue. What are you bringing?"],
 ["How legibile is your handwriting?"],
 ["If someone asks you to take their picture, how good of a photographer are you?"],
-
+["What do you think about camping?"],
+["What country would you like to visit?"],
+["Which is best: pancakes, waffles, or french toast?"],
+["What is your favorite season?"],
 
 
 
@@ -231,7 +234,7 @@ RidicQuestion = [
 ["What TV show or movie would you like to watch in smell-o-vision?"],
 ["You can put a toll booth anywhere in the world and get $1 every time someone passes. Where does it go?"],
 ["They say there are no stupid questions. But what is a truly stupid question?"],
-
+["What would make the most uncomfortable pajamas?"],
 
 
 ];
