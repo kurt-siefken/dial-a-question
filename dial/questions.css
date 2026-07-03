@@ -188,7 +188,7 @@ line-height: 1em;
 
 .startanimation {
   animation-name: startroll;
-  animation-duration: 1.1s;
+  animation-duration: .9s;
   animation-iteration-count: infinite;
 animation-timing-function: linear;
 }
@@ -201,7 +201,7 @@ animation-timing-function: linear;
 
 .stopanimation {
   animation-name: stoproll;
-  animation-duration: 1.1s;
+  animation-duration: .9s;
   animation-iteration-count: 1;
 animation-timing-function: ease-out;
 }

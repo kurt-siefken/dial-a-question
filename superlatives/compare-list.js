@@ -53,7 +53,7 @@ CompareCategory  = [
 ["piece of camping equipment"],
 ["playing card"],
 ["type of balloon animal"],
-["vending machine purchase"],
+["item in a vending machine"],
 ["item in a junk drawer"],
 ["magician's prop"],
 ["unhealthy food"],
@@ -62,7 +62,6 @@ CompareCategory  = [
 ["item in your medicine cabinet"],
 ["personal grooming equipment"],
 ["item in a doctor's office"],
-["type of pet"],
 ["toy"],
 ["piece of jewelry"],
 ["zoo animal"],
@@ -158,8 +157,8 @@ CompareAdjective  = [
 ["would you not want to bring through airport security"],
 ["would make the best fish bait"],
 ["would make the best splash"],
-
-
+["could make you cry"],
+["would you bring in for show and tell"],
 
 
 ];

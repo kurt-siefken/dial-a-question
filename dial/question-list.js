@@ -67,8 +67,17 @@ QuickQuestion  = [
 ["What country would you like to visit?"],
 ["Which is best: pancakes, waffles, or french toast?"],
 ["What is your favorite season?"],
-
-
+["When you think about a hot summer day, what do you think of?"],
+["You walk into a bookstore. What is the first section you go to?"],
+["Do you like taking naps? Do they reenergize you or make you feel groggy?"],
+["When you hear the words <i>required reading</i>, what do you think of?"],
+["You are sitting next to the worst possible seat-mate on a plane. What are they doing?"],
+["What is a profession you admire?"],
+["What is the best thing about a backyard barbecue cookout?"],
+["You are in a darts tournament with 100 adults picked at random. How many can you beat?"],
+["What is one word to describe your day yesterday?"],
+["Do you need anything from the store right now?"],
+["How do you pass the time on a long car ride?"],
 
 
 ];
@@ -135,7 +144,7 @@ DiscQuestion = [
 ["What is something everyone seems to love, but you just don't get it?"],
 ["If you were typecast in movies, what character would you always play?"],
 ["What's a fad that, in retrospect, was kind of cool?"],
-["If you were famous, what would you do a commercial for because you already use it?"],
+["If you were famous, what would you do a commercial for because you like the product?"],
 ["It's karaoke night! What are you singing? (And yes, you have to sing!)"],
 ["What clique did you belong to in high school? Would you still belong there today?"],
 ["What is the most DIY project you have ever accomplished?"],
@@ -147,10 +156,18 @@ DiscQuestion = [
 ["You have a 5 hour layover at an airport. How are you passing the time?"],
 ["If you had a personal assistant, what would you like help with?"],
 ["What would be your nightmare job?"],
-["You have to get a job as a tour guide. Where are you giving tours?"],
+["You have to get a job as a tour guide. Where would you like to give tours?"],
 ["You are suddenly given a $40 million film budget. What kind of movie are you making?"],
 ["If you were given $100 today to spend only on something fun, what would you buy?"],
-
+["If someone asked for advice with no other context, what would your advice be?"],
+["Where is the best place to scream?"],
+["What is your favorite thing about staying at a hotel?"],
+["What is a good discussion topic that should be a question in this game?"],
+["If you wrote a murder mystery, what would the profession of the murderer be?"],
+["What -ology (real or made up) would you like to study in school?"],
+["What non-horror movie (or other media) has a title that sounds like it could be a horror movie?"],
+["If you were a salesperson, what would you hate to sell?"],
+["If you wanted to change your vibe, what would your new fashion look like?"],
 
 ];
 
@@ -192,7 +209,7 @@ RidicQuestion = [
 ["You can put googly eyes on any one thing in the world without being caught. Where do they go?"],
 ["From now on, you can only speak in rhyme. How are you ordering dinner?"],
 ["You are dropped into a corn maze with 100 random people. How many can you beat out?"],
-["You get $5,000 if you can beat any celebrity in a thumb wrestling match. Who do you choose?"],
+["What celebrity would you like to play a friendly afternoon game of bocce with?"],
 ["If there was a museum dedicated to you, what would the gift shop sell?"],
 ["You have to eat dinner at a gas station. What do you get?"],
 ["What is something you would describe as sophomoric?"],
@@ -235,7 +252,12 @@ RidicQuestion = [
 ["You can put a toll booth anywhere in the world and get $1 every time someone passes. Where does it go?"],
 ["They say there are no stupid questions. But what is a truly stupid question?"],
 ["What would make the most uncomfortable pajamas?"],
-
+["You wake up tomorrow and find the most surprising text ever. Who is it from?"],
+["Pick a number between 20 and 40. Why did you pick that number?"],
+["You have to go out in public and not be recognized. What's your plan?"],
+["What is a real item or concept that you just can't fathom?"],
+["Other than eating, what is the best thing to do with chopsticks?"],
+["If instead of a convenience store, you went to an <i>inconvenience store</i>, what would you find there?"],
 
 ];
 
@@ -294,7 +316,7 @@ WorkQuestion = [
 ["You are put in charge of your company's social media. How scared should the company be?"],
 ["Office birthday parties: cool or cringe?"],
 ["The CEO has an important investor call on Halloween. What are you dressing them up as?"],
-
+["What item would you keep on your desk if you want to show your importance at work?"],
 
 
 
