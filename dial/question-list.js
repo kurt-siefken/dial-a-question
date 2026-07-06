@@ -220,7 +220,7 @@ RidicQuestion = [
 ["In a condiment fight, which condiment do you choose, and which do you give to your opponent?"],
 ["What animal would make the best stand-up comedian?"],
 ["If you had to choose any country as your middle name, what country would you choose?"],
-["You have to convince a room full of people that you are an alien. How do you do it?"],
+["You have to convince a room full of people that you are not an alien. How do you do it?"],
 ["You get a lifetime supply of any item you can buy at the dollar store. What do you choose?"],
 ["You are hired as a consultant to make elevators more fun. What are your suggestions?"],
 ["If you were made of of pasta, what kind of pasta would you look for in a mate?"],

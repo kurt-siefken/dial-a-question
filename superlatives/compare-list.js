@@ -28,7 +28,6 @@ CompareCategory  = [
 ["electric gadget"],
 ["item in a toolbox"],
 ["type of fastener"],
-["weatherproof clothing"],
 ["cleaning item"],
 ["odorous item"],
 ["Halloween costume"],
@@ -58,7 +57,7 @@ CompareCategory  = [
 ["magician's prop"],
 ["unhealthy food"],
 ["farmer's market purchase"],
-["thing at the circus"],
+["item in the circus"],
 ["item in your medicine cabinet"],
 ["personal grooming equipment"],
 ["item in a doctor's office"],
@@ -159,6 +158,9 @@ CompareAdjective  = [
 ["would make the best splash"],
 ["could make you cry"],
 ["would you bring in for show and tell"],
+["would your doctor prescribe for you"],
+["is currently plotting against you"],
+
 
 
 ];
