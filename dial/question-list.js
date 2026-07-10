@@ -165,9 +165,12 @@ DiscQuestion = [
 ["What is a good discussion topic that should be a question in this game?"],
 ["If you wrote a murder mystery, what would the profession of the murderer be?"],
 ["What -ology (real or made up) would you like to study in school?"],
-["What non-horror movie (or other media) has a title that sounds like it could be a horror movie?"],
+["What non-horror movie has a title that sounds like it could be a horror movie?"],
 ["If you were a salesperson, what would you hate to sell?"],
 ["If you wanted to change your vibe, what would your new fashion look like?"],
+["What is some famous artwork that you just don't understand why its famous?"],
+
+
 
 ];
 
@@ -184,9 +187,9 @@ DiscQuestion = [
 RidicQuestion = [
 ["If you were writing a political thriller, what would the president's name be?"],
 ["If our reality is just a simulation, what is the hypothesis being tested?"],
-["How many ice cubes could you carry for half a mile?"],
+["How many marbles could you carry for half a mile without dropping any?"],
 ["If you were stuck in a Walmart for three days, how would you pass the time?"],
-["What animal would you like to see on rollerskates?"],
+["What animal would you like to go rollerskating with?"],
 ["If you could run away and join the circus, what circus job would you want?"],
 ["If you had to eat a crayon, what color would you choose?"],
 ["What is a common word that sounds like it could be a swear word?"],
@@ -209,7 +212,7 @@ RidicQuestion = [
 ["You can put googly eyes on any one thing in the world without being caught. Where do they go?"],
 ["From now on, you can only speak in rhyme. How are you ordering dinner?"],
 ["You are dropped into a corn maze with 100 random people. How many can you beat out?"],
-["What celebrity would you like to play a friendly afternoon game of bocce with?"],
+["You can play a friendly afternoon game of bocce with any celebrity. Who are you choosing?"],
 ["If there was a museum dedicated to you, what would the gift shop sell?"],
 ["You have to eat dinner at a gas station. What do you get?"],
 ["What is something you would describe as sophomoric?"],
@@ -258,6 +261,9 @@ RidicQuestion = [
 ["What is a real item or concept that you just can't fathom?"],
 ["Other than eating, what is the best thing to do with chopsticks?"],
 ["If instead of a convenience store, you went to an <i>inconvenience store</i>, what would you find there?"],
+["If all animals were the same size and played in the World Cup, what animal would you bet on to win?"],
+["You have to make a mashed potato sculpture of a famous historical figure. Who do you choose?"],
+
 
 ];
 

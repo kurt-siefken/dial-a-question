@@ -107,9 +107,8 @@ let dinglist = [
 ["Name 4 types of crackers in the voice of a parrot", 10],
 ["Name 6 yoga poses, real or made up", 12],
 ["Name 4 types of brushes and 1 ointment", 12],
-
-
-
+["Name 4 things with shells and 2 people named Michelle", 13],
+["Name 3 tropical islands and 2 things you'd want on a deserted island", 11],
 
 ];
 
