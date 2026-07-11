@@ -263,7 +263,9 @@ RidicQuestion = [
 ["If instead of a convenience store, you went to an <i>inconvenience store</i>, what would you find there?"],
 ["If all animals were the same size and played in the World Cup, what animal would you bet on to win?"],
 ["You have to make a mashed potato sculpture of a famous historical figure. Who do you choose?"],
-
+["You wake up tomorrow and <i>the floor is lava</i> has become real. How do you make it out of your house?"],
+["If adults did show and tell, what item would you show off and what story would you tell?"],
+["If you went deep sea fishing, what would you be most surprised to reel in?"],
 
 ];
 
