@@ -78,7 +78,7 @@ QuickQuestion  = [
 ["What is one word to describe your day yesterday?"],
 ["Do you need anything from the store right now?"],
 ["How do you pass the time on a long car ride?"],
-
+["What do you think about plastic pink flamingos?"],
 
 ];
 
@@ -169,6 +169,11 @@ DiscQuestion = [
 ["If you were a salesperson, what would you hate to sell?"],
 ["If you wanted to change your vibe, what would your new fashion look like?"],
 ["What is some famous artwork that you just don't understand why its famous?"],
+["Who is someone you see or pass by regularly, but you don't know anything about them?"],
+["What is something that happens regularly in movies and tv that is too unrealistic?"],
+
+
+
 
 
 
@@ -265,7 +270,11 @@ RidicQuestion = [
 ["You have to make a mashed potato sculpture of a famous historical figure. Who do you choose?"],
 ["You wake up tomorrow and <i>the floor is lava</i> has become real. How do you make it out of your house?"],
 ["If adults did show and tell, what item would you show off and what story would you tell?"],
-["If you went deep sea fishing, what would you be most surprised to reel in?"],
+["If you went deep sea fishing, what is the most surprising thing you could reel in?"],
+["If you had to add a silent letter to your first name, what is the letter and where would you put it?"],
+
+
+
 
 ];
 
@@ -324,7 +333,7 @@ WorkQuestion = [
 ["You are put in charge of your company's social media. How scared should the company be?"],
 ["Office birthday parties: cool or cringe?"],
 ["The CEO has an important investor call on Halloween. What are you dressing them up as?"],
-["What item would you keep on your desk if you want to show your importance at work?"],
+["What item would you keep on your desk if you want to look important at work?"],
 
 
 
