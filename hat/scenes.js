@@ -155,7 +155,7 @@ const scenes = [
   "Bad racehorse names to bet on",
   "Things you do as a child that aren't as cute as an adult",
   "If celebrities had been the first person to walk on the moon",
-  "If actors were completely honest during award accpetance speeches",
+  "If actors were completely honest during award acceptance speeches",
   "Circus acts that didn't last long",
   "Odd things for a lounge singer to sing about",
   "If you could give children just one piece of advice, it would be...",
@@ -241,8 +241,8 @@ const scenes = [
   "Worst possible time to hear your credit card has been declined",
   "World's worst robbers",
   "Bad ways to break up with your partner",
-
-
+  "The hottest day on earth",
+  "Teachers that should be fired",
 
 
 
