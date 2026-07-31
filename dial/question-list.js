@@ -79,6 +79,10 @@ QuickQuestion  = [
 ["Do you need anything from the store right now?"],
 ["How do you pass the time on a long car ride?"],
 ["What do you think about plastic pink flamingos?"],
+["Are you hydrated right now?"],
+["Are you a speeder or do you stay under the limit?"],
+
+
 
 ];
 
@@ -171,8 +175,8 @@ DiscQuestion = [
 ["What is some famous artwork that you just don't understand why its famous?"],
 ["Who is someone you see or pass by regularly, but you don't know anything about them?"],
 ["What is something that happens regularly in movies and tv that is too unrealistic?"],
-
-
+["What kind of magic tricks do you find most fascinating?"],
+["How creeped out would you be to spend the night in a haunted hotel?"],
 
 
 
@@ -212,8 +216,7 @@ RidicQuestion = [
 ["A cactus wants to know what it feels like to be hugged. What do you do?"],
 ["You can replace the ball in any sport with a fruit. What ball and fruit do you choose?"],
 ["On a scale of 1 to 10, how cool is your postal carrier?"],
-["If there was one more verse in <i>The 12 Days of Christmas</i>, what would there be 13 of?"],
-["What movie should be remade as a musical?"],
+["What movie would you like to see remade as a musical?"],
 ["You can put googly eyes on any one thing in the world without being caught. Where do they go?"],
 ["From now on, you can only speak in rhyme. How are you ordering dinner?"],
 ["You are dropped into a corn maze with 100 random people. How many can you beat out?"],
@@ -226,7 +229,6 @@ RidicQuestion = [
 ["If you could rename the state (or province) you live in, what would you name it?"],
 ["When you die, where would you like to come back and haunt?"],
 ["In a condiment fight, which condiment do you choose, and which do you give to your opponent?"],
-["What animal would make the best stand-up comedian?"],
 ["If you had to choose any country as your middle name, what country would you choose?"],
 ["You have to convince a room full of people that you are not an alien. How do you do it?"],
 ["You get a lifetime supply of any item you can buy at the dollar store. What do you choose?"],
@@ -272,10 +274,10 @@ RidicQuestion = [
 ["If adults did show and tell, what item would you show off and what story would you tell?"],
 ["If you went deep sea fishing, what is the most surprising thing you could reel in?"],
 ["If you had to add a silent letter to your first name, what is the letter and where would you put it?"],
-
-
-
-
+["You have a cut on your forehead and you have to wear a decorated bandaid. What decoration do you choose?"],
+["How much would you tip a magical genie who granted you 3 wishes?"],
+["Someone says they bought you a birthday present that starts with the letter G. What do you hope it is?"],
+["What is a sentence that has probably never been said in all of human history?"],
 ];
 
 
