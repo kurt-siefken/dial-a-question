@@ -138,7 +138,6 @@ DiscQuestion = [
 ["What is something you are weirdly snobbish about?"],
 ["What is the weirdest coincidence you've ever experienced?"],
 ["What is something you do now that your teenage self would laugh at?"],
-["What is a weird tradition you or your family have?"],
 ["What would you do with some unexpected alone time?"],
 ["If you could change your birthday, what date would you choose?"],
 ["What would you think about going to DisneyWorld as an adult? Fun or not fun?"],
