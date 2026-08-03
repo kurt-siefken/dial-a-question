@@ -172,9 +172,9 @@ CompareAdjective  = [
 ["would you not want to spell in a spelling bee"],
 ["would you like to dream about tonight"],
 ["would make the best exclamation when you yell holy ___!"],
-
-
-
+["would make the best rapper's name"],
+["would you be most surprised to find on Etsy"],
+["would cheer you up in a hospital"],
 
 
 ];
