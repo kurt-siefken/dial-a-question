@@ -30,7 +30,7 @@ CompareCategory  = [
 ["cleaning item"],
 ["odorous item"],
 ["Halloween costume"],
-["ointment"],
+["lotion or ointment"],
 ["drug store purchase"],
 ["piece of stationery"],
 ["famous artwork"],
@@ -46,7 +46,7 @@ CompareCategory  = [
 ["salad dressing"],
 ["type of shoe"],
 ["piece of linen"],
-["type of souvenir"],
+["item in a souvenir shop"],
 ["classroom item"],
 ["piece of camping equipment"],
 ["playing card"],
@@ -60,12 +60,18 @@ CompareCategory  = [
 ["item in your medicine cabinet"],
 ["personal grooming equipment"],
 ["item in a doctor's office"],
-["toy"],
+["children's toy"],
 ["piece of jewelry"],
 ["zoo animal"],
 ["safari animal"],
 ["plant or flower"],
 ["type of pants"],
+["type of office supplies"],
+["item in a gym bag"],
+["fast food item"],
+["item that is exactly 4 letters"],
+["item found in a pet store"],
+["item from in a sci-fi movie"],
 
 
 
@@ -159,6 +165,11 @@ CompareAdjective  = [
 ["would you bring in for show and tell"],
 ["would your doctor prescribe for you"],
 ["is currently plotting against you"],
+["would you be most surprised to find while snorkeling"],
+["would you want on a long, boring drive"],
+
+
+
 
 
 

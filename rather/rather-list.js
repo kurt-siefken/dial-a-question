@@ -114,7 +114,7 @@ const Rather = [
 ["work the phrase <i>Spoiler alert!</i> into conversation twice a day"],
 ["have a mild emoji allergy"],
 ["sleep in a coffin"],
-["drink 5 Red Bulls a day for 2 weeks"],
+["drink 3 Red Bulls a day"],
 ["give a sermon speaking grammatically like Yoda"],
 ["live an Amish lifestyle for a month"],
 ["always smell like sun block"],
