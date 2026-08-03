@@ -167,7 +167,11 @@ CompareAdjective  = [
 ["is currently plotting against you"],
 ["would you be most surprised to find while snorkeling"],
 ["would you want on a long, boring drive"],
-
+["would you give your significant other on their birthday"],
+["would a tough guy carry around"],
+["would you not want to spell in a spelling bee"],
+["would you like to dream about tonight"],
+["would make the best exclamation when you yell holy ___!"],
 
 
 
