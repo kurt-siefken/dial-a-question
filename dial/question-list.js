@@ -82,9 +82,17 @@ QuickQuestion  = [
 ["Are you hydrated right now?"],
 ["Are you a speeder or do you stay under the limit?"],
 ["What would you not want to step on barefoot?"],
+["Do you like the date of your birthday? Would you change it if you could?"],
+
+
+
+
 
 
 ];
+
+
+
 
 
 
@@ -108,7 +116,6 @@ DiscQuestion = [
 ["What's a show or movie that you always stop to watch when it's on TV?"],
 ["What is a word that you say wrong on purpose because it's funny?"],
 ["What is something from your childhood that kids today won't understand?"],
-["What is a word or saying local to the area where you live?"],
 ["When you hear <i>a guy walks into a bar</i> jokes, what kind of bar do you picture?"],
 ["Where is the most embarrassing public place you've fallen asleep?"],
 ["When you hear the words <i>school lunch</i>, what do you think of?"],
@@ -136,7 +143,7 @@ DiscQuestion = [
 ["If you had a million dollars to donate to charity, which cause would you choose?"],
 ["What's a funny saying that only your family says?"],
 ["What is something you are weirdly snobbish about?"],
-["What is the weirdest coincidence you've ever experienced?"],
+["What is a weird coincidence you've ever experienced?"],
 ["What is something you do now that your teenage self would laugh at?"],
 ["What would you do with some unexpected alone time?"],
 ["If you could change your birthday, what date would you choose?"],
@@ -240,7 +247,7 @@ RidicQuestion = [
 ["Your travel agent offers a sale on a <i>mystery vacation</i>. Do you take it?"],
 ["If you learned how to hover 2 inches off the ground, how would it change your life?"],
 ["Do you think bowling pins feel pain, or are they excited to be knocked over?"],
-["If a ghost came over for dinner, what would you make for it?"],
+["If a ghost came over for dinner, what would you cook for them?"],
 ["What is the upside of stubbing your toe?"],
 ["If your high school had Yelp reviews, how would you rate it?"],
 ["If you had a personal strategist, what would you strategize about?"],
@@ -295,7 +302,7 @@ WorkQuestion = [
 ["Have you ever attended a conference call in your pajamas?"],
 ["How has AI impacted your job?"],
 ["What's the most mundane part of your job?"],
-["What would you do if a co&#8209],worker inexplicably joined a large Zoom call in a Spiderman mask?"],
+["What would you do if a co-worker inexplicably joined a large Zoom call in a Spiderman mask?"],
 ["If you work from home, what do you do with your saved commute time?"],
 ["Do you know your company's motto?"],
 ["How do you decompress after a particularly hard day at work?"],
@@ -323,7 +330,7 @@ WorkQuestion = [
 ["What is the best office supply to steal?"],
 ["If you had an unlimited budget, what would you buy for your home office?"],
 ["If your job was an adventure movie, what would the exciting action scene look like?"],
-["During a typical work day, what percentage of your co&#8209],workers arrive before you?"],
+["During a typical work day, what percentage of your co-workers arrive before you?"],
 ["You have the world's most honest business card. What is your new job title?"],
 ["You're in charge of the office field trip! Where are you taking your office-mates?"],
 ["What's a work-related sound that you immediately recognize?"],
