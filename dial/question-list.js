@@ -302,7 +302,8 @@ WorkQuestion = [
 ["Have you ever attended a conference call in your pajamas?"],
 ["How has AI impacted your job?"],
 ["What's the most mundane part of your job?"],
-["What would you do if a co-worker inexplicably joined a large Zoom call in a Spiderman mask?"],
+["What would you do if a co-worke
+r inexplicably joined a large Zoom call in a Spiderman mask?"],
 ["If you work from home, what do you do with your saved commute time?"],
 ["Do you know your company's motto?"],
 ["How do you decompress after a particularly hard day at work?"],

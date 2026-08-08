@@ -58,7 +58,6 @@ CompareCategory  = [
 ["farmer's market purchase"],
 ["item in the circus"],
 ["item in your medicine cabinet"],
-["personal grooming equipment"],
 ["item in a doctor's office"],
 ["children's toy"],
 ["piece of jewelry"],
@@ -76,6 +75,17 @@ CompareCategory  = [
 ["bathroom item"],
 ["collectible item"],
 ["item owned by a pirate"],
+["item in your nightstand"],
+["item in a hotel room"],
+["item used by a gardener"],
+["type of sports ball"],
+["video game or board game"],
+["type of art supply"],
+["type of transportation"],
+["road sign"],
+["item used for personal hygiene"],
+["item with a zipper"],
+["item that can fit in your pocket"],
 
 
 
@@ -97,7 +107,7 @@ CompareAdjective  = [
 ["is the most eyebrow raising"],
 ["is the most old fashioned"],
 ["is the most puzzling"],
-["is the biggest overachiever"],
+["is the most versatile"],
 ["would you set your friend up on a date with"],
 ["is the most fun to smell"],
 ["is the most effervescent"],
@@ -129,7 +139,6 @@ CompareAdjective  = [
 ["would you want as a tattoo"],
 ["would make a good hat"],
 ["is the most suspicious"],
-["would be voted most likely to succeed"],
 ["is best to bring on vacation"],
 ["would be best at a birthday party"],
 ["attracts the most bees"],
@@ -175,7 +184,7 @@ CompareAdjective  = [
 ["would you not want to spell in a spelling bee"],
 ["would you like to dream about tonight"],
 ["would make the best exclamation when you yell holy ___!"],
-["would make the best rapper's name"],
+["would make the best rapper's name: MC ___"],
 ["would you be most surprised to find on Etsy"],
 ["would cheer you up in a hospital"],
 ["would you like to hear spoken in a French accent"],
@@ -184,6 +193,12 @@ CompareAdjective  = [
 ["can we all agree is awesome"],
 ["would you write a children's book about called The Brave Little ___"],
 ["would make a good name for a heavy metal band"],
+["is the most underrated"],
+
+
+
+
+
 
 
 
