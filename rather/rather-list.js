@@ -110,7 +110,7 @@ const Rather = [
 ["drink a glass of orange juice each night after brushing your teeth"],
 ["wear sunglasses on the back of your head at all times"],
 ["write a thank you note every time you order a meal"],
-["have a small butterfly follow you everywhere you go"],
+["have a harmless bumblebee follow you everywhere you go"],
 ["work the phrase <i>Spoiler alert!</i> into conversation twice a day"],
 ["have a mild emoji allergy"],
 ["sleep in a coffin"],

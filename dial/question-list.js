@@ -283,7 +283,7 @@ RidicQuestion = [
 ["You have a cut on your forehead and you have to wear a decorated bandaid. What decoration do you choose?"],
 ["How much would you tip a magical genie who granted you 3 wishes?"],
 ["Someone says they bought you a birthday present that starts with the letter G. What do you hope it is?"],
-["What is a sentence that has probably never been said in all of human history?"],
+["Make up a sentence so full of bizarre words that it has probably never been said in all of human history."],
 ];
 
 
@@ -302,8 +302,7 @@ WorkQuestion = [
 ["Have you ever attended a conference call in your pajamas?"],
 ["How has AI impacted your job?"],
 ["What's the most mundane part of your job?"],
-["What would you do if a co-worke
-r inexplicably joined a large Zoom call in a Spiderman mask?"],
+["What would you do if a co-worker inexplicably joined a large Zoom call in a Spiderman mask?"],
 ["If you work from home, what do you do with your saved commute time?"],
 ["Do you know your company's motto?"],
 ["How do you decompress after a particularly hard day at work?"],
