@@ -161,7 +161,7 @@ CompareAdjective  = [
 ["deserves more respect"],
 ["is definitely a rich person's thing"],
 ["would be worst to clean with a toothbrush"],
-["would you be embarrassed to own"],
+["would you be embarrassed be seen with"],
 ["will be in your nightmares forever"],
 ["would help a detective solve a murder case"],
 ["would your teenage self have hated"],
@@ -194,8 +194,8 @@ CompareAdjective  = [
 ["would you write a children's book about called The Brave Little ___"],
 ["would make a good name for a heavy metal band"],
 ["is the most underrated"],
-
-
+["would you choose as your middle name"],
+["would make a good weapon for a murder mystery"],
 
 
 

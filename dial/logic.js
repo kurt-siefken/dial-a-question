@@ -10,8 +10,6 @@ const decks = {
     Work: WorkQuestion,
     Kids: KidQuestion,
     Positive: PosQuestion,
-    Travel: TravelQuestion,
-    Music: MusicQuestion,
 };
 
 const totalQuestions = Object.values(decks)
