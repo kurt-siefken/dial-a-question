@@ -68,7 +68,6 @@ CompareCategory  = [
 ["type of office supplies"],
 ["item in a gym bag"],
 ["fast food item"],
-["item that is exactly 4 letters"],
 ["item found in a pet supply store"],
 ["item from in a sci-fi movie"],
 ["item from Hawaii"],
@@ -86,6 +85,11 @@ CompareCategory  = [
 ["item used for personal hygiene"],
 ["item with a zipper"],
 ["item that can fit in your pocket"],
+["item found on a farm"],
+["item in a science lab"],
+["item found at a pool party"],
+
+
 
 
 
@@ -104,7 +108,6 @@ CompareAdjective  = [
 ["is the most life threatening"],
 ["is the most annoyingly pretentious"],
 ["is the most dignified"],
-["is the most eyebrow raising"],
 ["is the most old fashioned"],
 ["is the most puzzling"],
 ["is the most versatile"],
@@ -196,6 +199,11 @@ CompareAdjective  = [
 ["is the most underrated"],
 ["would you choose as your middle name"],
 ["would make a good weapon for a murder mystery"],
+["are you most likely to buy online at 2AM"],
+["would you leave to your grandkids in your will"],
+["would you want to get autographed by a famous person"],
+["would be a controversial topic at Thanksgiving dinner"],
+["would make the biggest mess if it exploded"],
 
 
 

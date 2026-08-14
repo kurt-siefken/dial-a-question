@@ -83,9 +83,9 @@ QuickQuestion  = [
 ["Are you a speeder or do you stay under the limit?"],
 ["What would you not want to step on barefoot?"],
 ["Do you like the date of your birthday? Would you change it if you could?"],
-
-
-
+["What is your favorite day of the week?"],
+["Do you find rainy days cozy, or are they depressing?"],
+["When meeting a friend for lunch at noon, what time do you actually show up?"],
 
 
 
@@ -202,7 +202,7 @@ DiscQuestion = [
 RidicQuestion = [
 ["If you were writing a political thriller, what would the president's name be?"],
 ["If our reality is just a simulation, what is the hypothesis being tested?"],
-["How many marbles could you carry for half a mile without dropping any?"],
+["How many jelly beans could you carry for half a mile without dropping any?"],
 ["If you were stuck in a Walmart for three days, how would you pass the time?"],
 ["What animal would you like to go rollerskating with?"],
 ["If you could run away and join the circus, what circus job would you want?"],
