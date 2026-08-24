@@ -86,6 +86,9 @@ QuickQuestion  = [
 ["What is your favorite day of the week?"],
 ["Do you find rainy days cozy, or are they depressing?"],
 ["When meeting a friend for lunch at noon, what time do you actually show up?"],
+["If you are home and the power goes out, what do you do to pass the time?"],
+["If you had a gift card for a hat store, what kind of hat would you get?"],
+["How often do you check the weather report?"],
 
 
 

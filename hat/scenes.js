@@ -9,7 +9,7 @@ const scenes = [
   "Bad things to hear while going into surgery",
   "Things that should not be a subscription service",
   "Lines that shouldn't be in your wedding vows",
-  "Bad ideas for scented candle",
+  "Bad ideas for a scented candle",
   "Events that shouldn't be live-streamed",
   "Things you shouldn't say in a job interview",
   "Things your should never tell your boss",
