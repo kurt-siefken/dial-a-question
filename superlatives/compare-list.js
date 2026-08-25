@@ -202,9 +202,8 @@ CompareAdjective  = [
 ["would you want to get autographed by a famous person"],
 ["would be a controversial topic at Thanksgiving dinner"],
 ["would make the biggest mess if it exploded"],
-
-
-
+["would you give to your dog to chew on"],
+["would make an incredibly boring podcast topic"],
 
 
 
