@@ -97,10 +97,10 @@ CompareCategory  = [
 ["item associated with Christmas"],
 ["thing that gets hot"],
 ["cartoon character"],
-
-
-
-
+["type of seat"],
+["item sold in a stadium"],
+["fragile item"],
+["item in your glove compartment or trunk"],
 
 ];
 
@@ -213,7 +213,7 @@ CompareAdjective  = [
 ["would make the biggest mess if it exploded"],
 ["would you give to your dog to chew on"],
 ["would make an incredibly boring podcast topic"],
-
+["should be banished from existence"],
 
 
 ];
