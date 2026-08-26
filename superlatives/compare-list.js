@@ -88,6 +88,15 @@ CompareCategory  = [
 ["item found on a farm"],
 ["item in a science lab"],
 ["item found at a pool party"],
+["book"],
+["popular item from the 1900s"],
+["piece of formal attire"],
+["item currenly in your refrigerator"],
+["item from a hardware store"],
+["item in a first aid kit"],
+["item associated with Christmas"],
+["thing that gets hot"],
+["cartoon character"],
 
 
 
@@ -147,7 +156,7 @@ CompareAdjective  = [
 ["would influencers do a viral video about"],
 ["would mean trouble if used by a supervillain"],
 ["has the best stories to tell"],
-["would be best on a Valentines Day date"],
+["would you bring on a romantic Valentines Day date"],
 ["makes everyone the most uncomfortable"],
 ["would make the worst neighbor"],
 ["would be worst when frozen"],
@@ -186,7 +195,7 @@ CompareAdjective  = [
 ["would you not want to spell in a spelling bee"],
 ["would you like to dream about tonight"],
 ["would make the best exclamation when you yell '<i>Holy ___!</i>'"],
-["would make the best rapper's name: MC ___"],
+["would make the best rapper's name"],
 ["would you be most surprised to find on Etsy"],
 ["would cheer you up in a hospital"],
 ["would you like to hear spoken in a French accent"],
