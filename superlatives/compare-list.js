@@ -115,7 +115,7 @@ CompareCategory  = [
 
 CompareAdjective  = [
 ["is the most life threatening"],
-["is the most annoyingly pretentious"],
+["is annoyingly pretentious"],
 ["is the most dignified"],
 ["is the most old fashioned"],
 ["is the most puzzling"],
@@ -158,7 +158,7 @@ CompareAdjective  = [
 ["has the best stories to tell"],
 ["would you bring on a romantic Valentines Day date"],
 ["makes everyone the most uncomfortable"],
-["would make the worst neighbor"],
+["would you hate to see in your neighbor's yard"],
 ["would be worst when frozen"],
 ["leaves the worst stain"],
 ["would you never buy used"],
@@ -214,7 +214,7 @@ CompareAdjective  = [
 ["would you give to your dog to chew on"],
 ["would make an incredibly boring podcast topic"],
 ["should be banished from existence"],
-
+["has no soul"],
 
 ];
 
