@@ -89,6 +89,10 @@ QuickQuestion  = [
 ["If you are home and the power goes out, what do you do to pass the time?"],
 ["If you had a gift card for a hat store, what kind of hat would you get?"],
 ["How often do you check the weather report?"],
+["With enough practice, do you think you could become a good knitter?"],
+["On a scale of 1 to 10, how spicy to you order your food?"],
+["What is a cool sound effect?"],
+["Do you think it would be fun to be in a community theater play?"],
 
 
 
@@ -186,7 +190,7 @@ DiscQuestion = [
 ["What is something that happens regularly in movies and tv that is too unrealistic?"],
 ["What kind of magic tricks do you find most fascinating?"],
 ["How creeped out would you be to spend the night in a haunted hotel?"],
-
+["If internet access was blocked on your phone, how would it affect you?"],
 
 
 
@@ -287,6 +291,11 @@ RidicQuestion = [
 ["How much would you tip a magical genie who granted you 3 wishes?"],
 ["Someone says they bought you a birthday present that starts with the letter G. What do you hope it is?"],
 ["Make up a sentence so full of bizarre words that it has probably never been said in all of human history."],
+["If you needed to launder money, what kind of business would you set up?"],
+
+
+
+
 ];
 
 

@@ -101,6 +101,10 @@ CompareCategory  = [
 ["item sold in a stadium"],
 ["fragile item"],
 ["item in your glove compartment or trunk"],
+["equipment used by an Olympic athlete"],
+
+
+
 
 ];
 
@@ -215,6 +219,9 @@ CompareAdjective  = [
 ["would make an incredibly boring podcast topic"],
 ["should be banished from existence"],
 ["has no soul"],
+["could you use to go sledding on"],
+["would you put on a cake"],
+
 
 ];
 
