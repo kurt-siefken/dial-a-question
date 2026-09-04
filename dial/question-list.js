@@ -191,7 +191,7 @@ DiscQuestion = [
 ["What kind of magic tricks do you find most fascinating?"],
 ["How creeped out would you be to spend the night in a haunted hotel?"],
 ["If internet access was blocked on your phone, how would it affect you?"],
-
+["What do you do when you are grumpy?"],
 
 
 ];
