@@ -221,6 +221,9 @@ CompareAdjective  = [
 ["has no soul"],
 ["could you use to go sledding on"],
 ["would you put on a cake"],
+["would you never buy in bulk at a wholesale store"],
+
+
 
 
 ];
