@@ -20,7 +20,7 @@ const Rather = [
 ["go to work in Snoopy pajamas"],
 ["go by the nickname &quot;Marbles&quot;"],
 ["visit the Museum of Nail Clippers"],
-["be interviewed for Doofus Magazine"],
+["be featured in Doofus Magazine"],
 ["have a video of you singing in the shower go viral"],
 ["compete in a high-stakes hopscotch tournament"],
 ["get a mild shock every time someone wins a prize on <i>The Price is Right</i>"],
