@@ -32,7 +32,7 @@ CompareCategory  = [
 ["Halloween costume"],
 ["ointment or lotion"],
 ["drug store purchase"],
-["piece of stationery"],
+["item from a stationery store"],
 ["famous artwork"],
 ["bakery food"],
 ["musical instrument"],

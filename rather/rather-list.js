@@ -49,7 +49,7 @@ const Rather = [
 ["work in a year-round Christmas store"],
 ["go to bat against a wild pitcher throwing a 100-mph fastball"],
 ["get a tattoo depicting your favorite song from high school"],
-["participate in a 24-hour dance-a-thon"],
+["participate in a 24 hour dance-a-thon"],
 ["spend the night in a graveyard"],
 ["work as a poetry busker at a renaissance faire"],
 ["live in Amarillo, Texas"],

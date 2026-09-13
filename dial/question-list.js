@@ -45,7 +45,7 @@ QuickQuestion  = [
 ["What do you impulse buy at the grocery store, even if it's not on the list?"],
 ["You get a free shirt of any color. What color do you choose?"],
 ["It's a snowy day, and you're stuck at home alone. What sounds fun to do?"],
-["What's your favorite number?"],
+["Do you have a favorite or lucky number?"],
 ["What is your favorite food topping (on anything)?"],
 ["What is your phone's wallpaper right now?"],
 ["What is the farthest you've ever walked?"],
@@ -93,8 +93,8 @@ QuickQuestion  = [
 ["On a scale of 1 to 10, how spicy to you order your food?"],
 ["What is a cool sound effect?"],
 ["Do you think it would be fun to be in a community theater play?"],
-
-
+["What is your second favorite color?"],
+["Do you prefer a cashier or using the self-checkout?"],
 
 ];
 
@@ -112,7 +112,7 @@ QuickQuestion  = [
 
 DiscQuestion = [
 ["What is a question you have that Google can't answer?"],
-["What is an embarrassing situation from your past that you're willing to admit?"],
+["Do you have an embarrassing situation from your past that you're willing to admit?"],
 ["What is something kind that a stranger has done for you?"],
 ["What is a small part of your life that you really enjoy?"],
 ["If you had to give a half hour talk right now, what could you talk about?"],
@@ -120,7 +120,6 @@ DiscQuestion = [
 ["What is a place whose name you know, but have no idea where it is?"],
 ["What's a pet peeve you find particularly annoying?"],
 ["What's a quality in someone that makes you respect them instantly?"],
-["What's a show or movie that you always stop to watch when it's on TV?"],
 ["What is a word that you say wrong on purpose because it's funny?"],
 ["What is something from your childhood that kids today won't understand?"],
 ["When you hear <i>a guy walks into a bar</i> jokes, what kind of bar do you picture?"],
@@ -148,7 +147,6 @@ DiscQuestion = [
 ["If you threw a message in a bottle into the sea, what would you write?"],
 ["If you were the leader of a popular band, how would you dress on stage?"],
 ["If you had a million dollars to donate to charity, which cause would you choose?"],
-["What's a funny saying that only your family says?"],
 ["What is something you are weirdly snobbish about?"],
 ["What is a weird coincidence you've ever experienced?"],
 ["What is something you do now that your teenage self would laugh at?"],
@@ -175,7 +173,7 @@ DiscQuestion = [
 ["What would be your nightmare job?"],
 ["You have to get a job as a tour guide. Where would you like to give tours?"],
 ["You are suddenly given a $40 million film budget. What kind of movie are you making?"],
-["If you were given $100 today to spend only on something fun, what would you buy?"],
+["If you were given $300 today to spend only on something fun, what would you buy?"],
 ["If someone asked for advice with no other context, what would your advice be?"],
 ["Where is the best place to scream?"],
 ["What is your favorite thing about staying at a hotel?"],
@@ -192,6 +190,9 @@ DiscQuestion = [
 ["How creeped out would you be to spend the night in a haunted hotel?"],
 ["If internet access was blocked on your phone, how would it affect you?"],
 ["What do you do when you are grumpy?"],
+["Have you ever laughed at an inappropriate time? What happened?"],
+
+
 
 
 ];
