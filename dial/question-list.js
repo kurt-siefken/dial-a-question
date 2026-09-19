@@ -95,6 +95,10 @@ QuickQuestion  = [
 ["Do you think it would be fun to be in a community theater play?"],
 ["What is your second favorite color?"],
 ["Do you prefer a cashier or using the self-checkout?"],
+["Would you rather play a game of mini golf, frisbee golf or regular golf?"],
+
+
+
 
 ];
 
@@ -192,6 +196,7 @@ DiscQuestion = [
 ["What do you do when you are grumpy?"],
 ["Have you ever laughed at an inappropriate time? What happened?"],
 ["At which restaurant would it be most fun to start a food fight?"],
+["If you could train to be a world-class Olympic athlete, what sport would you choose?"],
 
 
 ];
@@ -251,7 +256,7 @@ RidicQuestion = [
 ["Your fortune teller has a drive through lane. What do you ask into the speaker?"],
 ["Where do you draw the line on wearing sweatpants in public?"],
 ["You have to buy dinner for your nemesis. Where are you taking them?"],
-["Your travel agent offers a sale on a <i>mystery vacation</i>. Do you take it?"],
+["If your travel agent offered a deal on a mystery vacation, would you take it?"],
 ["If you learned how to hover 2 inches off the ground, how would it change your life?"],
 ["Do you think bowling pins feel pain, or are they excited to be knocked over?"],
 ["If a ghost came over for dinner, what would you cook for them?"],

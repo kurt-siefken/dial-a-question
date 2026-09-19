@@ -139,7 +139,7 @@ const scenes = [
   "Terrible catchphrases",
   "If people broke into song in real life",
   "What Olympic medalists are really thinking on the podium",
-  "The first words really spoken over the telephone",
+  "The first words actually spoken over the telephone",
   "What the pilot shouldn't have said while the intercom was on",
   "First lines of the worst poems ever written",
   "Things that shouldn't have ejector seats",
