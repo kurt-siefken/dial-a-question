@@ -102,7 +102,7 @@ CompareCategory  = [
 ["fragile item"],
 ["item in your glove compartment or trunk"],
 ["equipment used by an Olympic athlete"],
-
+["virus or pathogen"],
 
 
 
@@ -221,6 +221,11 @@ CompareAdjective  = [
 ["could you use to go sledding on"],
 ["would you put on a cake"],
 ["would you never buy in bulk at a wholesale store"],
+["would Santa Claus leave in your stocking"],
+["would two people in a romcom fall in love over"],
+["would you find in the lost and found"],
+
+
 
 
 

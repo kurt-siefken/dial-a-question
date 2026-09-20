@@ -96,7 +96,7 @@ QuickQuestion  = [
 ["What is your second favorite color?"],
 ["Do you prefer a cashier or using the self-checkout?"],
 ["Would you rather play a game of mini golf, frisbee golf or regular golf?"],
-
+["Do you like Halloween?"],
 
 
 
@@ -156,7 +156,7 @@ DiscQuestion = [
 ["What is something you do now that your teenage self would laugh at?"],
 ["What would you do with some unexpected alone time?"],
 ["If you could change your birthday, what date would you choose?"],
-["What would you think about going to DisneyWorld as an adult? Fun or not fun?"],
+["What would you think about going to Disney World as an adult? Fun or not fun?"],
 ["If you could make money by putting commericals in your dreams, would you do it?"],
 ["Where do you wish you had grown up?"],
 ["What is a memorable meal you had (either good or bad)?"],
