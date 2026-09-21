@@ -97,7 +97,7 @@ QuickQuestion  = [
 ["Do you prefer a cashier or using the self-checkout?"],
 ["Would you rather play a game of mini golf, frisbee golf or regular golf?"],
 ["Do you like Halloween?"],
-
+["If given the chance right now, how well could you hula hoop?"],
 
 
 ];
@@ -197,6 +197,10 @@ DiscQuestion = [
 ["Have you ever laughed at an inappropriate time? What happened?"],
 ["At which restaurant would it be most fun to start a food fight?"],
 ["If you could train to be a world-class Olympic athlete, what sport would you choose?"],
+["What is better than dessert?"],
+["Have you ever been somewhere that felt surreal? Where was it?"],
+
+
 
 
 ];
@@ -297,7 +301,7 @@ RidicQuestion = [
 ["Someone says they bought you a birthday present that starts with the letter G. What do you hope it is?"],
 ["Make up a sentence so full of bizarre words that it has probably never been said in all of human history."],
 ["If you needed to launder money, what kind of business would you set up?"],
-
+["Where would you not want to live because it is hard to spell?"],
 
 
 

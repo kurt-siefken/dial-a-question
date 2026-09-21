@@ -89,7 +89,7 @@ const Rather = [
 ["wear burlap underwear"],
 ["slap Santa Claus"],
 ["every time you buy something, tell the cashier a knock knock joke"],
-["join a debate team and argue that taxes should be higher"],
+["be a guest on cable news and argue that taxes should be higher"],
 ["run across a snow covered football field barefoot"],
 ["brush your teeth with mayonnaise"],
 ["climb the stairs to the top of the Empire State Building"],
