@@ -63,7 +63,7 @@ QuickQuestion  = [
 ["You are invited to a potluck barbecue. What are you bringing?"],
 ["How legibile is your handwriting?"],
 ["If someone asks you to take their picture, how good of a photographer are you?"],
-["What do you think about camping?"],
+["Do you think camping can be fun?"],
 ["What country would you like to visit?"],
 ["Which is best: pancakes, waffles, or french toast?"],
 ["What is your favorite season?"],
@@ -98,6 +98,14 @@ QuickQuestion  = [
 ["Would you rather play a game of mini golf, frisbee golf or regular golf?"],
 ["Do you like Halloween?"],
 ["If given the chance right now, how well could you hula hoop?"],
+["How low do you let your gas tank get before you start to get nervous?"],
+["Do you put on both of your shoes before tying them? Or do you tie after each one?"],
+["Do you drive around for a close parking spot, or do you find any spot and walk?"],
+["In the grocery store, do you only look for what you need, or do you walk every aisle?"],
+["If one of your shoelaces is looser than the other, do you retie it, retie them both, or let it go?"],
+["What do you think of the snooze button on the alarm clock?"],
+
+
 
 
 ];
@@ -199,7 +207,7 @@ DiscQuestion = [
 ["If you could train to be a world-class Olympic athlete, what sport would you choose?"],
 ["What is better than dessert?"],
 ["Have you ever been somewhere that felt surreal? Where was it?"],
-
+["How could you make yourself 20% more stylish?"],
 
 
 
