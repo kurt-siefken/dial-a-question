@@ -309,7 +309,12 @@ RidicQuestion = [
 ["Someone says they bought you a birthday present that starts with the letter G. What do you hope it is?"],
 ["Make up a sentence so full of bizarre words that it has probably never been said in all of human history."],
 ["If you needed to launder money, what kind of business would you set up?"],
-["Where would you not want to live because it is hard to spell?"],
+["Where would you not want to live because it is hard to spell when writing out your address?"],
+["You have a date planned with a successful politician, but you only have $30. What is your plan?"],
+["You have to get a stranger you've never met to think they remember you. What is your plan?"],
+["You have to ruin your best friend's birthday party without them getting upset. What do you do?"],
+["You have to mention a hobby to your co-workers, even though you've never tried it. What hobby do you pick?"],
+["You have to be so memorable to a stranger that 10 years from now they will remember you. What do you do?"],
 
 
 
