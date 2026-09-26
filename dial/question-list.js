@@ -103,8 +103,8 @@ QuickQuestion  = [
 ["Do you drive around for a close parking spot, or do you find any spot and walk?"],
 ["In the grocery store, do you only look for what you need, or do you walk every aisle?"],
 ["If one of your shoelaces is looser than the other, do you retie it, retie them both, or let it go?"],
-["What do you think of the snooze button on the alarm clock?"],
-
+["Do you use the snooze button on an alarm clock?"],
+["How well can you use chopsticks?"],
 
 
 
@@ -203,11 +203,17 @@ DiscQuestion = [
 ["If internet access was blocked on your phone, how would it affect you?"],
 ["What do you do when you are grumpy?"],
 ["Have you ever laughed at an inappropriate time? What happened?"],
-["At which restaurant would it be most fun to start a food fight?"],
+["Which restaurant would be most fun to start a food fight?"],
 ["If you could train to be a world-class Olympic athlete, what sport would you choose?"],
 ["What is better than dessert?"],
 ["Have you ever been somewhere that felt surreal? Where was it?"],
 ["How could you make yourself 20% more stylish?"],
+["If you were hosting an important foreign diplomat, where would you take them?"],
+["Are mimes over-hated or underrated? Defend your opinion."],
+["When was the last time you rode a bike? Would you like to ride more often?"],
+["What is the best way to move downhill?"],
+["What are the qualities of a good soup or stew?"],
+["What is the most distinguished letter for a middle initial?"],
 
 
 
@@ -297,7 +303,7 @@ RidicQuestion = [
 ["You have to go out in public and not be recognized. What's your plan?"],
 ["What is a real item or concept that you just can't fathom?"],
 ["Other than eating, what is the best thing to do with chopsticks?"],
-["If instead of a convenience store, you went to an <i>inconvenience store</i>, what would you find there?"],
+["Instead of a convenience store, you went to an <i>inconvenience store</i>. What did you buy?"],
 ["If all animals were the same size and played in the World Cup, what animal would you bet on to win?"],
 ["You have to make a mashed potato sculpture of a famous historical figure. Who do you choose?"],
 ["You wake up tomorrow and <i>the floor is lava</i> has become real. How do you make it out of your house?"],
@@ -312,11 +318,11 @@ RidicQuestion = [
 ["Where would you not want to live because it is hard to spell when writing out your address?"],
 ["You have a date planned with a successful politician, but you only have $30. What is your plan?"],
 ["You have to get a stranger you've never met to think they remember you. What is your plan?"],
-["You have to ruin your best friend's birthday party without them getting upset. What do you do?"],
+["You have to ruin your best friend's birthday party without making them upset. What do you do?"],
 ["You have to mention a hobby to your co-workers, even though you've never tried it. What hobby do you pick?"],
 ["You have to be so memorable to a stranger that 10 years from now they will remember you. What do you do?"],
-
-
+["If you were in the witness relocation program, where would be a good place to relocate?"],
+["For the next week, you can only walk by frolicking. How does this impact your life?"],
 
 ];
 

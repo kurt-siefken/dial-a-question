@@ -126,7 +126,9 @@ const Rather = [
 ["be tackled by a 250 pound linebacker"],
 ["bob for apples in a bucket of molasses"],
 ["dance for a crowd"],
-
+["analyze an advanced calculus theorem"],
+["work as a hazmat diver"],
+["make a snoring noise at 3 completely random times a day"],
 
 
 
