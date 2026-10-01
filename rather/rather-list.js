@@ -26,7 +26,7 @@ const Rather = [
 ["get a mild shock every time someone wins a prize on The Price is Right"],
 ["stand in line at the DMV"],
 ["have a disease named after you"],
-["go on a retreat for competitive mimes],
+["go on a retreat for competitive mimes"],
 ["have a sneeze that makes an old timey <i>ah-oooooga</i> sound"],
 ["wear a shirt with a picture of your face on it"],
 ["wear bright red contact lenses"],
