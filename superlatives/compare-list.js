@@ -103,8 +103,8 @@ CompareCategory  = [
 ["item in your glove compartment or trunk"],
 ["equipment used by an Olympic athlete"],
 ["virus or pathogen"],
-
-
+["item made with glass"],
+["item sold in the checkout lane"],
 
 ];
 
@@ -225,9 +225,9 @@ CompareAdjective  = [
 ["would two people in a romcom fall in love over"],
 ["are you likely to find in the lost and found"],
 ["is most misunderstood"],
-
-
-
+["could you throw the farthest"],
+["would you buy right now if money were no object"],
+["would make the best prize for a high school contest"],
 
 
 ];
