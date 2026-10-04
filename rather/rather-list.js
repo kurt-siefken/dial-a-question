@@ -130,9 +130,9 @@ const Rather = [
 ["make a snoring noise at 3 completely random times a day"],
 ["perform your spoken word poetry on stage"],
 ["wear an itchy wool sweater every day for a year"],
-["accidentally text your boss that you are not really sick"],
-
-
+["accidentally text your boss a romantic text"],
+["take a 3 month vow of silence"],
+["only order off the kids menu"],
 
 
 ];

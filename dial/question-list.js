@@ -105,6 +105,8 @@ QuickQuestion  = [
 ["If one of your shoelaces is looser than the other, do you retie it, retie them both, or let it go?"],
 ["Do you use the snooze button on an alarm clock?"],
 ["How well can you use chopsticks?"],
+["Are you good at puzzles and riddles?"],
+
 
 
 
@@ -154,7 +156,6 @@ DiscQuestion = [
 ["What word do you always spell wrong?"],
 ["If you could own any fictional vehicle, which would you choose?"],
 ["What's a non-dessert food that you could eat like a dessert?"],
-["You can choose any jigsaw puzzle. What is the picture you are piecing together?"],
 ["If you could open one small business specialty store, what would you sell?"],
 ["If you threw a message in a bottle into the sea, what would you write?"],
 ["If you were the leader of a popular band, how would you dress on stage?"],
@@ -197,7 +198,7 @@ DiscQuestion = [
 ["If you wanted to change your vibe, what would your new fashion look like?"],
 ["What is some famous artwork that you just don't understand why its famous?"],
 ["Who is someone you see or pass by regularly, but you don't know anything about them?"],
-["What is something that happens regularly in movies and tv that is too unrealistic?"],
+["What is something that happens regularly in movies and tv that annoys you because it is so unrealistic?"],
 ["What kind of magic tricks do you find most fascinating?"],
 ["How creeped out would you be to spend the night in a haunted hotel?"],
 ["If internet access was blocked on your phone, how would it affect you?"],
@@ -215,6 +216,14 @@ DiscQuestion = [
 ["What are the qualities of a good soup or stew?"],
 ["What is the most distinguished letter for a middle initial?"],
 ["What is the best way to spend your birthday?"],
+["What is a very minor regret you have in life?"],
+["What is the best cartoon character or superhero?"],
+["Are you an easy person to go on vacation with? Why or why not?"],
+["Would you rather eat from a food truck or a fancy restaurant?"],
+["Is soccer cool?"],
+["What is the hottest or coldest you have ever been?"],
+["When is a time you've thought 'I can't believe I am here' (either for good or bad reasons)?"],
+
 
 
 ];
@@ -315,7 +324,7 @@ RidicQuestion = [
 ["Someone says they bought you a birthday present that starts with the letter G. What do you hope it is?"],
 ["Make up a sentence so full of bizarre words that it has probably never been said in all of human history."],
 ["If you needed to launder money, what kind of business would you set up?"],
-["Where would you not want to live because it is hard to spell when writing out your address?"],
+["Where would you not want to live because it is hard to spell?"],
 ["You have a date planned with a successful politician, but you only have $30. What is your plan?"],
 ["You have to get a stranger you've never met to think they remember you. What is your plan?"],
 ["You have to ruin your best friend's birthday party without making them upset. What do you do?"],
@@ -323,6 +332,10 @@ RidicQuestion = [
 ["You have to be so memorable to a stranger that 10 years from now they will remember you. What do you do?"],
 ["If you were in the witness relocation program, where would be a good place to relocate?"],
 ["For the next week, you can only walk by frolicking. How does this impact your life?"],
+["Instead of counting sheep to fall asleep, what should you count to wake up?"],
+["The zombie apocalypse happens on Halloween when you are already dressed as a zombie. What's your plan to stay alive?"],
+
+
 
 ];
 
@@ -355,7 +368,7 @@ WorkQuestion = [
 ["What's a skill that's not necessarily work related but has helped you at your job?"],
 ["What is a work skill that you admire in other people?"],
 ["How do you take a break while working from home?"],
-["What is some office lingo that you find funny or annoying?"],
+["What is some office lingo that you find either funny or annoying?"],
 ["What did you want to be when you grew up, and what do you do now?"],
 ["What would you do if you had a 3-month paid sabbatical?"],
 ["You fall asleep in a work meeting. What are you dreaming about?"],
@@ -573,7 +586,8 @@ MusicQuestion = [
 ["Does album art change your impression of an album? If so, how?"],
 ["What live band surprised you most?"],
 ["What is some album art you really like?"],
-["What album has a killer opener song?"],["What good album has a bad lead single?"],
+["What album has a killer opener song?"],
+["What good album has a bad lead single?"],
 ["What is a guilty pleasure song you can admit you like?"],
 ["What is a meh album by a band you really like?"],
 ["What band lost you as their sound evolved?"],

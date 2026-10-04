@@ -105,6 +105,10 @@ CompareCategory  = [
 ["virus or pathogen"],
 ["item made with glass"],
 ["item sold in the checkout lane"],
+["item currently in your closet"],
+
+
+
 
 ];
 
@@ -199,7 +203,6 @@ CompareAdjective  = [
 ["are you most likely to dream about tonight"],
 ["would make the best exclamation when you yell 'Holy ___!'"],
 ["would make the best rapper's name"],
-["would you be most surprised to find on Etsy"],
 ["would cheer you up in a hospital"],
 ["would you like to hear spoken in a French accent"],
 ["would you like to see an artistic painting of"],
