@@ -103,7 +103,7 @@ QuickQuestion  = [
 ["Do you drive around for a close parking spot, or do you find any spot and walk?"],
 ["In the grocery store, do you only look for what you need, or do you walk every aisle?"],
 ["If one of your shoelaces is looser than the other, do you retie it, retie them both, or let it go?"],
-["Do you use the snooze button on an alarm clock?"],
+["Do you use the snooze button on an alarm?"],
 ["How well can you use chopsticks?"],
 ["Are you good at puzzles and riddles?"],
 
@@ -222,7 +222,8 @@ DiscQuestion = [
 ["Would you rather eat from a food truck or a fancy restaurant?"],
 ["Is soccer cool?"],
 ["What is the hottest or coldest you have ever been?"],
-["When is a time you've thought 'I can't believe I am here' (either for good or bad reasons)?"],
+["When is a time you've thought 'I can't believe I am here!' (either for good or bad reasons)?"],
+["What types of things do you buy online, and what would you rather buy in a store?"],
 
 
 
@@ -246,7 +247,7 @@ RidicQuestion = [
 ["What animal would you like to go rollerskating with?"],
 ["If you could run away and join the circus, what circus job would you want?"],
 ["If you had to eat a crayon, what color would you choose?"],
-["What is a common word that sounds like it could be a swear word?"],
+["What's your favorite expletive that is not a swear word?"],
 ["Every time you greet someone, you make a sound effect. What sound do you choose?"],
 ["If a giraffe joined your band, what instrument would they play?"],
 ["You won a free session to fly an airplane banner. What will the message say?"],
