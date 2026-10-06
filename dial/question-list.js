@@ -106,8 +106,8 @@ QuickQuestion  = [
 ["Do you use the snooze button on an alarm?"],
 ["How well can you use chopsticks?"],
 ["Are you good at puzzles and riddles?"],
-
-
+["Have you ever met anyone with the same birthday as you?"],
+["Do you like watching media with the subtitles on?"],
 
 
 ];
