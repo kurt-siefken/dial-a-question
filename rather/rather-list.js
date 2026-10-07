@@ -75,7 +75,7 @@ const Rather = [
 ["blow soap bubbles from your nose every time you wash your hands"],
 ["sort 3,000 ping-pong balls"],
 ["live in a glamping yurt"],
-["have a phone that plays showtunes while charging"],
+["have a phone that plays loud showtunes while charging"],
 ["attend a speed-dating event in a skimpy bathing suit"],
 ["give motivational speeches"],
 ["walk the red carpet wearing a chicken suit"],
@@ -124,7 +124,7 @@ const Rather = [
 ["work as an underwear model"],
 ["be tackled by a 250 pound linebacker"],
 ["bob for apples in a bucket of molasses"],
-["dance for a crowd"],
+["dance in front of an audience"],
 ["analyze an advanced calculus theorem"],
 ["work as a hazmat diver"],
 ["make a snoring noise at 3 completely random times a day"],
@@ -132,7 +132,10 @@ const Rather = [
 ["wear an itchy wool sweater every day for a year"],
 ["accidentally text your boss a romantic text"],
 ["take a 3 month vow of silence"],
-["only order off the kids menu"],
+["always order off the kids menu"],
+["walk through the forest alone at night"],
+
+
 
 
 ];

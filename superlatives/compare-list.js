@@ -220,17 +220,19 @@ CompareAdjective  = [
 ["would you give to your dog to chew on"],
 ["would make an incredibly boring podcast topic"],
 ["should be banished from existence"],
-["has no soul"],
 ["could you use to go sledding on"],
 ["would you put on a cake"],
 ["would you never buy in bulk at a wholesale store"],
 ["would Santa Claus leave in your stocking"],
 ["would two people in a romcom fall in love over"],
-["are you likely to find in the lost and found"],
 ["is most misunderstood"],
 ["could you throw the farthest"],
 ["would you buy right now if money were no object"],
-["would make the best prize for a high school contest"],
+["would make the best prize for winning a contest"],
+["would be worst to step on barefoot"],
+["would get the most cheers if shown on the jumbotron"],
+
+
 
 
 ];

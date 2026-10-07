@@ -108,7 +108,7 @@ QuickQuestion  = [
 ["Are you good at puzzles and riddles?"],
 ["Have you ever met anyone with the same birthday as you?"],
 ["Do you like watching media with the subtitles on?"],
-
+["Do you remember the name of your first grade teacher?"],
 
 ];
 
@@ -224,7 +224,7 @@ DiscQuestion = [
 ["What is the hottest or coldest you have ever been?"],
 ["When is a time you've thought 'I can't believe I am here!' (either for good or bad reasons)?"],
 ["What types of things do you buy online, and what would you rather buy in a store?"],
-
+["What is something memorable you've overheard from a stranger?"],
 
 
 ];
