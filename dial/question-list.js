@@ -109,6 +109,9 @@ QuickQuestion  = [
 ["Have you ever met anyone with the same birthday as you?"],
 ["Do you like watching media with the subtitles on?"],
 ["Do you remember the name of your first grade teacher?"],
+["Are you more productive at 8am or 8pm?"],
+
+
 
 ];
 
@@ -193,7 +196,6 @@ DiscQuestion = [
 ["What is a good discussion topic that should be a question in this game?"],
 ["If you wrote a murder mystery, what would the profession of the murderer be?"],
 ["What -ology (real or made up) would you like to study in school?"],
-["What non-horror movie has a title that sounds like it could be a horror movie?"],
 ["If you were a salesperson, what would you hate to sell?"],
 ["If you wanted to change your vibe, what would your new fashion look like?"],
 ["What is some famous artwork that you just don't understand why its famous?"],
@@ -225,6 +227,9 @@ DiscQuestion = [
 ["When is a time you've thought 'I can't believe I am here!' (either for good or bad reasons)?"],
 ["What types of things do you buy online, and what would you rather buy in a store?"],
 ["What is something memorable you've overheard from a stranger?"],
+["What is something that you just can't fathom?"],
+["What is something you can totally nerd out about?"],
+
 
 
 ];
@@ -311,7 +316,6 @@ RidicQuestion = [
 ["You wake up tomorrow and find the most surprising text ever. Who is it from?"],
 ["Pick a number between 20 and 40. Why did you pick that number?"],
 ["You have to go out in public and not be recognized. What's your plan?"],
-["What is a real item or concept that you just can't fathom?"],
 ["Other than eating, what is the best thing to do with chopsticks?"],
 ["Instead of a convenience store, you went to an <i>inconvenience store</i>. What did you buy?"],
 ["If all animals were the same size and played in the World Cup, what animal would you bet on to win?"],
@@ -335,6 +339,8 @@ RidicQuestion = [
 ["For the next week, you can only walk by frolicking. How does this impact your life?"],
 ["Instead of counting sheep to fall asleep, what should you count to wake up?"],
 ["The zombie apocalypse happens on Halloween when you are already dressed as a zombie. What's your plan to stay alive?"],
+["What non-horror movie has a title that sounds like it could be a horror movie?"],
+["If you had to rename the caesar salad after a different historical figure, what would you name it?"],
 
 
 

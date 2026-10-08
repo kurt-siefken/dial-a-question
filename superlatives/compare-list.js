@@ -39,7 +39,7 @@ CompareCategory  = [
 ["body organ"],
 ["item in a beach bag"],
 ["exercise equipment"],
-["flying insect"],
+["insect"],
 ["poisonous thing"],
 ["item used by a plumber"],
 ["rodent"],
@@ -106,7 +106,7 @@ CompareCategory  = [
 ["item made with glass"],
 ["item sold in the checkout lane"],
 ["item currently in your closet"],
-
+["thing that flies"],
 
 
 

@@ -127,15 +127,15 @@ const Rather = [
 ["dance in front of an audience"],
 ["analyze an advanced calculus theorem"],
 ["work as a hazmat diver"],
-["make a snoring noise at 3 completely random times a day"],
+["snort at 3 completely random times a day"],
 ["perform your spoken word poetry on stage"],
 ["wear an itchy wool sweater every day for a year"],
 ["accidentally text your boss a romantic text"],
 ["take a 3 month vow of silence"],
 ["always order off the kids menu"],
 ["walk through the forest alone at night"],
-
-
+["live right next to a busy highway"],
+["suffer from garlic knot syndrome"],
 
 
 ];
