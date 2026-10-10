@@ -110,7 +110,7 @@ QuickQuestion  = [
 ["Do you like watching media with the subtitles on?"],
 ["Do you remember the name of your first grade teacher?"],
 ["Are you more productive at 8am or 8pm?"],
-
+["You're the first person to walk into an empty classroom. Where do you sit?"],
 
 
 ];
@@ -247,7 +247,7 @@ DiscQuestion = [
 RidicQuestion = [
 ["If you were writing a political thriller, what would the president's name be?"],
 ["If our reality is just a simulation, what is the hypothesis being tested?"],
-["How many jelly beans could you carry for half a mile without dropping any?"],
+["How many jelly beans could you carry for a half mile without dropping any?"],
 ["If you were stuck in a Walmart for three days, how would you pass the time?"],
 ["What animal would you like to go rollerskating with?"],
 ["If you could run away and join the circus, what circus job would you want?"],
@@ -341,7 +341,11 @@ RidicQuestion = [
 ["The zombie apocalypse happens on Halloween when you are already dressed as a zombie. What's your plan to stay alive?"],
 ["What non-horror movie has a title that sounds like it could be a horror movie?"],
 ["If you had to rename the caesar salad after a different historical figure, what would you name it?"],
-
+["What is an excuse you could have for being late that no one would believe?"],
+["What is a word that sounds exactly like what it is?"],
+["If you had to hide a traffic cone in your house, where would you put it?"],
+["If could invent a holiday, what would it celebrate?"],
+["In 24 hours, you'll receive $1 for every mile you are from your current location. What's your strategy?"],
 
 
 ];
@@ -464,7 +468,6 @@ PosQuestion = [
 ["What is a compliment you've received that has really stuck with you?"],
 ["What is something you like about where you are in life right now?"],
 ["If you got some really good news, who are the first people you want to tell?"],
-
 
 
 
