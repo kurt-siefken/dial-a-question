@@ -107,7 +107,7 @@ CompareCategory  = [
 ["item sold in the checkout lane"],
 ["item currently in your closet"],
 ["thing that flies"],
-
+["soft thing"],
 
 
 ];
@@ -144,7 +144,6 @@ CompareAdjective  = [
 ["would make the best good luck charm"],
 ["would be coolest on a tee shirt"],
 ["would be most pleasing to a grandmother"],
-["is the most soulful"],
 ["would be most confusing to a time traveler"],
 ["is the most unpleasant when damp"],
 ["is the most ergonomically flawless"],
@@ -231,7 +230,7 @@ CompareAdjective  = [
 ["would make the best prize for winning a contest"],
 ["would be worst to step on barefoot"],
 ["would get the most cheers if shown on the jumbotron"],
-
+["is the hardest to describe"],
 
 
 

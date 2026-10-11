@@ -164,7 +164,7 @@ DiscQuestion = [
 ["If you were the leader of a popular band, how would you dress on stage?"],
 ["If you had a million dollars to donate to charity, which cause would you choose?"],
 ["What is something you are weirdly snobbish about?"],
-["What is a weird coincidence you've ever experienced?"],
+["What is a weird coincidence you've experienced?"],
 ["What is something you do now that your teenage self would laugh at?"],
 ["What would you do with some unexpected alone time?"],
 ["If you could change your birthday, what date would you choose?"],
@@ -281,7 +281,7 @@ RidicQuestion = [
 ["When you die, where would you like to come back and haunt?"],
 ["In a condiment fight, which condiment do you choose, and which do you give to your opponent?"],
 ["If you had to choose any country as your middle name, what country would you choose?"],
-["You have to convince a room full of people that you are not an alien. How do you do it?"],
+["You have to convince a room full of people that you are not an robot. How do you do it?"],
 ["You get a lifetime supply of any item you can buy at the dollar store. What do you choose?"],
 ["You are hired as a consultant to make elevators more fun. What are your suggestions?"],
 ["If you were made of of pasta, what kind of pasta would you look for in a mate?"],
@@ -344,9 +344,9 @@ RidicQuestion = [
 ["What is an excuse you could have for being late that no one would believe?"],
 ["What is a word that sounds exactly like what it is?"],
 ["If you had to hide a traffic cone in your house, where would you put it?"],
-["If could invent a holiday, what would it celebrate?"],
+["If you could invent a holiday, what would it celebrate?"],
 ["In 24 hours, you'll receive $1 for every mile you are from your current location. What's your strategy?"],
-
+["What would it be fun to fill a bathtub with, then get in?"],
 
 ];
 
