@@ -110,8 +110,8 @@ QuickQuestion  = [
 ["Do you like watching media with the subtitles on?"],
 ["Do you remember the name of your first grade teacher?"],
 ["Are you more productive at 8am or 8pm?"],
-["You're the first person to walk into an empty classroom. Where do you sit?"],
-
+["Where do you like to sit in a movie theater?"],
+["It's New Years Eve. Do you go out, stay home and watch the ball drop, or go to bed before midnight?"],
 
 ];
 
@@ -229,8 +229,8 @@ DiscQuestion = [
 ["What is something memorable you've overheard from a stranger?"],
 ["What is something that you just can't fathom?"],
 ["What is something you can totally nerd out about?"],
-
-
+["Would you visit Jurassic Park?"],
+["Where did you sit in the school classroom? Would you still choose that seat as an adult?"],
 
 ];
 
@@ -254,7 +254,7 @@ RidicQuestion = [
 ["If you had to eat a crayon, what color would you choose?"],
 ["What's your favorite expletive that is not a swear word?"],
 ["Every time you greet someone, you make a sound effect. What sound do you choose?"],
-["If a giraffe joined your band, what instrument would they play?"],
+["A monkey, a robot, a cactus, and a ghost start a band. Who plays what instrument?"],
 ["You won a free session to fly an airplane banner. What will the message say?"],
 ["If you spoke with a different accent while on the phone, what accent would you choose?"],
 ["Your obituary says you died in the stupidest way ever. How did you die?"],

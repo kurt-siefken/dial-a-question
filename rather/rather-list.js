@@ -133,9 +133,9 @@ const Rather = [
 ["accidentally text your boss a romantic text"],
 ["take a 3 month vow of silence"],
 ["always order off the kids menu"],
-["walk through the forest alone at night"],
-["live right next to a busy highway"],
-["suffer from garlic knot syndrome"],
+["walk along a forest trail alone at night"],
+["live in the median of a busy highway"],
+
 
 
 ];

@@ -99,7 +99,6 @@ CompareCategory  = [
 ["cartoon character"],
 ["type of seat"],
 ["item sold in a stadium"],
-["fragile item"],
 ["item in your glove compartment or trunk"],
 ["equipment used by an Olympic athlete"],
 ["virus or pathogen"],

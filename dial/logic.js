@@ -8,7 +8,6 @@ const decks = {
     Discussion: DiscQuestion,
     Ridiculous: RidicQuestion,
     Work: WorkQuestion,
-    Kids: KidQuestion,
     Positive: PosQuestion,
 };
 
