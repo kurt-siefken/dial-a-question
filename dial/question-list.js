@@ -112,6 +112,9 @@ QuickQuestion  = [
 ["Are you more productive at 8am or 8pm?"],
 ["Where do you like to sit in a movie theater?"],
 ["It's New Years Eve. Do you go out, stay home and watch the ball drop, or go to bed before midnight?"],
+["Do you remember your times tables?"],
+["Have you ever broken a bone?"],
+
 
 ];
 
@@ -249,7 +252,7 @@ RidicQuestion = [
 ["If our reality is just a simulation, what is the hypothesis being tested?"],
 ["How many jelly beans could you carry for a half mile without dropping any?"],
 ["If you were stuck in a Walmart for three days, how would you pass the time?"],
-["What animal would you like to go rollerskating with?"],
+["What animal would you like to push around in a wagon?"],
 ["If you could run away and join the circus, what circus job would you want?"],
 ["If you had to eat a crayon, what color would you choose?"],
 ["What's your favorite expletive that is not a swear word?"],
@@ -347,6 +350,10 @@ RidicQuestion = [
 ["If you could invent a holiday, what would it celebrate?"],
 ["In 24 hours, you'll receive $1 for every mile you are from your current location. What's your strategy?"],
 ["What would it be fun to fill a bathtub with, then get in?"],
+
+
+
+
 
 ];
 
