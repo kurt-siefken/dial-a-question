@@ -230,7 +230,7 @@ CompareAdjective  = [
 ["would be worst to step on barefoot"],
 ["would get the most cheers if shown on the jumbotron"],
 ["is the hardest to describe"],
-["would be most fun to sneak into a stranger's pocket"],
+["would be most fun to sneak into a stranger's purse"],
 
 
 ];
